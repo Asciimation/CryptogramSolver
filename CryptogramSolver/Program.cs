@@ -188,7 +188,10 @@ namespace CryptogramSolver
                         cryptogramToBeSolved = null;
                         foreach (Cryptogram cryptoToSolve in h.cryptograms)
                         {
-                            string numToSolve = cryptoToSolve.heading.Substring(2, cryptoToSolve.heading.Length - 2);
+                            // Get just the first part of the heading.
+                            int index = cryptoToSolve.heading.IndexOf(" ");
+                            string cryptoNumber = cryptoToSolve.heading.Substring(0, index);
+                            string numToSolve = cryptoNumber.Substring(2, cryptoNumber.Length - 2);
                             if (Int32.Parse(numToSolve) == h.cryptogramNumberToSolve)
                             {
                                 // Check if a patristrocrat or not.

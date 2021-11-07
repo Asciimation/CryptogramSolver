@@ -1,0 +1,1240 @@
+﻿import groovy.xml.MarkupBuilder
+
+////////////////////////////////////////////////////////////////////////////
+// Class to represent each Cryptogram.
+////////////////////////////////////////////////////////////////////////////
+class Cryptogram {
+
+     // Printable line size.
+     final LINESIZE = 55
+
+     def heading = ''
+     def cryptogram = ''
+     boolean isPatristocrat = false
+     def cleanedCryptogram = ''
+     // Lines split for printing.
+     ArrayList printableLines = []
+     // Alphabet collection of contact letters.
+     def contacts = [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []]
+     def solution = ''
+     def cipherAlphabet =''
+
+     Cryptogram(def heading, def cryptogram, def isPatristocrat) {
+         this.heading = heading
+         this.cryptogram = cryptogram
+         this.isPatristocrat = isPatristocrat
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Initialise cryptogram.
+
+////////////////////////////////////////////////////////////////////////////
+     void Initialise() {
+         this.CleanInputCryptogram()
+         this.GenerateContactList()
+         this.GeneratePrintableLines()
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Clean the input cryptogram.
+
+////////////////////////////////////////////////////////////////////////////
+     void CleanInputCryptogram() {
+         // println "Input cryptogram: " + this.cryptogram
+         String cleanedCryptogram = ''
+         cleanedCryptogram = this.cryptogram.replaceAll("'", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll(",", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll(":", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll(";", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("\\.", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("=", " ")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("!", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("\\?", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll('"', "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll('“', "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll('”', "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll('`', "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("\\(", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("\\)", "")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("/", " ")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("#", " ")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("’", " ")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("\\[", " ")
+         cleanedCryptogram = cleanedCryptogram.replaceAll("\\]", " ")
+         // Is this a patristocrat?
+         if ( this.isPatristocrat == true ){
+             println "Cryptogram is a patristocrat - removing spaces."
+             cleanedCryptogram = cleanedCryptogram.replaceAll(" ", "")
+         }
+
+         this.cleanedCryptogram = cleanedCryptogram
+         // println "Cleaned cryptogram: " + this.cleanedCryptogram
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Generate printable lines.
+
+////////////////////////////////////////////////////////////////////////////
+     void GeneratePrintableLines () {
+         def splitCryptogram = this.cryptogram.split()
+         int lineIndex = 0
+         if (splitCryptogram.size() == 1) {
+             String s = ''
+             splitCryptogram[0].each { letter ->
+                 s = s + letter
+                 if (s.size() > LINESIZE) {
+                     this.printableLines[lineIndex] = s
+                     lineIndex++
+                     s = ''
+                 }
+                 this.printableLines[lineIndex] = s
+             }
+         } else {
+             splitCryptogram.each { word ->
+                 if (this.printableLines[lineIndex] == null) {
+                     this.printableLines[lineIndex] = word
+                 } else {
+                     this.printableLines[lineIndex] = this.printableLines[lineIndex] + ' ' + word
+                 }
+                 String s = this.printableLines[lineIndex]
+                 if (s.size() > LINESIZE) {
+                     lineIndex++
+                 }
+             }
+         }
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Generate contact list.
+
+////////////////////////////////////////////////////////////////////////////
+     void GenerateContactList() {
+
+         // To generate the contact list we need just the letters and the spaces in
+         // the cryptogram.
+         // Replace spaces with '-'.
+         String unspacedCryptogram = cleanedCryptogram.replaceAll(" ", "-")
+         // Remove all * characters.
+         unspacedCryptogram = unspacedCryptogram.replaceAll("\\*", "")
+
+         println "Input cryptogram unspaced: " + unspacedCryptogram
+         // For each letter in the cryptogram...
+         unspacedCryptogram.eachWithIndex { letter, index ->
+
+             // Get the current character.
+             char c = letter.charAt(0)
+
+             // Convert the letter to an index.
+             int letterListIndex = c.minus(65)
+
+             // Check it is not a - character.
+             if ( c != '-'.toCharacter() ) {
+                 // Handle the initial letter.
+                 if (index == 0) {
+                     this.contacts[letterListIndex].add(['-',
+unspacedCryptogram[index + 1]])
+                     // Handle last letter.
+                 } else if (index == (unspacedCryptogram.length() - 1)) {
+
+this.contacts[letterListIndex].add([unspacedCryptogram[index - 1], '-'])
+                     // Handle the middle letters.
+                 } else {
+
+this.contacts[letterListIndex].add([unspacedCryptogram[index - 1], unspacedCryptogram[index + 1]])
+                 }
+             }
+         }
+
+         // Sort the contacts list alphabetically based on first letter.
+         this.contacts.each { contacts ->
+             def orderBy = new OrderBy({it[0]})
+             contacts.sort(orderBy)
+         }
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Create printable HTML file.
+
+////////////////////////////////////////////////////////////////////////////
+     void CreateHTMLFile ( File HTMLFileToPrint )
+     {
+         def writer = new StringWriter()
+         def markup = new MarkupBuilder(writer)
+         def letterCount = 0
+
+         markup.html{
+             head {
+                 'Cryptogram helper'
+                 style(type:'text/css', '''
+                      body {
+                         font-family: Courier New;
+                      }
+                      h1 {
+                          font-size: 1.7em;
+                      }
+                      h2 {
+                          font-size: 1.0em;
+                      }
+                      p {
+                         font-size: 0.6em;
+                         line-height: .75;
+                         white-space: pre;
+                      }
+                      p2 {
+                         font-size: 1.0em;
+                         line-height: .75;
+                         white-space: pre;
+                      }'''
+                 )
+             }
+             body {
+                 p "${this.heading}"
+
+                 // Print the cryptogram lines out.
+                 this.printableLines.each {line ->
+                     h1 "${line}"
+                 }
+                 mkp.yieldUnescaped '<br>'
+
+                 // Iterate each alphabet letter.
+                 this.contacts.eachWithIndex { letter, index ->
+                     // Convert to a character based on alphabet collection index.
+                     char c = index + 65
+                     // For each alphabet letter add the contact data into a set so we can get
+                     // a count of the unique items. Also build up a nice printable string for output.
+                     Set contactLetters = []
+                     String output = ''
+                     this.contacts[index].each { contact ->
+                         // Add the contacts.
+                         contactLetters.add(contact[0])
+                         contactLetters.add(contact[1])
+                         // Remove non contacts.
+                         contactLetters.remove('-')
+                         // Build a nice string for printing out.
+                         output = output + " ${contact[0]}${contact[1]} "
+                     }
+
+                     // Output the contacts table.
+                     println "    $c: ${output} :
+${contacts[index].size()}/${contactLetters.size()}"
+                     String contactLine = "    $c: ${output} :
+${contacts[index].size()}/${contactLetters.size()}"
+                     p "${contactLine}"
+                     letterCount = letterCount + contacts[index].size()
+                 }
+                 p "    ${letterCount}"
+
+                 // Print out the alphabets for key finding.
+                 mkp.yieldUnescaped '<br>'
+
+                 println()
+                 println()
+                 p2 "K1:"
+                 mkp.yieldUnescaped '<br>'
+                 p2 "     A B C D E F G H I J K L M N O P Q R S T U V W
+X Y Z"
+                 mkp.yieldUnescaped '<br>'
+                 p2 "     a b c d e f g h i j k l m n o p q r s t u v w
+x y z"
+                 mkp.yieldUnescaped '<br>'
+                 p2 "K2:"
+
+             }
+         }
+
+         // Output to the file.
+         HTMLFileToPrint.text = writer.toString()
+     }
+}
+
+////////////////////////////////////////////////////////////////////////////
+// Class to represent each work in an Cryptogram.
+////////////////////////////////////////////////////////////////////////////
+class AristocratWord {
+     int wordNumber
+     String word
+     boolean isNoun
+     def regex
+     def wordList
+     boolean isDone
+
+     AristocratWord (int wordNumber, String word, boolean isNoun, def regex, def wordList) {
+         this.wordNumber = wordNumber
+         this.word = word
+         this.isNoun = isNoun
+         this.regex = regex
+         this.wordList = wordList
+
+         // If there are no words in the list this word is done.
+         if (this.wordList.size() == 0) {
+             this.isDone = true
+         } else {
+             this.isDone = false
+         }
+     }
+}
+
+////////////////////////////////////////////////////////////////////////////
+// Main Cryptogram solver list.
+////////////////////////////////////////////////////////////////////////////
+class AutomaticCryptogramSolver {
+
+     // Printable line size.
+     final LINESIZE = 55
+
+     // File name of dictionary file.
+     def fileName = '.' + File.separator + 'dictionaries' + File.separator + 'english.txt'
+
+     // File names for output files.
+     def solsFile = File.separator + 'Sols.txt'
+     def solForKeysFile = '.' + File.separator + 'SolsForKeys.txt'
+
+     // Collection of cryptograms.
+     def cryptograms = []
+
+     // Single cryptogram to solve.
+     def cryptogramNumberToSolve = '0'
+
+     // Guessed letters.
+     String inputLetterGuess = ""
+
+     //  Cryptogram split into words.
+     def words = []
+
+     //  Cryptogram split into aristocrat words.
+     def aristocratWords = []
+
+     // Alphabets.
+     String plain = 'abcdefghijklmnopqrstuvwxyz'
+     String cipher = '??????????????????????????'
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Print out the alphabets.
+
+////////////////////////////////////////////////////////////////////////////
+     void PrintAlphabets( String plainAlphabet, String cipherAlphabet) {
+         // Loop through 26 times.
+         int nextLetter = 'A' as char
+         println()
+         print 'plain:  '
+         for (def i = 0; i < 26; i++) {
+             def index = cipherAlphabet.indexOf(nextLetter)
+             if (index == -1) {
+                 print('?')
+             } else {
+                 print(plainAlphabet.charAt(index))
+             }
+             nextLetter = nextLetter + 1
+         }
+         println()
+         println 'cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+         println 'plain:  ' + plainAlphabet
+         println 'cipher: ' + cipherAlphabet
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Given an encrypted word and a plain text word update
+     // our alphabets.
+
+////////////////////////////////////////////////////////////////////////////
+     void UpdateAlphabets(String cipherText, String plainText) {
+         if (cipherText.length() == plainText.length()) {
+             // For each letter in the encrypted word.
+             cipherText.eachWithIndex { cipherLetter, index ->
+                 // If we haven't already added this letter.
+                 if (!(cipher.contains(cipherLetter))) {
+                     // Get the matching plain text letter.
+                     def plainLetter = plainText[index]
+                     // Find it in the plain alphabet.
+                     int plainIndex = plain.indexOf(plainLetter)
+                     // And insert the encrypted letter in the cipher alphabet.
+                     cipher = cipher.substring(0, plainIndex) + cipherLetter + cipher.substring(plainIndex + 1)
+                 }
+             }
+         }
+         PrintAlphabets(plain, cipher)
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Given an encrypted letter get the known plain text letter
+     // and return it. If unknown return a '.' character.
+
+////////////////////////////////////////////////////////////////////////////
+     def GetDecryptedLetter(char letter) {
+         // Get the index.
+         int index = cipher.indexOf(letter.toUpperCase() as String)
+         if (index == -1) {
+             // Not found so return '.'
+             return '.'
+         } else {
+             // It was found so return the matching unencrypted letter.
+             return plain[index]
+         }
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Given an input string convert it to a regular expression
+     // with the appropriate back references. Compare with the
+     // cipher alphabet to insert any known letters.
+
+////////////////////////////////////////////////////////////////////////////
+     String ConvertToRegex(String input, boolean substitutions) {
+
+         def regex = new String[input.size()]
+
+         // Break the input word into string arrays.
+         input.eachWithIndex { letter, index ->
+             regex[index] = letter
+         }
+
+         // Back references start at 1.
+         int backRef = 1
+
+         // For each letter in the word.
+         regex.eachWithIndex { letterToReplace, indexCurrentLetter ->
+             // If the word contains other instances of this letter.
+             if (((regex =~ letterToReplace).count) > 1) {
+
+                 // Change the letter at index to a pattern.
+                 if (substitutions) {
+                     regex[indexCurrentLetter] = '(' + GetDecryptedLetter(letterToReplace as char) + ')'
+                 } else {
+                     regex[indexCurrentLetter] = '(.)'
+                 }
+
+                 // Replace all other instances with the current back reference.
+                 regex.eachWithIndex { letter, indexBackRefLetter ->
+                     if (letter == letterToReplace) {
+                         regex[indexBackRefLetter] = '\\' + backRef
+                     }
+                 }
+                 // Increment the back reference.
+                 backRef = backRef + 1
+             }
+         }
+
+         // Second pass we convert any remaining single characters to a dot.
+         regex.eachWithIndex { letterToReplace, indexCurrentLetter ->
+             // If the word contains other instances of this letter.
+             if (regex[indexCurrentLetter].length() == 1) {
+                 // Change the letter at index to '.' or the known plain text letter if doing substitutions.
+                 if (substitutions) {
+                     regex[indexCurrentLetter] = GetDecryptedLetter(letterToReplace as char)
+                 } else {
+                     regex[indexCurrentLetter] = '.'
+                 }
+             }
+         }
+
+         // Add the anchors.
+         def regexString = regex.join('')
+         regexString = '^' + regexString + '$'
+         return regexString
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Remove words with mismatching letters.
+     // For each word check the known letter substitutions. We can remove any
+     // words from the list where the letters in the words don't match the
+     // already known letters.
+
+////////////////////////////////////////////////////////////////////////////
+     def RemoveWordsWithLetterMismatches(wordList, cipherWord) {
+         def cleanedList = []
+
+         wordList.each { word ->
+             // Check that any pairings match our known matches.
+             boolean knownLetterMismatch = false
+             // For each known cipher letter for this word see if there is a known plain letter.
+             word.eachWithIndex { String letter, int i ->
+                 // If it is a letter.
+                 char l = letter as char
+                 if (l.isLetter()) {
+                     // Get the given cipher letter.
+                     def givenCipher = cipherWord.charAt(i)
+                     // See if there is a matching known cipher letter.
+                     def knownCipher = cipher.charAt((letter as char) - 97)
+
+                     // If it is known and it doesn't match the given letter reject this word.
+                     if (((knownCipher as char) != ('?' as char)) && (knownCipher != givenCipher)) {
+                         knownLetterMismatch = true
+                     }
+                 }
+             }
+
+             // If the word is valid add it to the cleaned word list.
+             if (!knownLetterMismatch) {
+                 cleanedList << word
+             }
+         }
+         return cleanedList
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Get a list of words from a file given an input cipher word.
+     // - Given an cipher word generate a regex with known letter substitutions.
+     // - For each line in the file check the line against the regex with
+     // substitutions.
+     // - If a line matches generate a regex for the line and the cipher word
+     // with no substitutions and compare them.
+     // - If they match compare each letter in the line with each letter in the
+     // cipher word.
+     // - In none match (i.e. no letter encodes to itself) add the word to our
+     // list of possible matches.
+
+////////////////////////////////////////////////////////////////////////////
+     def GetWordListFromFileUsingInputWord(String fileName, String
+cipherWord) {
+         def list = []
+         def wordRegexSubs = ConvertToRegex(cipherWord, true)
+
+         // Read from the dictionary file with the regex with substitutions.
+         new File(fileName).eachLine { line ->
+             if (line =~ wordRegexSubs) {
+                 // Convert each dictionary word into a regex with no substitutions.
+                 def wordRegexNoSubs = ConvertToRegex(cipherWord, false)
+                 def lineRegex = ConvertToRegex(line, false)
+                 // If the regex of this dictionary word matches our original regex.
+                 if (lineRegex.equalsIgnoreCase(wordRegexNoSubs)) {
+                     // Compare the letters of the cipher word with the plain word
+                     // and reject any word with a letter that encodes to itself.
+                     def encodeToSelf = false
+                     cipherWord.eachWithIndex { cipherLetter, index ->
+                         // Are they equal?
+                         if
+(cipherLetter.toString().equalsIgnoreCase(line[index])) {
+                             encodeToSelf = true
+                         }
+                     }
+                     // If the word isn't valid we don't add it.
+                     if (!encodeToSelf) {
+                         list << new String(line)
+                     }
+                 }
+             }
+         }
+         return list
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Get a list of words from a given list that match the given regular
+     // expression.
+
+////////////////////////////////////////////////////////////////////////////
+     static def GetWordListFromListUsingRegex(def wordList, String regex) {
+         def list = []
+         wordList.each { line ->
+             if (line =~ regex) {
+                 list << new String(line as String)
+             }
+         }
+         //println 'list: (' + list.size() + '):' + list
+         return list
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Given two words build a mapping of the position of
+     // identical letters in both.
+
+////////////////////////////////////////////////////////////////////////////
+     static def GetMatchingLetters(String word1, String word2) {
+         def matches = []
+         // For each letter in the first word.
+         word1.eachWithIndex { letter1, index1 ->
+             // Compare against each letter in the second.
+             word2.eachWithIndex { letter2, index2 ->
+                 if (letter1 == letter2) {
+                     def pair = new int[2]
+                     pair[0] = index2
+                     pair[1] = index1
+                     matches.add(pair)
+                 }
+             }
+         }
+         return matches
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Input is two lists.
+     // A list of words we compare against and a list of words we wish to compare.
+     // The list were generated from a dictionary search based on a regex so all
+     // the words in the list match a particular pattern.
+     // We return a third list which is the list of words we have compared with
+     // any words that didn't have any possible matches to the first list
+     // removed.
+     // The comparision is based on checking letter matches between the two words.
+     // A match is a pair of letters common to both words. If all the pairs of
+     // letters in the positions match up we have potentially matching words.
+     // If there are no possible matches at all that word can't be correct so
+     // it is removed from the list.
+     // We return a list of all words with the non matches removed.
+
+////////////////////////////////////////////////////////////////////////////
+     static def ReduceList(matches, listOfWordsToCompare,
+listToCompareAgainst) {
+
+         // Our return list starts as a copy of the list of words to compare.
+         def reducedList = listOfWordsToCompare.collect()
+
+         // For each word in the list of words to compare.
+         listOfWordsToCompare.each { modifyListWord ->
+
+             // We assume we have no possible matching words.
+             boolean wordMatch = false
+
+             // Compare with each word in the list of words to compare against.
+             listToCompareAgainst.each { compareListWord ->
+
+                 // Check if all the letters match.
+                 // Assume they do and set the flag to false if there are
+                 // any mismatches.
+                 boolean letterMatch = true
+                 matches.each { pair ->
+                     //println "modifyListWord: " + modifyListWord + "
+compareListWord: " + compareListWord + " Pair: " + pair[0] + ":" + pair[1]
+                     if
+(!(modifyListWord[pair[0]].toString().equalsIgnoreCase(compareListWord[pair[1]].toString())))
+{
+                         // The letters don't match.
+                         letterMatch = false
+                     }
+                 }
+                 // If all the letters matched we might have a matching word.
+                 if (letterMatch) {
+                     wordMatch = true
+                 }
+             }
+
+             // We remove the word if there were no possible matches at all.
+             if (!wordMatch) {
+                 reducedList.remove(modifyListWord)
+             }
+         }
+         return reducedList
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Compare and reduce lists.
+
+////////////////////////////////////////////////////////////////////////////
+     void CompareAndReduceLists(int list1Index, int list2Index) {
+         print '.'
+         def matches = []
+         AristocratWord aristocratWord1 = aristocratWords[list1Index] as AristocratWord
+         AristocratWord aristocratWord2 = aristocratWords[list2Index] as AristocratWord
+
+         if (aristocratWord1.wordList.size() > 1) {
+             matches = GetMatchingLetters(aristocratWord2.word,
+aristocratWord1.word)
+             // Only compare if we have matching letters between words.
+             if (matches.size() > 0) {
+                 def reducedList = ReduceList(matches, aristocratWord1.wordList, aristocratWord2.wordList)
+                 aristocratWord1.wordList = reducedList
+                 //println("1 " + '(' + aristocratWord1.wordList.size()
++ ')' + " -> 2 " + '(' + aristocratWord2.wordList.size() + ')' + " 
++ done...")
+             }
+         }
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Compare lists.
+     // Then reduce the list based on the matches.
+
+////////////////////////////////////////////////////////////////////////////
+     void CompareLists() {
+         println 'Comparing lists.'
+         // Compare each word against all other words if different.
+         aristocratWords.eachWithIndex { aristocratWordToCompare, index ->
+             // If the list needs further reducing.
+             if (aristocratWordToCompare.isDone == false) {
+                 // Compare against all other words in turn.
+                 for (int j = 0; j < aristocratWords.size(); j++) {
+
+                     // If we're on the last word in the list compare to the first.
+                     if (j == (aristocratWords.size() - 1)) {
+                         // If the words are different.
+                         if
+(!((aristocratWordToCompare.word).equalsIgnoreCase((aristocratWords[0].word))))
+{
+                             // And neither is a noun.
+                             if ((aristocratWordToCompare.isNoun ==
+false) && (aristocratWords[0].isNoun == false)) {
+                                 CompareAndReduceLists(index, 0)
+                             }
+                         }
+                     } else {
+                         // If the words are different.
+                         if
+(!((aristocratWordToCompare.word).equalsIgnoreCase((aristocratWords[j].word))))
+{
+                             // And neither is a noun.
+                             if ((aristocratWordToCompare.isNoun ==
+false) && (aristocratWords[j].isNoun == false)) {
+                                 CompareAndReduceLists(index, j)
+                             }
+                         }
+                     }
+                 }
+
+                 // If the list we just worked on now only has one word we update our alphabets and regenerate
+                 // all the regexes before doing more comparisons.
+                 if (aristocratWordToCompare.wordList.size() == 1) {
+                     UpdateAndRegenerateAllLists(aristocratWordToCompare)
+                 }
+             }
+         }
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Update and regenerate regexes.
+     // When a word list gets to one word we can update our alphabets and
+     // regenerate all regexes and reduce the lists.
+
+////////////////////////////////////////////////////////////////////////////
+     void UpdateAndRegenerateAllLists(AristocratWord aristocratWord) {
+         // If the list we just worked on now only has one word we update our alphabets and regenerate
+         // all the regexes before doing more comparassions.
+         println ''
+         //println 'Word ' + aristocratWord.wordNumber + ': ' + aristocratWord.wordList[0] + ' (' + aristocratWord.word + ')'
+         String plainText = aristocratWord.wordList?.find { true }
+         UpdateAlphabets(aristocratWord.word.toUpperCase(), plainText)
+
+         // Update that we have done this word.
+         aristocratWord.isDone = true
+
+         // Update all the regexes for ALL words and remove non matching words.
+         aristocratWords.each { aristocratWordToUpdate ->
+             //println 'Word: ' + aristocratWordToUpdate.wordNumber
+             if ((aristocratWordToUpdate.isDone == false) && (aristocratWordToUpdate.isNoun == false)) {
+                 // Generate the regex.
+                 aristocratWordToUpdate.regex = ConvertToRegex(aristocratWordToUpdate.word, true)
+                 // Reduce the list based on the new regex.
+                 //println '  Before GetWordListFromListUsingRegex: ' +
+aristocratWordToUpdate.wordList.size()
+                 aristocratWordToUpdate.wordList = GetWordListFromListUsingRegex(aristocratWordToUpdate.wordList,
+aristocratWordToUpdate.regex)
+                 //println '  After GetWordListFromListUsingRegex: ' +
+aristocratWordToUpdate.wordList.size()
+
+                 // Remove any words that don't match the the already known solved letters.
+                 //println '  Before RemoveWordsWithLetterMismatches: '
++ aristocratWordToUpdate.wordList.size()
+                 aristocratWordToUpdate.wordList = RemoveWordsWithLetterMismatches(aristocratWordToUpdate.wordList,
+aristocratWordToUpdate.word)
+                 //println '  After RemoveWordsWithLetterMismatches: ' +
+aristocratWordToUpdate.wordList.size()
+
+                 // Now for any words not already done we recursively keep reducing if any other
+                 // lists now only have one words in them.
+                 if (aristocratWordToUpdate.wordList.size() == 1) {
+                     //println 'Recursion!'
+                     UpdateAndRegenerateAllLists(aristocratWordToUpdate)
+                 }
+             } else {
+                 //println '  Done'
+             }
+         }
+     }
+
+////////////////////////////////////////////////////////////////////////////
+     // Get the word count.
+
+////////////////////////////////////////////////////////////////////////////
+     int GetWordCount() {
+         int wordCount = 0
+         // Sum all the word lists.
+         aristocratWords.each { aristocratWordToCount ->
+             wordCount = wordCount + aristocratWordToCount.wordList.size()
+         }
+         return wordCount
+     }
+
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Print out the word lists and count.
+
+////////////////////////////////////////////////////////////////////////////
+     void PrintWordLists() {
+         // Print all the word lists.
+         println ''
+         aristocratWords.each { aristocratWordToPrint ->
+             println aristocratWordToPrint.wordNumber + ' (' + aristocratWordToPrint.regex + ') : ' + aristocratWordToPrint.word + ':
+(' + aristocratWordToPrint.wordList.size() + '):' + aristocratWordToPrint.wordList
+         }
+         println ''
+         println 'Word count: ' + GetWordCount()
+         println ''
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Print out the substitutions.
+
+////////////////////////////////////////////////////////////////////////////
+     void PrintSubstitutions() {
+
+         // Print out the letter counts.
+         words.eachWithIndex { word, index ->
+             def wordSize = word.toString().length()
+             // Print the word number
+             print index + 1
+             def spacesToPrint = wordSize - (index +
+1).toString().length() + 2I
+
+             for (def i = 0; i < spacesToPrint; i++) {
+                 // Print the correct number of padding spaces.
+                 print ' '
+             }
+         }
+         println ''
+
+         // Print out all the cipher words.
+         words.each { word ->
+             print word + '  '
+         }
+         println ''
+
+         // For each word we have.
+         words.each { currentWord ->
+             // If it is a noun print an extra space.
+             if (currentWord.contains('*')) {
+                 print ' '
+             }
+             // Look at each letter.
+             currentWord.each { String letter ->
+                 // If it is a letter.
+                 char l = letter as char
+                 if (l.isLetter()) {
+                     // Look at each letter in the cipher alphabet.
+                     def matchingIndex = -1
+                     cipher.eachWithIndex { String cipherLetter, int i ->
+                         // Does it match?
+                         if (letter.equalsIgnoreCase(cipherLetter)) {
+                             // If it matched remember the index.
+                             matchingIndex = i
+                         }
+                     }
+                     // If there was a match print it.
+                     if (matchingIndex > -1) {
+                         print(plain[matchingIndex])
+                     } else {
+                         print ' '
+                     }
+                 }
+             }
+             // Print a space.
+             print '  '
+         }
+         println ' '
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Update the solution for an Cryptogram.
+
+////////////////////////////////////////////////////////////////////////////
+     void UpdateCryptogramSolution(Cryptogram a) {
+
+         // Look at each letter.
+         a.cryptogram.each { String letter ->
+             // If it is a letter.
+             char l = letter as char
+             if (l.isLetter()) {
+                 // Look at each letter in the cipher alphabet.
+                 def matchingIndex = -1
+                 cipher.eachWithIndex { String cipherLetter, int i ->
+                     // Does it match?
+                     if (letter.equalsIgnoreCase(cipherLetter)) {
+                         // If it matched remember the index.
+                         matchingIndex = i
+                     }
+                 }
+                 // If there was a match print it.
+                 if (matchingIndex > -1) {
+                     a.solution = a.solution + (plain[matchingIndex])
+                 } else {
+                     a.solution = a.solution + ' '
+                 }
+             } else {
+                 a.solution = a.solution + l
+             }
+         }
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Print out a single solution to the sols file.
+
+////////////////////////////////////////////////////////////////////////////
+     void PrintSolToFile(def inputFile, def sol) {
+
+         // Use the directory of the digital cons file to be the directory of the sols file.
+         def outputFile = inputFile.take(inputFile.lastIndexOf('/'))
+         outputFile = outputFile + solsFile
+         File file = new File(outputFile)
+
+         // For the given cryptogram.
+         Cryptogram a = this.cryptograms[sol]
+
+         // Output to screen.
+         println a.heading
+         println a.cryptogram
+         println a.solution
+         println()
+
+         // Output to file.
+         file.append '\n'
+         file.append a.heading + '\n'
+         file.append a.cryptogram + '\n'
+         file.append a.solution + '\n'
+
+         // Print the alphabets.
+         int nextLetter = 'A' as char
+         file.append 'plain:  '
+         for (def i = 0; i < 26; i++) {
+             def index = a.cipherAlphabet.indexOf(nextLetter)
+             if (index == -1) {
+                 file.append ('?')
+             } else {
+                 file.append(plain.charAt(index))
+             }
+             nextLetter = nextLetter + 1
+         }
+         file.append '\n'
+         file.append 'cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ' + '\n'
+         file.append 'plain:  ' + plain + '\n'
+         file.append 'cipher: ' + a.cipherAlphabet + '\n\n'
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Print out all solutions to the sols file.
+
+////////////////////////////////////////////////////////////////////////////
+     void PrintAllSolsToFile(def inputFile) {
+
+         // Use the directory of the digital cons file to be the directory of the sols file.
+         def outputFile = inputFile.take(inputFile.lastIndexOf('/'))
+         outputFile = outputFile + solsFile
+         File file = new File(outputFile)
+
+         // For each aristocrat...
+         this.cryptograms.each { Cryptogram a ->
+
+             // Output to screen.
+             println a.heading
+             println a.cryptogram
+             println a.solution
+             println()
+
+             // Output to file.
+             file.append '\n'
+             file.append a.heading + '\n'
+             file.append a.cryptogram + '\n'
+             file.append a.solution + '\n'
+
+             // Print the alphabets.
+             int nextLetter = 'A' as char
+             file.append 'plain:  '
+             for (def i = 0; i < 26; i++) {
+                 def index = a.cipherAlphabet.indexOf(nextLetter)
+                 if (index == -1) {
+                     file.append ('?')
+                 } else {
+                     file.append(plain.charAt(index))
+                 }
+                 nextLetter = nextLetter + 1
+             }
+             file.append '\n'
+             file.append 'cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ' + '\n'
+             file.append 'plain:  ' + plain + '\n'
+             file.append 'cipher: ' + a.cipherAlphabet + '\n\n'
+         }
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Generate printable output.
+
+////////////////////////////////////////////////////////////////////////////
+     void GeneratePrintableOutput(def inputFile, Cryptogram cryptogram ) {
+
+         // Use the directory of the digital cons file to be the directory of the sols file.
+         def outputFile =
+inputFile.take(inputFile.lastIndexOf(File.separator))
+         outputFile = outputFile + File.separator + cryptogram.heading + '.html'
+         File htmlFile = new File(outputFile)
+
+         cryptogram.CreateHTMLFile (htmlFile)
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Reset.
+
+////////////////////////////////////////////////////////////////////////////
+     void Reset() {
+         //  Cryptogram split into words.
+         words = []
+         //  Cryptogram split into aristocrat words.
+         aristocratWords = []
+         // Alphabets.
+         cipher = '??????????????????????????'
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // SolveAristocrat.
+
+////////////////////////////////////////////////////////////////////////////
+     void SolveAristocrat(Cryptogram aristocrat) {
+
+         // Convert to upper case.
+         aristocrat.cryptogram = aristocrat.cryptogram.toUpperCase ( )
+         println aristocrat.heading
+         println()
+
+         // Print the lines of the aristocrat out.
+         aristocrat.printableLines.each {
+             line ->
+                 println line + '\n'
+         }
+
+         // Generate the words to work on.
+         words = aristocrat.cleanedCryptogram.split ( )
+
+         // For each word build the aristocrat word list.
+         words.eachWithIndex { currentWord , index ->
+             if ((currentWord.contains("*"))) {
+                 currentWord = currentWord.replaceAll("\\*", "")
+                 def regex = ''
+                 def wordList = ''
+                 aristocratWords.add(new AristocratWord(index + 1, currentWord as String, true, regex, wordList))
+             } else {
+                 def regex = ConvertToRegex(currentWord as String, true)
+                 def wordList =
+GetWordListFromFileUsingInputWord(fileName, currentWord as String)
+                 aristocratWords.add(new AristocratWord(index + 1, currentWord as String, false, regex, wordList))
+             }
+         }
+
+         // Update all the regexes.
+         aristocratWords.each {
+             aristocratWord ->
+                 if (aristocratWord.isNoun == false) {
+                     aristocratWord.regex = ConvertToRegex(aristocratWord.word, true)
+                 }
+         }
+
+         def wordCount = GetWordCount()
+         def previousWordCount = 0
+         def iterations = 0
+         def startTime = System.currentTimeMillis()
+
+         PrintWordLists ( )
+
+         // While the count keeps going down...
+         while ( wordCount != previousWordCount ) {
+
+             // Count words and iterations.
+             previousWordCount = wordCount
+             iterations = iterations + 1
+
+             // Compare all the lists with each other.
+             CompareLists()
+
+             // Print the results of this iteration.
+             PrintWordLists()
+             PrintSubstitutions()
+             wordCount = GetWordCount()
+         }
+
+         // Store the cipher alphabet.
+         aristocrat.cipherAlphabet = cipher
+         PrintAlphabets (plain, cipher)
+
+         println()
+
+         def endTime = System.currentTimeMillis()
+         println "Time taken (S): " + ( endTime - startTime ) / 1000
+         println "Iterations: " + iterations - 1
+
+         println()
+
+         println 'Search complete.'
+         println ''
+         PrintSubstitutions ( )
+         UpdateCryptogramSolution ( aristocrat )
+         println ''
+     }
+
+
+////////////////////////////////////////////////////////////////////////////
+     // Main program.
+     // Command line arguments:
+     // <Path to digital cons> <Cryptogram> <Letter substitutions>
+     // "cryptograms/ma2019/ma2019 A-4.txt" ""
+
+////////////////////////////////////////////////////////////////////////////
+     static void main(String[] args) {
+
+         println "Usage: <sols file> <number of cryptogram to solve> <letter guesses ( pairs of upper case cipher letter and lower case plain letter)> "
+         println ""
+         println '''To generate html of cryptograms use CLA:
+"cryptograms/ja2019/ja2019 Digital cons.txt" "html"'''
+         println '''To solve all aristocrats use CLA:
+"cryptograms/ja2019/ja2019 Digital cons.txt"'''
+         println '''To solve a single aristocrat use CLA:
+"cryptograms/ja2019/ja2019 Digital cons.txt" "A-1" ""'''
+         println '''To solve a single aristocrat with letter substitutions  use CLA: "cryptograms/ja2019/ja2019 Digital cons.txt"
+"A-1" "RaTu"'''
+         println ""
+         println ""
+
+         // Helper.
+         AutomaticCryptogramSolver h = new AutomaticCryptogramSolver()
+
+         // Get the input file and read it.
+         def inputFile = args[0]
+         File file = new File(inputFile)
+
+         // Are we generating html?
+         boolean generateHTML = false
+
+         // Are we solving a specific cryptogram?
+         h.cryptogramNumberToSolve = '0'
+         if (args.length >= 2) {
+             if ( args[1].isEmpty()) {
+                 h.cryptogramNumberToSolve = '0'
+             } else if (
+args[1].toString().toLowerCase().contains('html')) {
+                 println "Going to generate html files..."
+                 generateHTML = true
+             } else {
+                 h.cryptogramNumberToSolve = args[1]
+             }
+         }
+
+         // Do we have any already guessed letters?
+         if (args.length >= 3) {
+             h.inputLetterGuess = args[2]
+             h.inputLetterGuess.eachWithIndex { String entry, int i ->
+                 // Is it the start of a pair?
+                 if ((i % 2) == 0) {
+
+h.UpdateAlphabets(h.inputLetterGuess[i].toUpperCase(),
+h.inputLetterGuess[i+1])
+                 }
+             }
+         }
+
+         // Cryptogram heading and body.
+         String heading = ''
+         def cryptogram = ''
+
+         // Build up a collection of all the cryptograms to solve.
+         boolean readingCryptogram = false
+         boolean isPatristocrat = false
+         file.eachLine { String line ->
+             // Is this the start of an aristocrat?
+             if ( (line.startsWith('A-')) && (line[2].isNumber()) ) {
+                 readingCryptogram = true
+                 heading = line
+                 // Remove the . from the heading.
+                 heading = heading.replace('.', '')
+             } else if ( (line.startsWith('P-')) && (line[2].isNumber()) ) {
+                 // If this is a pastriocrat we will remove the spaces before printing.
+                 readingCryptogram = true
+                 heading = line
+                 // Remove the . from the heading.
+                 heading = heading.replace('.', '')
+                 isPatristocrat = true
+             } else {
+                 // Not an aristocrat or patristocrat so ignore.
+             }
+             // Read in the lines of the cryptogram.
+             if ( (readingCryptogram == true)
+                     && !((line.startsWith('A-')) ||
+(line.startsWith('P-'))) ) {
+                 cryptogram = cryptogram + line + ' '
+             }
+             // Stop reading when we have a blank line.
+             if ((readingCryptogram == true) && (line == '')) {
+                 readingCryptogram = false
+                 // Strip trailing space.
+                 cryptogram = cryptogram.substring(0,
+cryptogram.length() - 1)
+                 // Store this aristocrat.
+                 Cryptogram newCryptogram = (new Cryptogram(heading, cryptogram, isPatristocrat))
+                 newCryptogram.Initialise()
+                 h.cryptograms.add(newCryptogram)
+                 cryptogram = ''
+             }
+         }
+
+         if (generateHTML == true) {
+             // Generate the HTML.
+             println 'Generating html files for all aristorcats and patristocrats.'
+             h.cryptograms.each { Cryptogram cryptogramToSolve ->
+                 h.GeneratePrintableOutput(inputFile, cryptogramToSolve)
+             }
+         } else {
+
+             // If no specific cryptogram to solve is set, solve them all.
+             if (h.cryptogramNumberToSolve == '0') {
+                 // We are solving all.
+                 println 'Solving all cryptograms.'
+                 h.cryptograms.each { Cryptogram cryptogramToSolve ->
+                     // For each aristocrat.
+                     if (!cryptogramToSolve.isPatristocrat) {
+                         // Sole the aristocrat.
+                         h.SolveAristocrat(cryptogramToSolve)
+                         // Reset after each one.
+                         h.Reset()
+                     }
+                 }
+                 // Update the solutions file.
+                 h.PrintAllSolsToFile(inputFile)
+
+             } else {
+                 // Find the one matching the one to solve.
+                 Boolean foundCryptogramToSolve = false
+                 h.cryptograms.eachWithIndex { Cryptogram cryptogramToSolve, index ->
+                     if (cryptogramToSolve.heading ==
+h.cryptogramNumberToSolve) {
+                         // Solving a single cryptogram.
+                         foundCryptogramToSolve = true
+                         println 'Solving single cryptogram: ' + h.cryptogramNumberToSolve
+                         h.SolveAristocrat(cryptogramToSolve)
+                         h.PrintSolToFile(inputFile, index)
+                     }
+                 }
+                 if (foundCryptogramToSolve == false) {
+                     println 'No cryptogram with number ' + h.cryptogramNumberToSolve + ' found to solve.'
+                 }
+             }
+         }
+
+     }
+}
+
+

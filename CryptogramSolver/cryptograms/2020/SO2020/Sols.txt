@@ -1,0 +1,353 @@
+
+A-1
+S *TBY *ESU BH JOL SMM=TWWX CSJJBWH, HCWUBSM HSKUW, MWJJKUW, UZWWHW, CBUGMWH, SAV LABLAH LA S HWHSEW HWWV TKA.
+a *_i_ *mac is t_o all=_ee_ patties, special sa_ce, lett_ce, c_eese, pickles, an_ onions on a sesame see_ __n.
+
+plain:  nip?m?ks?t?ol?????a?c?e???
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: S?U?W???B?GMEALC??HJ??????
+
+A-2
+IUE QUAH JQURHXZ, CEY IUE DEY YLHS. IUE QUAH BTMSBQZ, CEY IUE HBY YLHS. IUE YHQQ SH IUE QUAH SH, ZU TUR M'S ZDBXHF!
+___ ____ _______, ___ ___ ___ ____. ___ ____ _______, ___ ___ ___ ____. ___ ____ __ ___ ____ __, __ ___ _'_ ______!
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-3
+GLTI KPNE AJEU EL KPMLZVCS QVINE ETKJ VC JC LIMUPNEIJ VN EL OL GLTI BPIG KPNE JE AYJGVCS NPMLCO ETKJ.
+_o_r best _ath to becoming first t_ba in an orchestra is to do _o_r _er_ best at __a_ing second t_ba.
+
+plain:  ??n?t???rabocsdef?g?hi???m
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: JKMOPQSUV???ZCL??INE??????
+
+A-4
+MJ PDNH MJ UNSJH VC PNWLNWL. JAJOCXWJ JUPJ PDNH NE PXRWHJH UNSJ D KUXGS XK ARUEROJP TMX’AJ QRPE KXRWH D HJDH HXWSJC.
+_e said _e liked _y singing. everyone else said it sounded like a _lo_k o_ vultures __o’ve _ust _ound a dead donkey.
+
+plain:  v?yat??d?e?g?irs?uk?l?no??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: D??HJ?L?N?SU?WX??OPERA??C?
+
+A-5
+ZGTACN XWPDZA GC BXIDCT NEA YAMN GS UGOK WXUM: GCA WXU UGOK FDSA QDFF SFXME YASGKA UGOK AUAM. BXIA MOKA DN'M QGKNE QXNZEDCT.
+______ ______ __ ______ ___ ____ __ ____ ____: ___ ___ ____ ____ ____ _____ ______ ____ ____. ____ ____ __'_ _____ ________.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-6
+AH QKBIYR LUQUREPH IDMPPKDUT EDUREH VYLUQLMQSULI, NBE XU YI QKAYRW MPKRW DUPP, MI DU MLU WUEEYRW VMCKLMNPU LUOKLEI.
+_y cousin recently swallowe_ twenty firecrackers, but _e is co_ing along well, as we are getting favorable reports.
+
+plain:  ?uvwt??ys?orabplcnk?efg?i?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MNQ?UVW?Y?SP?RKO?LIEBCD?H?
+
+A-7
+KAIZAPGHSI IAYENM STNVF DNFA=QFGEVSC RFVSVPQ UFAJYNZ RVST G UNPKVY HPSVY GP *GZNFVKGP VPENPSAF MNENYAUNM STN “IUGKN UNP”.
+cosmonauts solved their _ero=gravity writing problem with a pencil until an *american inventor developed the “space pen”.
+
+plain:  o?y?vrausbc?de?ngwthpi??lm
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GJKMN?QTV??YZPAU?FISHER?C?
+
+A-8
+AZLZE EVPHZ TBKE SVAY JB TBKE XSPNYEZA == PJ NZVLZH TBKE GPYHZXJPBA KACEBJZXJZY. *EBWZEJ *BEWZA
+never raise _our hand to _our children == it leaves _our midsection unprotected. *ro_ert *or_en
+
+plain:  nop?r?ms?tuv?l?i??h??a?cde
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: V?XYZ??SP??NGABC?EHJKL????
+
+A-9
+ZKA JX ZAVOTDA TD STU JUSLAO, MXUOZ'H YKHTAHJ STUEXUJ TH DXM *SDVRXUSWA, *SOSHGS, S RKY IXU STU IUATWRJ YAJMAAD JMX VXDJTDADJH.
+due to decline in air tra_el, world's busiest airport is now *anchorage, *alas_a, a hub for air freight between two continents.
+
+plain:  e??np??sftu?w?l??haircgobd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: SYVZAIWRT??O?DXE?UHJK?M???
+
+A-10
+*FCNJWYFX FPWFMDJ FXI FOMGDJ *FCNUWF *NFJGFJM QFK MGN TWJKM QDCFX MD TUV KDUD FYJDKK MGN *FMUFXMWY *DYNFX.
+*________ _______ ___ ______ *______ *_______ ___ ___ _____ _____ __ ___ ____ ______ ___ *________ *_____.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-11
+PO CKR CW CAZXD CPZVO NSWLC SZE IOVZYZWXY, NXI CAOX PO CAZXD N CAZKI CZGO. VANXEZXE CZGOY KOJLZKO VWXYZIOKNCZWX.
+we tr_ to thin_ twice a_out _ig decisions, and then we thin_ a third ti_e. changing ti_es require consideration.
+
+plain:  h?t?g???dqru?aew?????consi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?VIO?EAZ????XW?JKYCL?P???
+
+A-12
+OFKCDAERO EA WQYIRHDI EC ARWDQCYSFA TXDC ZXQDD FZYOA YJ XDNERO JRAD TEZX F HFQGYC CRHNDRA.
+magnesium is produced in supernovas when three atoms of helium fuse with a car_on nucleus.
+
+plain:  s?neia?cdfg??lm?ruvw??phot
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: F?HIDJKXE??NOCYW?QAZRST???
+
+A-13
+BZMA QMTZWS GLA BZW XMSAB BU BSWLB TLMSA UX RWBBWSA LA L DPMB XUS WPQMTZWSMPY. MB ZMVWA MPVMFMVDLR RWBBWS ABLBMABMQA.
+this cipher _as the first to treat pairs of letters as a unit for enciphering. it hides individual letter statistics.
+
+plain:  st?u?v?????ai??nclrpodefgh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: L?QVWXYZM??R?PUT?SABDF????
+
+A-14
+WXAF LXP DBUQDGW: "KXW'A UFGSF DBUQ AXKGI. XL JXRPEF, CNFW B EGI AXKGI, B DFGW AXDXPPXC, HFJGREF B GD CPBABWM ANBE IFEAFPKGI."
+note _or mil_man: "don't leave mil_ today. o_ course, when i say today, i mean tomorrow, because i am writing this yesterday."
+
+plain:  tiwmseabycd?gh?r?uv?l?no??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GHJKF?MNB??UDWX??PEARSC?I?
+
+A-15
+VENZTY *GHNRV *GON *Z*Z, THFZMW *UNZPZLQ LWMNWP OYWTPL GWNW PNOZTWV PH ELW ZPMQZTY BHGVWN OL O LWMNWP GWOBHT.
+during *wor_d *war *i*i, no_ice *_ritish secret agents were trained to use itching powder as a secret weapon.
+
+plain:  ?p??u?wo???scrath??n?de?gi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: O?MVW?YQZ????THB?NLPE?G???
+
+A-16
+YPDTNCYVZ VO ACPOMCVRPS DN MNZDCNK DHAP 2 SVQRPDPO, RLD DUP SCLJ'O PGQMD YNKPMLKQC YPMUQZVOY CPYQVZO Q YHODPCH.
+_________ __ __________ __ _______ ____ 2 ________, ___ ___ ____'_ _____ _________ _________ _______ _ _______.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-17
+KS ZWJSR CIF ZWHHZS RFOAO, KS YWGGSR WB O TWSZR CT KVWHS, OBR GHOFG TSZZ CB *OZOPOAO ZOGH BWUVH. W QOB'H TCFUSH HVS UZOACIF. *AWHQVSZZ *DOFWGV
+we li_ed our little drama, we _issed in a field of white, and stars fell on *ala_ama last ni_ht. i _an't for_et the _lamour. *mit_hell *_arish
+
+plain:  mno??rstu?w???a??def?hi??l
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: O??RST?VW??ZABC??FGHI?K???
+
+A-18
+CD QGAJJPC NWQ LWH PMPG XPPC BDGP XACZACU JLWC KCQGAJJPC YKHJDB HKEEDGJPZ XT EDEKNWG DEACADC. *YWGGAP *YLWEBWC *YWJJ
+no written law has e_er been _ore binding than unwritten _usto_ supported b_ popular opinion. *_arrie *_hap_an *_att
+
+plain:  i?nop?rs?tuh?l?ew???g?ab?d
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: WX?ZP?ULA??N?CDE?GHJK?Q???
+
+A-19
+CEIR QSDG, WHOTUG YTU DRV YWSYSCTVR ASEGSUEUD. T ZTVTC QSGR FRBHEFRG NSH VS RTV TXSHV VKRUVN ASHUQG SZ YWSYSCTVR TV T VEOR.
+li_e dogs, humans can get chocolate poisoning. a fatal dose requires you to eat a_out t_enty pounds of chocolate at a time.
+
+plain:  pqlgirsu?????ym?deoanth?cf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: T?YQRZDWE??COUSABFGVH???N?
+
+A-20
+*SPLUEXLTO *PCCULKLAO UQEX ORQO *XLWLNVLP ULKLTOR, TETLOLLT YCPOI=CTL, GQU Q XQI ORQO GCFAX AEKL ET ETYQNI.
+*__esi_ent *_ooseve_t sai_ that *_e_e__e_ seventh, nineteen _o_t_=one, _as a _a_ that _o___ _ive in in_a__.
+
+plain:  ??o?i?????ve??t?ah?ns?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q???L??RE????TC???UO?K????
+
+A-22
+*ISWSTSEMSG SRW *ISDGQBSRQS SGU BYU PROK BHP MPDRBGQUE QR BYU HPGOW HYQMY WP RPB YSFU S WUMQISO MDGGURMK. *BUSFB *EHYLLYH'O YOOUA NQYOPFZL: HYCQPY PDY UJJYXUPFZL PDUP PDY JFPYHUPQHY ZC PDY *KFBBJY *UXYO FO KZHFEQLB.
+*_i_i_idoir is_ *_itrepisei ira p_a usf_ pcu outspread es p_a curf_ c_eo_ _u sup _i_a i _aoe_if otrraso_. *pai_p *dc_yy_c'f _ffa_ we_fu_ly: c__eu_ ut_ a____au_ly utau ut_ __u_cauec_ l_ ut_ *__pp__ *a__f _f _lc_deyp.
+
+plain:  ?p?td?rc???yowfuesi?a????l
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?HEQO??S??Z??MB?GRDP?N?L?
+
+A-23
+OERJ DSVQY IERHVL JSQTSBRFY ZEWM QSYW RSRQGWHC HRF QGWHCCSEF GCGQGRWY, ZEWM WMG GAJGTWESR SD RSICG KHYGY.
+zinc _orms binary compounds _it_ most nonmetal and metalloid elements, _it_ t_e exception o_ noble _ases.
+
+plain:  xul?ideabc?y??z?mnop?rt?s?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: HIJFG???E??CQRST?VYWB??ALO
+
+A-24
+XFSFMUK SUBH ZNJDEL MYU EDLYM, ZUHJDPDEL UPUJSFEU FG KBUUH. MYUS YFQB MF VKKUJM MYUDJ MUJJDMFJS VEZ LJUVMEUKK FG MYUDJ HVXA.
+coyotes yelp d_ring the night, depriving everyone o_ sleep. they ho_l to assert their territory and greatness o_ their pac_.
+
+plain:  ?l?ino?p?rsgt??v??y?ea?chd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: V?XZU?LYD??B?EFH?JKM?P??S?
+
+A-25
+OAOUCW GXJVACG DOULBUYXAQO QBASUXQSG SUXAGLBUY HSVPVSW DXWYOASG VASB QXDVSXP OFHVDYOAS HDCUXEOG.
+energy sa_ings performance contracts transform utility payments into capital equipment upgrades.
+
+plain:  nogpdqsu???f??elc?t?riyam?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: X?QEOLC?V??PYABDFUGSH???W?
+
+P-1
+EGZHD HLXSH VHOXL UGHNL UKOEL USNHX NNUGS VHOLH QGQUS SEGTV HOZXG MUGSM HFUHG UHGVH OLYUI XDBEB VHOXL UOGXY DUNHF XCUEN.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-2
+DZUCI ESOUB IXDUV BUYNB SCDZU RNVIX WIEOD OQCNC FVBUE ONPEU OVQIV COCDU VDNVS YBUUS LXIBD ZUEOR UEOYZ D.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-3
+VDZSE QESSD ZSXKT LNNHK AASDN KTSQE RNZJR OKKGS DNEJQ ERNSD NJNZS SDNKT SQERN ZJRSD PKVZV ZXSDN EJQER NZJQV NPEQS DNGNX VKPR.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-4
+ILHTH GWEES WGDWL ESKOW BDLYI FFOGH NSNCD IEZDM NFDDN HGTCI OMDHG UEOMC HGTZW NDMUL IFMHR NDDGC OGZLD ZWGZG HGDNS UIOL.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-5
+YWMWX DWGYW IGTIH NATFI MNXTD IPTZF IPRTM MAILN DUWHN TLRNM LTDTW MTQWM LWNTZ IGDUJ LTNNU NIDTL WXDTX UNATG TQUIL CTL.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-6
+MINLP PIPIS SRRLA PIWIA WLEWX EWDHB EEXPL PXQEM HJPWO XORLH RFRLZ QXABM XIOEM WREBH REMDI XEIOX EMXVR HLADW FLAQI RVRHE IO.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-7
+LXDKM JNJKW CGPXM KWDCX DSBCB EDJCJ VNGED VBPPD VVSBH CGVCB QTMKQ MQMOC XJVCG ETCXM KCGVX MZDJC FJWGE GBVHT.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-8
+DPNUN DPVUY ACNAQ XPAXA UVDNQ AOVPS TVMWN EMZEC VWASD DHNMD JDHAL ASMYC HPEUN VCEMZ UNXPA XAUVD NYOAL XVMFE UUVPS TTEMZ WEOY.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-9
+IWCPV YREEV WMENE PNVWI DWVEP NBLCR TSITM WLSZI WCPVC NHCEV CNWFC RLCBL CRFTC RMIEF WNVVL TZWKT ITWZP YRLCW IWCKL CRWKL CTYTL SBRHV TYTVC LSZLP CREN.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-10
+BWQOR HXART NRGXE QXIDR EQQEP XAVRR BWQRB WQYXA VXIDB WQIRY PXEWX AHXAP RVVMP QBWQT IKMEP BWQET RYURB BRBQI ICAHW K.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-11
+WEZWU DQUSL WIGVZ HKWVZ JGJQW KVTGJ MSJVZ OWEVT ZQWKE NXQNZ WINZX ZIESI OJTSM GVGJV IKZSE OXZYW DZJVI KZIZL ZIQOS Q.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-12
+JDPDK HKCWC ZPDKH KCRDY WRYMK FNSRM RMVJK CXKRS RJJSC ASCIH WYSCI WHDKC ZRDYD UVKFX VMSCZ PDKWI WSCFS CATBD PZ.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+Used dictionary file: ..\..\..\dictionaries\words.txt
+Words compares done: 8916672531
+
+A-1   a *_i_ *mac is t_o all=_ee_ patties, special sa_ce, lett_ce, c_eese, pickles, an_ onions on a sesame see_ __n.
+A-2   ___ ____ _______, ___ ___ ___ ____. ___ ____ _______, ___ ___ ___ ____. ___ ____ __ ___ ____ __, __ ___ _'_ ______!
+A-3   _o_r best _ath to becoming first t_ba in an orchestra is to do _o_r _er_ best at __a_ing second t_ba.
+A-4   _e said _e liked _y singing. everyone else said it sounded like a _lo_k o_ vultures __o’ve _ust _ound a dead donkey.
+A-5   ______ ______ __ ______ ___ ____ __ ____ ____: ___ ___ ____ ____ ____ _____ ______ ____ ____. ____ ____ __'_ _____ ________.
+A-6   _y cousin recently swallowe_ twenty firecrackers, but _e is co_ing along well, as we are getting favorable reports.
+A-7   cosmonauts solved their _ero=gravity writing problem with a pencil until an *american inventor developed the “space pen”.
+A-8   never raise _our hand to _our children == it leaves _our midsection unprotected. *ro_ert *or_en
+A-9   due to decline in air tra_el, world's busiest airport is now *anchorage, *alas_a, a hub for air freight between two continents.
+A-10   *________ _______ ___ ______ *______ *_______ ___ ___ _____ _____ __ ___ ____ ______ ___ *________ *_____.
+A-11   we tr_ to thin_ twice a_out _ig decisions, and then we thin_ a third ti_e. changing ti_es require consideration.
+A-12   magnesium is produced in supernovas when three atoms of helium fuse with a car_on nucleus.
+A-13   this cipher _as the first to treat pairs of letters as a unit for enciphering. it hides individual letter statistics.
+A-14   note _or mil_man: "don't leave mil_ today. o_ course, when i say today, i mean tomorrow, because i am writing this yesterday."
+A-15   during *wor_d *war *i*i, no_ice *_ritish secret agents were trained to use itching powder as a secret weapon.
+A-16   _________ __ __________ __ _______ ____ 2 ________, ___ ___ ____'_ _____ _________ _________ _______ _ _______.
+A-17   we li_ed our little drama, we _issed in a field of white, and stars fell on *ala_ama last ni_ht. i _an't for_et the _lamour. *mit_hell *_arish
+A-18   no written law has e_er been _ore binding than unwritten _usto_ supported b_ popular opinion. *_arrie *_hap_an *_att
+A-19   li_e dogs, humans can get chocolate poisoning. a fatal dose requires you to eat a_out t_enty pounds of chocolate at a time.
+A-20   *__esi_ent *_ooseve_t sai_ that *_e_e__e_ seventh, nineteen _o_t_=one, _as a _a_ that _o___ _ive in in_a__.
+A-22   *_i_i_idoir is_ *_itrepisei ira p_a usf_ pcu outspread es p_a curf_ c_eo_ _u sup _i_a i _aoe_if otrraso_. *pai_p *dc_yy_c'f _ffa_ we_fu_ly: c__eu_ ut_ a____au_ly utau ut_ __u_cauec_ l_ ut_ *__pp__ *a__f _f _lc_deyp.
+A-23   zinc _orms binary compounds _it_ most nonmetal and metalloid elements, _it_ t_e exception o_ noble _ases.
+A-24   coyotes yelp d_ring the night, depriving everyone o_ sleep. they ho_l to assert their territory and greatness o_ their pac_.
+A-25   energy sa_ings performance contracts transform utility payments into capital equipment upgrades.
+

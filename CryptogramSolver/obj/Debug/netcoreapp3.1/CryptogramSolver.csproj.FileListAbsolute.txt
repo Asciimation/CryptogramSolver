@@ -1,0 +1,26 @@
+C:\Development\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.exe
+C:\Development\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.deps.json
+C:\Development\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.runtimeconfig.json
+C:\Development\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.runtimeconfig.dev.json
+C:\Development\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.dll
+C:\Development\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.pdb
+C:\Development\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.csprojAssemblyReference.cache
+C:\Development\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.AssemblyInfoInputs.cache
+C:\Development\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.AssemblyInfo.cs
+C:\Development\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.csproj.CoreCompileInputs.cache
+C:\Development\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.dll
+C:\Development\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.pdb
+C:\Development\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.genruntimeconfig.cache
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.exe
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.deps.json
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.runtimeconfig.json
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.runtimeconfig.dev.json
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.dll
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\bin\Debug\netcoreapp3.1\CryptogramSolver.pdb
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.csproj.AssemblyReference.cache
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.AssemblyInfoInputs.cache
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.AssemblyInfo.cs
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.csproj.CoreCompileInputs.cache
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.dll
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.pdb
+C:\Users\Simon Jansen\source\repos\CryptogramSolver\CryptogramSolver\obj\Debug\netcoreapp3.1\CryptogramSolver.genruntimeconfig.cache

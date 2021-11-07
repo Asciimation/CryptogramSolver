@@ -1,0 +1,726 @@
+
+A-1 Historic prediction K2 [100] C172PILOT
+UYX OW F KBOZB LQY, F MOPX LQY XQ JPQM == GYWX XEFPJ EQM NYSE LQY'VB DQFPD XQ UB NFWWFPD. LQY MQP'X EOZB *PFIQP XQ JFSJ OVQYPA OPLNQVB.
+_u_ a_ i _ea_e you, i _an_ you _o _no_ == _u__ __in_ _o_ mu__ you're going _o _e mi__ing. you _on'_ _a_e *ni_on _o _i__ around anymore.
+
+plain:  de?g?i?????y?mano????r??u?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: O??AB?D?F???NPQ??V??Y???L?
+
+A-2
+DPNFN GX J FNTJFRJKSB LSUXN VJFJSSNS KNDZNNH DPN VFUKSNTX UO DPN VPBXGLGXD JHM DPUXN UO DPN LFBVDUIFJVPNF.
+there is a remarkably close parallel between the problems o_ the physicist an_ those o_ the cryptographer.
+
+plain:  ?y?t?ringabc?e?h?klmop?s?w
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: JKL?N?IPG?RSTHUV?FXD??Z?B?
+
+A-3
+TM YOWETRQDK FUX, U XPK QODWI RPEW RPZTGE YOFPDTZW PM EW. QUAWM QP QOW BDTMYTBUF'R PVVTYW, OW IUR QPFZ QOUQ TQ IUR U RUFQ.
+in chemistry la_, a _oy threw some sodium chloride on me. ta_en to the principal's o__ice, he was told that it was a salt.
+
+plain:  ?p?rmlu?w?y?n?hots?ia?e?cd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?YZW??OT??FEMPB?DRQG?I?K?
+
+A-4
+HYVS BUMXYVDDZ ZB WZSZBYVT QEEOZSX MST AVMTK DE VMD ZD HZNN BDZQO DE DYV HMNN. *CEK EW *QEEOZSX
+_hen spaghetti is _inished _oo_ing and _ead_ to eat it _i__ sti__ to the _a__. *_o_ o_ *_oo_ing
+
+plain:  ?s?to???????a?????ndpe?ghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: M??TV?XYZ????SEU??BD??????
+
+A-5
+VNILZGID GH JWI BMQJ BQ HINZI HXQNTGJK OGK IMGJKH. GI GH BMQJ BQ HINZI LJFQZHINJFGJK HVNUU IMGJKH.
+maturity is n_t _hen _e start s_ea_ing _ig things. it is _hen _e start understanding sma__ things.
+
+plain:  ???y?distnguha??e????m???r
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N??FQ?KMG???VJ???ZHIL???D?
+
+A-6
+RHLPBEJ BXYOBRRA JRLON MRUSOR VJ MYOBX, BXR WORLB *NRTBRVMRO XCOOYPLAR SU BXYOBJ=RYWXB NBOCPD *ARG *RAWELAQ.
+exactly thirteen years before _y birth, the great *se_te_ber hurricane of thirty=eight struck *ne_ *englan_.
+
+plain:  ntukl??x?y?absrc?eo?f?ghi?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: LMP?RUWXY?DE?AS??ONBC??HJ?
+
+A-7
+NA JAD MSYQI MSTM USOQ MSOJ TLION *ZOAXZO *UTLSYQZMAQ WAX YNOQMYWYVTMYAQ MSTM SO RDLM USYBBON ADM T CDTXMOX?
+do _ou think that when the_ asked *_eor_e *washin_ton for identification that he _ust whi__ed out a quarter?
+
+plain:  o?qu????k??stde?n?hawcfri?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: T?VNOW?SY?I??QA?CXLMD?U???
+
+A-8
+TGNU KVWG HBVWUBHX NJNK OGVA KVWG HGVWYDRX YK HBR RNGX, YK HBR BRRDX, VG NPK VHBRG JNK. SH'X HBR BRNDHBSRXH HBSPU N YVTK ZNP TV.
+drag your thoughts a_ay _ro_ your troubles by the ears, by the heels, or any other _ay. it's the healthiest thing a body _an do.
+
+plain:  ?h?l??rt??y??a?n?eidgousb?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: NY?TR?UBS??D?PV??GXHW???K?
+
+A-9
+JLLFHIBUO CF TFT, CPM OHMJCMDC KJKE DBCCMH FN JSS CBTM BD UFC *TJHE *VFVVBUD, KGC CPM CMSMXBDBFU. PMHM'D *DVFUOMKFK!
+a__or_ing to _o_, the greatest _a__ sitter o_ all ti_e is not *_ar_ *_o__ins, __t the television. here's *s_onge_o_!
+
+plain:  ?its?o?r?a??e?gh??l?n??v??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: J???M?OPB??S?UF??HDC?X????
+
+A-10
+DWCJHQC MSH SDG DWC QHIJE DJHIE ESF VWUFWIVEC HP PFGHIPLFTIBWFGG HT D OBIZJFP HJKVHIGBC WFKFP UHE D JVBB TPHZ HWF.
+anybody _ho has any doubt about the ingenuity or resourcefulness of a plumber obviously never got a bill from one.
+
+plain:  ?lyatesoubvc??prd?hfgin??m
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: DJLQFTUSV??BZWHO?PGEIK??C?
+
+A-11
+IRV AFLVC PBW RFDW IRV ZIBCWC; NIH AHCG WMWBUFCW GZWA FX NIH KFCZ GI DWWS GZWA FL KIBDFLY IBVWB. *EIZL *PVPAC
+___ _____ ___ ____ ___ ______; ___ ____ ________ ____ __ ___ ____ __ ____ ____ __ _______ _____. *____ *_____
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-12
+GYZPNCNGYVB *OVQA *BNFCCVQF XQIV QPP WZIV NW YZC TYZPUBVA DN Q WNFAUPZAX YNCGZDQP CN DYVL JNFPUA’D ZADVBWVBV JZDY YZC JNBR.
+philosopher *_ean *rousseau ga_e all fi_e of his children to a foundling hospital so the_ wouldn’t interfere with his wor_.
+
+plain:  nrst?up??w???o?la??cdefghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?TUVWXYZ??P?ANG?BCDF?J???
+
+A-13
+REDH L *FGY *CLHOICVEG LOOZVPLJVDF RDEH RDE L JLA GAGHOJVDF: MG ISEG LFQ QEGLQ JCG ZLY MGRDEG RVZZVFU DSJ LOOZVPLJVDF.
+from a *ne_ *_amp__ire application form for a tax exemption: be __re and dread t_e la_ before filling o_t application.
+
+plain:  x??ornem?t?ab?pcdf??gi???l
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: LMPQGRU?V??ZHFDO?E?J???A??
+
+A-14
+*U*H*Q AD IAMV Q STGYFEVC YCTXCQG, RFE WQC, WQC GTCV QUJQHSVU EZQH QHO DTWEKQCV KV'JV VJVC SCVQEVU. *RAII *XQEVD
+*d*n*a _s ___e a computer program, _ut far, far more advanced t_an an_ software we've ever created. *____ *gates
+
+plain:  ??rstumn?vw?????a?codefgp?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?SUVWX?????GHTY?CDEFJK???
+
+A-15
+WSHSD TR WYDGUTR BHUWYF EUF GEY MDYUG JUHIY SZ OUPTRM GEY SIGHTRYF URX FGDIWGIDUH BHURYF FYYO OSDY YRYDMYGTW. *URGSRT *MUIXT
+color in certain places _as t_e great value o_ ma_ing t_e outlines an_ structural planes seem more energetic. *antoni *gau_i
+
+plain:  ?p?r?stluv??g?m??noia?c?e?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?W?Y?M?T??HORSB?DFGIJ????
+
+A-16
+NEIJ WJ MVH KTH NS JEPJMWMEMHJ: WAJMHKR NS ZKATEKTH, CH VKBH XKITNA; WAJMHKR NS GIWAQWGZHJ, JZNTKAJ.
+ours is t_e age o_ substitutes: instea_ o_ language, _e _a_e jargon; instea_ o_ principles, slogans.
+
+plain:  n???u?persa?to?bc??g??ij?l
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: KPQ?H?T?WX?Z?ANG?IJME?????
+
+A-17
+HRP LXSZLP YCPWSLW ZLJVSHB FG *CJIPXEMLCQPC YLDDVPE WJUPE HRPW JX LXGFCQPHHJMVP PAYPCSPXNP. OSENFIPC HRP YPCGPNH GSH.
+t_e unique premium quality of *ravensburger pu__les ma_es t_em an unforgettable experience. discover t_e perfect fit.
+
+plain:  xyr?softva?ubcdeg?i??lmnpq
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: JMNOPGQ?S??VWXFYZCEHLI?AB?
+
+A-18
+XA DQDFKL=QY=VCR, CY CFFZLYKA=CF=VCR, KYTZAD RZLUQYN RQFP MZLNKF=XK=YZFD, *TZPYYA=TOXW=OWD, CYJ *TCHU=QY=FPK=WOVWQFD.
+my sister=in=la_, an attorney=at=la_, enjoys _or_in_ _it_ _or_et=me=nots, *jo_nny=jump=ups, an_ *ja__=in=t_e=pulpits.
+
+plain:  y?as?t????er??u?i??j?lpmno
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: C???K???QT?VXYZW?LDFO???A?
+
+A-19
+EGNK INFWKOW MISKMU=OSXIM DSCCSGF, ESPO INFWKOW LOPOFMU=FSFO MIGNLYFW, OSXIMU=OSXIM SL MIO LOTGFW *DNFTIIYNLOF FNDZOK.
+_our hundred thirty=eight mi__ion, _ive hundred seventy=nine thousand, eighty=eight is the second *munchhausen number.
+
+plain:  ???m?no?h?rstuev??icy?dgab
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YZTWO?XIS???DFG??KLMNP??U?
+
+A-20
+*HKVRPWDLCA'L IGKLRL WKR W ZALMAFYM WFZ RFZWFSRKRZ DAFRWSR HKROAGNLDT MIGNSIM MG IWOR HNKRDT PADZ GKASAFL.
+*pr_e_als_i's horses are a distinct and endangered lineage previously thought to have purely _ild origins.
+
+plain:  i??l?noph?rstuv??egy??a?cd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: W?YZR?SIA??D?FGH?KLMNO??T?
+
+A-21
+QDSATWNV UTEZ XTEAVNI FNDTSPE MHSQTW ZPME: EWNDVMQ, WSDNV, WINR, FTSVMQ, YSVX, WNDLTRM, UPWZETN, QMNV, SDNRYM, SVTFM.
+tropical fish display various e_otic hues: scarlet, coral, cyan, violet, gold, car_ine, fuchsia, teal, orange, olive.
+
+plain:  p??rsv??y???ea?utnoiflcdgh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?WXMUYZT??V?RSA?DEQPF??I?
+
+A-22
+NTNV JKSGYVP ESAYIRYC QERD *WEGT DTOY PRZMIRMZTH TSC AMSIREKSTH NZTES TNSKZJTHEREYP TSC THRYZYC YJKREKSTH ZYPXKSPYP.
+bab_ mon_e_s in_ected _it_ *_i_a _a_e structural and _unctional brain abnormalities and altered emotional responses.
+
+plain:  ??d?i??lcmo?ub?s?tna???per
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: TNICY???E??HJSKX?ZPRM?????
+
+A-23
+TZJKXZM ZJKW KQJF OLZYDW UJXYDW OXKL UJXWD UMFO FC CXWK UVK UJIZDW LZES XEWKIZS; SJXEDW OLXWDIQ CJFT CMZWD KF EVTU GZXE.
+martial arts tyro whacks bricks with brisk blow of fist b_t breaks hand instead; drinks whiskey from flask to n_mb _ain.
+
+plain:  ??fkno??erthl?w?y?dmb?sica
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ZUYSIC?LX?DMTEF??JWK??O?Q?
+
+A-24
+RTINQAFMZSB RTQDBNM OQNUFABMSKX GTRSNLFYBA NOBQZSFNM FMGFRFNMR. GTRSNLBQR BMHNX HZYYX RBVFMD.
+subordinate surgeon providently customized operation incisions. customers enjoy jazzy se_ing.
+
+plain:  de?g?icjb?lmnop?rstuv??yza
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ZIGAB?D?FH?KLMNO?QRSTU??XY
+
+A-25
+VPMUXKS EUIWFMKXH UCXKMFSI TXNUCDFMJUT CXKWIL TMUFTSPQKWI, NIQCDEUT WUFTVXMNI DULPST DUFHWVMPSI DQEAFMJ USIML.
+foreign lethargic emigrant disembarked mighty dreadnought, stumbled headfirst beyond beachfront bulwark entry.
+
+plain:  w?mbla?ctkgyrs?ou?ndefhi??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FDHTUVKWX?JECSP??MNIQ?A?L?
+
+P-1
+THKCA HGMEM PMHBT NXPYR YKXLH ZVEMH LDEOY ZPHZH IDXVA HGMEM PMHBT NXPYR YKXLH ZVEMG HPHLD EOYZP HZHFX KCPTX EG.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-2
+ZFHDT JFLTA ATBYH BURFV GHBUF MBAKJ TBYZB NVYZX VJUKG HJTAA CVMFI KHJJP BUKYX JTBYH JBOFF DJCFV YTLVA PVGLV YZJBL VOFRB KGCBK HFVLF HH.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-3
+EALRY BUSOP XRSDD LRUEL ROSQR RSQRY YORDT ZRSOK TDQON NRDEQ SRGRS DGOYY QRBME EOPNP MESOE OAPYT QRYDA PQRRS QAEEY RD.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-4
+CQOKP MNZOO FZCNN OFGFN UOFOB EZWYQ YAHCJ OAGMI PCNGL GOMNU YNAOY FNUYN TUOFN UOFCS UNBGA OMCTC RRJCM OYFLZ OYFFG WCFS.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-5
+GWERZ PQRBK GLLZI TGEKD GBYTY QBTER LWKKN TYKLL GYJHZ SKJZX TELGI EPGWM PYIET ZYGNN KGSLE ZHKEZ BGVKP LPN.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-6
+CWZCX ZWBVS FVAQJ PVEEV BDVEM NACBD ZNQQF BGVBJ NWEVA JNFQM AMDDF TVEZM EJNFM BVUVM PCAXH CEZME BMADL NDCEC NAQCL ZVB.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-7
+ZMPSS NMMVP CFZUX MGUNI WGFZD NMFGK NFGUN TOWZU WXMIX VNSZU MHNUL ZMPSS NMMVP CIGFZ UXMGU NIWGS ZUVXU LMPSW ZFZUC ZUZOP KUNK.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-8
+YNWEA IWAEN YIURE NWELG EIAEI SDEWD ODAKJ JGJKO DENBA IAXYO EJIWY IBJCA UJIRO DALJE IOXAY WDARC UODAB AIEPN JKODA GYNOB AIAXY OEJI.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-9
+YVQSR TDDPT NEOTE YLMCD YOSPV QEPQY TLMHV PSSYJ HPJTC MWYPC CDYUE VXMVT XRMET PVLOR ZSYCD YRONM XGYCT ZMOVY HFMXP WESPO J.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-10
+RNKJN MBOJO MBOEJ LLBZM DFEBV HRMTR NKJOM BOZBF GBSTJ FOJZH BTNLB CJMNU KWWHB VHOWH BTMJL BCJUJ BGWWQ EWWQ.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-11
+LXHAA EPFOO MZFGW NOMUA LCPMA QWKAM CPEKC MFNBA LLCPE COQCB FOZSM MKFLW OOWAP UCOCW NGANB FBAKA PFKFW KFFPB AKKWP O.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-12
+REMOG WFMTV KBHKT VARAT RVGFR GBPOJ ERGFR URORH HJXWX GBTVB VWBPG SWSBH EWOGR HWOYJ GUROV WKWFQ JYHTO SWXRO QRFGB PGSWZ RVBV.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+Used dictionary file: ..\..\..\dictionaries\words.txt
+Words compares done: 6301108281
+
+A-1 Historic prediction K2 [100] C172PILOT   _u_ a_ i _ea_e you, i _an_ you _o _no_ == _u__ __in_ _o_ mu__ you're going _o _e mi__ing. you _on'_ _a_e *ni_on _o _i__ around anymore.
+A-2   there is a remarkably close parallel between the problems o_ the physicist an_ those o_ the cryptographer.
+A-3   in chemistry la_, a _oy threw some sodium chloride on me. ta_en to the principal's o__ice, he was told that it was a salt.
+A-4   _hen spaghetti is _inished _oo_ing and _ead_ to eat it _i__ sti__ to the _a__. *_o_ o_ *_oo_ing
+A-5   maturity is n_t _hen _e start s_ea_ing _ig things. it is _hen _e start understanding sma__ things.
+A-6   exactly thirteen years before _y birth, the great *se_te_ber hurricane of thirty=eight struck *ne_ *englan_.
+A-7   do _ou think that when the_ asked *_eor_e *washin_ton for identification that he _ust whi__ed out a quarter?
+A-8   drag your thoughts a_ay _ro_ your troubles by the ears, by the heels, or any other _ay. it's the healthiest thing a body _an do.
+A-9   a__or_ing to _o_, the greatest _a__ sitter o_ all ti_e is not *_ar_ *_o__ins, __t the television. here's *s_onge_o_!
+A-10   anybody _ho has any doubt about the ingenuity or resourcefulness of a plumber obviously never got a bill from one.
+A-11   ___ _____ ___ ____ ___ ______; ___ ____ ________ ____ __ ___ ____ __ ____ ____ __ _______ _____. *____ *_____
+A-12   philosopher *_ean *rousseau ga_e all fi_e of his children to a foundling hospital so the_ wouldn’t interfere with his wor_.
+A-13   from a *ne_ *_amp__ire application form for a tax exemption: be __re and dread t_e la_ before filling o_t application.
+A-14   *d*n*a _s ___e a computer program, _ut far, far more advanced t_an an_ software we've ever created. *____ *gates
+A-15   color in certain places _as t_e great value o_ ma_ing t_e outlines an_ structural planes seem more energetic. *antoni *gau_i
+A-16   ours is t_e age o_ substitutes: instea_ o_ language, _e _a_e jargon; instea_ o_ principles, slogans.
+A-17   t_e unique premium quality of *ravensburger pu__les ma_es t_em an unforgettable experience. discover t_e perfect fit.
+A-18   my sister=in=la_, an attorney=at=la_, enjoys _or_in_ _it_ _or_et=me=nots, *jo_nny=jump=ups, an_ *ja__=in=t_e=pulpits.
+A-19   _our hundred thirty=eight mi__ion, _ive hundred seventy=nine thousand, eighty=eight is the second *munchhausen number.
+A-20   *pr_e_als_i's horses are a distinct and endangered lineage previously thought to have purely _ild origins.
+A-21   tropical fish display various e_otic hues: scarlet, coral, cyan, violet, gold, car_ine, fuchsia, teal, orange, olive.
+A-22   bab_ mon_e_s in_ected _it_ *_i_a _a_e structural and _unctional brain abnormalities and altered emotional responses.
+A-23   martial arts tyro whacks bricks with brisk blow of fist b_t breaks hand instead; drinks whiskey from flask to n_mb _ain.
+A-24   subordinate surgeon providently customized operation incisions. customers enjoy jazzy se_ing.
+A-25   foreign lethargic emigrant disembarked mighty dreadnought, stumbled headfirst beyond beachfront bulwark entry.
+
+
+A-1 Historic prediction K2 [100] C172PILOT
+UYX OW F KBOZB LQY, F MOPX LQY XQ JPQM == GYWX XEFPJ EQM NYSE LQY'VB DQFPD XQ UB NFWWFPD. LQY MQP'X EOZB *PFIQP XQ JFSJ OVQYPA OPLNQVB.
+_u_ a_ i _ea_e you, i _an_ you _o _no_ == _u__ __in_ _o_ mu__ you're going _o _e mi__ing. you _on'_ _a_e *ni_on _o _i__ around anymore.
+
+plain:  de?g?i?????y?mano????r??u?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: O??AB?D?F???NPQ??V??Y???L?
+
+A-2
+DPNFN GX J FNTJFRJKSB LSUXN VJFJSSNS KNDZNNH DPN VFUKSNTX UO DPN VPBXGLGXD JHM DPUXN UO DPN LFBVDUIFJVPNF.
+there is a remarkably close parallel between the problems o_ the physicist an_ those o_ the cryptographer.
+
+plain:  ?y?t?ringabc?e?h?klmop?s?w
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: JKL?N?IPG?RSTHUV?FXD??Z?B?
+
+A-3
+TM YOWETRQDK FUX, U XPK QODWI RPEW RPZTGE YOFPDTZW PM EW. QUAWM QP QOW BDTMYTBUF'R PVVTYW, OW IUR QPFZ QOUQ TQ IUR U RUFQ.
+in chemistry la_, a _oy threw some sodium chloride on me. ta_en to the principal's o__ice, he was told that it was a salt.
+
+plain:  ?p?rmlu?w?y?n?hots?ia?e?cd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?YZW??OT??FEMPB?DRQG?I?K?
+
+A-4
+HYVS BUMXYVDDZ ZB WZSZBYVT QEEOZSX MST AVMTK DE VMD ZD HZNN BDZQO DE DYV HMNN. *CEK EW *QEEOZSX
+_hen spaghetti is _inished _oo_ing and _ead_ to eat it _i__ sti__ to the _a__. *_o_ o_ *_oo_ing
+
+plain:  ?s?to???????a?????ndpe?ghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: M??TV?XYZ????SEU??BD??????
+
+A-5
+VNILZGID GH JWI BMQJ BQ HINZI HXQNTGJK OGK IMGJKH. GI GH BMQJ BQ HINZI LJFQZHINJFGJK HVNUU IMGJKH.
+maturity is n_t _hen _e start s_ea_ing _ig things. it is _hen _e start understanding sma__ things.
+
+plain:  ???y?distnguha??e????m???r
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N??FQ?KMG???VJ???ZHIL???D?
+
+A-6
+RHLPBEJ BXYOBRRA JRLON MRUSOR VJ MYOBX, BXR WORLB *NRTBRVMRO XCOOYPLAR SU BXYOBJ=RYWXB NBOCPD *ARG *RAWELAQ.
+exactly thirteen years before _y birth, the great *se_te_ber hurricane of thirty=eight struck *ne_ *englan_.
+
+plain:  ntukl??x?y?absrc?eo?f?ghi?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: LMP?RUWXY?DE?AS??ONBC??HJ?
+
+A-7
+NA JAD MSYQI MSTM USOQ MSOJ TLION *ZOAXZO *UTLSYQZMAQ WAX YNOQMYWYVTMYAQ MSTM SO RDLM USYBBON ADM T CDTXMOX?
+do _ou think that when the_ asked *_eor_e *washin_ton for identification that he _ust whi__ed out a quarter?
+
+plain:  o?qu????k??stde?n?hawcfri?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: T?VNOW?SY?I??QA?CXLMD?U???
+
+A-8
+TGNU KVWG HBVWUBHX NJNK OGVA KVWG HGVWYDRX YK HBR RNGX, YK HBR BRRDX, VG NPK VHBRG JNK. SH'X HBR BRNDHBSRXH HBSPU N YVTK ZNP TV.
+drag your thoughts a_ay _ro_ your troubles by the ears, by the heels, or any other _ay. it's the healthiest thing a body _an do.
+
+plain:  ?h?l??rt??y??a?n?eidgousb?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: NY?TR?UBS??D?PV??GXHW???K?
+
+A-9
+JLLFHIBUO CF TFT, CPM OHMJCMDC KJKE DBCCMH FN JSS CBTM BD UFC *TJHE *VFVVBUD, KGC CPM CMSMXBDBFU. PMHM'D *DVFUOMKFK!
+a__or_ing to _o_, the greatest _a__ sitter o_ all ti_e is not *_ar_ *_o__ins, __t the television. here's *s_onge_o_!
+
+plain:  ?its?o?r?a??e?gh??l?n??v??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: J???M?OPB??S?UF??HDC?X????
+
+A-10
+DWCJHQC MSH SDG DWC QHIJE DJHIE ESF VWUFWIVEC HP PFGHIPLFTIBWFGG HT D OBIZJFP HJKVHIGBC WFKFP UHE D JVBB TPHZ HWF.
+anybody _ho has any doubt about the ingenuity or resourcefulness of a plumber obviously never got a bill from one.
+
+plain:  ?lyatesoubvc??prd?hfgin??m
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: DJLQFTUSV??BZWHO?PGEIK??C?
+
+A-11
+IRV AFLVC PBW RFDW IRV ZIBCWC; NIH AHCG WMWBUFCW GZWA FX NIH KFCZ GI DWWS GZWA FL KIBDFLY IBVWB. *EIZL *PVPAC
+___ _____ ___ ____ ___ ______; ___ ____ ________ ____ __ ___ ____ __ ____ ____ __ _______ _____. *____ *_____
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-12
+GYZPNCNGYVB *OVQA *BNFCCVQF XQIV QPP WZIV NW YZC TYZPUBVA DN Q WNFAUPZAX YNCGZDQP CN DYVL JNFPUA’D ZADVBWVBV JZDY YZC JNBR.
+philosopher *_ean *rousseau ga_e all fi_e of his children to a foundling hospital so the_ wouldn’t interfere with his wor_.
+
+plain:  nrst?up??w???o?la??cdefghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?TUVWXYZ??P?ANG?BCDF?J???
+
+A-13
+REDH L *FGY *CLHOICVEG LOOZVPLJVDF RDEH RDE L JLA GAGHOJVDF: MG ISEG LFQ QEGLQ JCG ZLY MGRDEG RVZZVFU DSJ LOOZVPLJVDF.
+from a *ne_ *_amp__ire application form for a tax exemption: be __re and dread t_e la_ before filling o_t application.
+
+plain:  x??ornem?t?ab?pcdf??gi???l
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: LMPQGRU?V??ZHFDO?E?J???A??
+
+A-14
+*U*H*Q AD IAMV Q STGYFEVC YCTXCQG, RFE WQC, WQC GTCV QUJQHSVU EZQH QHO DTWEKQCV KV'JV VJVC SCVQEVU. *RAII *XQEVD
+*d*n*a _s ___e a computer program, _ut far, far more advanced t_an an_ software we've ever created. *____ *gates
+
+plain:  ??rstumn?vw?????a?codefgp?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?SUVWX?????GHTY?CDEFJK???
+
+A-15
+WSHSD TR WYDGUTR BHUWYF EUF GEY MDYUG JUHIY SZ OUPTRM GEY SIGHTRYF URX FGDIWGIDUH BHURYF FYYO OSDY YRYDMYGTW. *URGSRT *MUIXT
+color in certain places _as t_e great value o_ ma_ing t_e outlines an_ structural planes seem more energetic. *antoni *gau_i
+
+plain:  ?p?r?stluv??g?m??noia?c?e?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?W?Y?M?T??HORSB?DFGIJ????
+
+A-16
+NEIJ WJ MVH KTH NS JEPJMWMEMHJ: WAJMHKR NS ZKATEKTH, CH VKBH XKITNA; WAJMHKR NS GIWAQWGZHJ, JZNTKAJ.
+ours is t_e age o_ substitutes: instea_ o_ language, _e _a_e jargon; instea_ o_ principles, slogans.
+
+plain:  n???u?persa?to?bc??g??ij?l
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: KPQ?H?T?WX?Z?ANG?IJME?????
+
+A-17
+HRP LXSZLP YCPWSLW ZLJVSHB FG *CJIPXEMLCQPC YLDDVPE WJUPE HRPW JX LXGFCQPHHJMVP PAYPCSPXNP. OSENFIPC HRP YPCGPNH GSH.
+t_e unique premium quality of *ravensburger pu__les ma_es t_em an unforgettable experience. discover t_e perfect fit.
+
+plain:  xyr?softva?ubcdeg?i??lmnpq
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: JMNOPGQ?S??VWXFYZCEHLI?AB?
+
+A-18
+XA DQDFKL=QY=VCR, CY CFFZLYKA=CF=VCR, KYTZAD RZLUQYN RQFP MZLNKF=XK=YZFD, *TZPYYA=TOXW=OWD, CYJ *TCHU=QY=FPK=WOVWQFD.
+my sister=in=la_, an attorney=at=la_, enjoys _or_in_ _it_ _or_et=me=nots, *jo_nny=jump=ups, an_ *ja__=in=t_e=pulpits.
+
+plain:  y?as?t????er??u?i??j?lpmno
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: C???K???QT?VXYZW?LDFO???A?
+
+A-19
+EGNK INFWKOW MISKMU=OSXIM DSCCSGF, ESPO INFWKOW LOPOFMU=FSFO MIGNLYFW, OSXIMU=OSXIM SL MIO LOTGFW *DNFTIIYNLOF FNDZOK.
+_our hundred thirty=eight mi__ion, _ive hundred seventy=nine thousand, eighty=eight is the second *munchhausen number.
+
+plain:  ???m?no?h?rstuev??icy?dgab
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YZTWO?XIS???DFG??KLMNP??U?
+
+A-20
+*HKVRPWDLCA'L IGKLRL WKR W ZALMAFYM WFZ RFZWFSRKRZ DAFRWSR HKROAGNLDT MIGNSIM MG IWOR HNKRDT PADZ GKASAFL.
+*pr_e_als_i's horses are a distinct and endangered lineage previously thought to have purely _ild origins.
+
+plain:  i??l?noph?rstuv??egy??a?cd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: W?YZR?SIA??D?FGH?KLMNO??T?
+
+A-21
+QDSATWNV UTEZ XTEAVNI FNDTSPE MHSQTW ZPME: EWNDVMQ, WSDNV, WINR, FTSVMQ, YSVX, WNDLTRM, UPWZETN, QMNV, SDNRYM, SVTFM.
+tropical fish display various e_otic hues: scarlet, coral, cyan, violet, gold, car_ine, fuchsia, teal, orange, olive.
+
+plain:  p??rsv??y???ea?utnoiflcdgh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?WXMUYZT??V?RSA?DEQPF??I?
+
+A-22
+NTNV JKSGYVP ESAYIRYC QERD *WEGT DTOY PRZMIRMZTH TSC AMSIREKSTH NZTES TNSKZJTHEREYP TSC THRYZYC YJKREKSTH ZYPXKSPYP.
+bab_ mon_e_s in_ected _it_ *_i_a _a_e structural and _unctional brain abnormalities and altered emotional responses.
+
+plain:  ??d?i??lcmo?ub?s?tna???per
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: TNICY???E??HJSKX?ZPRM?????
+
+A-23
+TZJKXZM ZJKW KQJF OLZYDW UJXYDW OXKL UJXWD UMFO FC CXWK UVK UJIZDW LZES XEWKIZS; SJXEDW OLXWDIQ CJFT CMZWD KF EVTU GZXE.
+martial arts tyro whacks bricks with brisk blow of fist b_t breaks hand instead; drinks whiskey from flask to n_mb _ain.
+
+plain:  ??fkno??erthl?w?y?dmb?sica
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ZUYSIC?LX?DMTEF??JWK??O?Q?
+
+A-24
+RTINQAFMZSB RTQDBNM OQNUFABMSKX GTRSNLFYBA NOBQZSFNM FMGFRFNMR. GTRSNLBQR BMHNX HZYYX RBVFMD.
+subordinate surgeon providently customized operation incisions. customers enjoy jazzy se_ing.
+
+plain:  de?g?icjb?lmnop?rstuv??yza
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ZIGAB?D?FH?KLMNO?QRSTU??XY
+
+A-25
+VPMUXKS EUIWFMKXH UCXKMFSI TXNUCDFMJUT CXKWIL TMUFTSPQKWI, NIQCDEUT WUFTVXMNI DULPST DUFHWVMPSI DQEAFMJ USIML.
+foreign lethargic emigrant disembarked mighty dreadnought, stumbled headfirst beyond beachfront bulwark entry.
+
+plain:  w?mbla?ctkgyrs?ou?ndefhi??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FDHTUVKWX?JECSP??MNIQ?A?L?
+
+P-1
+THKCA HGMEM PMHBT NXPYR YKXLH ZVEMH LDEOY ZPHZH IDXVA HGMEM PMHBT NXPYR YKXLH ZVEMG HPHLD EOYZP HZHFX KCPTX EG.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-2
+ZFHDT JFLTA ATBYH BURFV GHBUF MBAKJ TBYZB NVYZX VJUKG HJTAA CVMFI KHJJP BUKYX JTBYH JBOFF DJCFV YTLVA PVGLV YZJBL VOFRB KGCBK HFVLF HH.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-3
+EALRY BUSOP XRSDD LRUEL ROSQR RSQRY YORDT ZRSOK TDQON NRDEQ SRGRS DGOYY QRBME EOPNP MESOE OAPYT QRYDA PQRRS QAEEY RD.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-4
+CQOKP MNZOO FZCNN OFGFN UOFOB EZWYQ YAHCJ OAGMI PCNGL GOMNU YNAOY FNUYN TUOFN UOFCS UNBGA OMCTC RRJCM OYFLZ OYFFG WCFS.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-5
+GWERZ PQRBK GLLZI TGEKD GBYTY QBTER LWKKN TYKLL GYJHZ SKJZX TELGI EPGWM PYIET ZYGNN KGSLE ZHKEZ BGVKP LPN.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-6
+CWZCX ZWBVS FVAQJ PVEEV BDVEM NACBD ZNQQF BGVBJ NWEVA JNFQM AMDDF TVEZM EJNFM BVUVM PCAXH CEZME BMADL NDCEC NAQCL ZVB.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-7
+ZMPSS NMMVP CFZUX MGUNI WGFZD NMFGK NFGUN TOWZU WXMIX VNSZU MHNUL ZMPSS NMMVP CIGFZ UXMGU NIWGS ZUVXU LMPSW ZFZUC ZUZOP KUNK.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-8
+YNWEA IWAEN YIURE NWELG EIAEI SDEWD ODAKJ JGJKO DENBA IAXYO EJIWY IBJCA UJIRO DALJE IOXAY WDARC UODAB AIEPN JKODA GYNOB AIAXY OEJI.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-9
+YVQSR TDDPT NEOTE YLMCD YOSPV QEPQY TLMHV PSSYJ HPJTC MWYPC CDYUE VXMVT XRMET PVLOR ZSYCD YRONM XGYCT ZMOVY HFMXP WESPO J.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-10
+RNKJN MBOJO MBOEJ LLBZM DFEBV HRMTR NKJOM BOZBF GBSTJ FOJZH BTNLB CJMNU KWWHB VHOWH BTMJL BCJUJ BGWWQ EWWQ.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-11
+LXHAA EPFOO MZFGW NOMUA LCPMA QWKAM CPEKC MFNBA LLCPE COQCB FOZSM MKFLW OOWAP UCOCW NGANB FBAKA PFKFW KFFPB AKKWP O.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-12
+REMOG WFMTV KBHKT VARAT RVGFR GBPOJ ERGFR URORH HJXWX GBTVB VWBPG SWSBH EWOGR HWOYJ GUROV WKWFQ JYHTO SWXRO QRFGB PGSWZ RVBV.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+Used dictionary file: ..\..\..\dictionaries\words.txt
+Words compares done: 6301108281
+
+A-1 Historic prediction K2 [100] C172PILOT   _u_ a_ i _ea_e you, i _an_ you _o _no_ == _u__ __in_ _o_ mu__ you're going _o _e mi__ing. you _on'_ _a_e *ni_on _o _i__ around anymore.
+A-2   there is a remarkably close parallel between the problems o_ the physicist an_ those o_ the cryptographer.
+A-3   in chemistry la_, a _oy threw some sodium chloride on me. ta_en to the principal's o__ice, he was told that it was a salt.
+A-4   _hen spaghetti is _inished _oo_ing and _ead_ to eat it _i__ sti__ to the _a__. *_o_ o_ *_oo_ing
+A-5   maturity is n_t _hen _e start s_ea_ing _ig things. it is _hen _e start understanding sma__ things.
+A-6   exactly thirteen years before _y birth, the great *se_te_ber hurricane of thirty=eight struck *ne_ *englan_.
+A-7   do _ou think that when the_ asked *_eor_e *washin_ton for identification that he _ust whi__ed out a quarter?
+A-8   drag your thoughts a_ay _ro_ your troubles by the ears, by the heels, or any other _ay. it's the healthiest thing a body _an do.
+A-9   a__or_ing to _o_, the greatest _a__ sitter o_ all ti_e is not *_ar_ *_o__ins, __t the television. here's *s_onge_o_!
+A-10   anybody _ho has any doubt about the ingenuity or resourcefulness of a plumber obviously never got a bill from one.
+A-11   ___ _____ ___ ____ ___ ______; ___ ____ ________ ____ __ ___ ____ __ ____ ____ __ _______ _____. *____ *_____
+A-12   philosopher *_ean *rousseau ga_e all fi_e of his children to a foundling hospital so the_ wouldn’t interfere with his wor_.
+A-13   from a *ne_ *_amp__ire application form for a tax exemption: be __re and dread t_e la_ before filling o_t application.
+A-14   *d*n*a _s ___e a computer program, _ut far, far more advanced t_an an_ software we've ever created. *____ *gates
+A-15   color in certain places _as t_e great value o_ ma_ing t_e outlines an_ structural planes seem more energetic. *antoni *gau_i
+A-16   ours is t_e age o_ substitutes: instea_ o_ language, _e _a_e jargon; instea_ o_ principles, slogans.
+A-17   t_e unique premium quality of *ravensburger pu__les ma_es t_em an unforgettable experience. discover t_e perfect fit.
+A-18   my sister=in=la_, an attorney=at=la_, enjoys _or_in_ _it_ _or_et=me=nots, *jo_nny=jump=ups, an_ *ja__=in=t_e=pulpits.
+A-19   _our hundred thirty=eight mi__ion, _ive hundred seventy=nine thousand, eighty=eight is the second *munchhausen number.
+A-20   *pr_e_als_i's horses are a distinct and endangered lineage previously thought to have purely _ild origins.
+A-21   tropical fish display various e_otic hues: scarlet, coral, cyan, violet, gold, car_ine, fuchsia, teal, orange, olive.
+A-22   bab_ mon_e_s in_ected _it_ *_i_a _a_e structural and _unctional brain abnormalities and altered emotional responses.
+A-23   martial arts tyro whacks bricks with brisk blow of fist b_t breaks hand instead; drinks whiskey from flask to n_mb _ain.
+A-24   subordinate surgeon providently customized operation incisions. customers enjoy jazzy se_ing.
+A-25   foreign lethargic emigrant disembarked mighty dreadnought, stumbled headfirst beyond beachfront bulwark entry.
+

@@ -1,0 +1,363 @@
+
+A-1
+MSP BIOXN UT QYXX IQ BUXXUDR CPICXP; TIZP BUXXUDR MI BIOW, MSP OPTM BUXXUDR MI XPM MSPZ. *OIKPOM *QOITM
+___ _____ __ ____ __ _______ ______; ____ _______ __ ____, ___ ____ _______ __ ___ ____. *______ *_____
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-2
+WNGT JBF TGTM LTTP QCBBYTS LJ EWOPVQ EWNE VB LFAC OP EWT POVWE? JBF RNP EWNPY JBFM TIEOPREOBP PTFMBPQ UBM EWNE.
+ha_e _ou e_er _een s_ooke_ __ things that go _u__ in the night? _ou can thank _our extinction neurons _or that.
+
+plain:  ?o??tu??x???rainsc?e?gh?k?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?R?T?VWO?Y??PB??MQEF??I??
+
+A-3
+LKDGAOYI QYGAJH HDQNSJRY WJS. DI BZLR, RKYW SQSZGGW OYMYZR, UJOA BJO UJOA, UKZR WJS QKJSGAI'R KZTY QZDA.
+children seldom misquote you. in _act, they usually re_eat, _ord _or _ord, _hat you shouldn't ha_e said.
+
+plain:  d??i??lmnohc?qr?stu???y?ea
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Z?LAY??KD??GHIJ?NOQRS???W?
+
+A-4
+UJHL LKG LOXG UZ DATY LU L DUGLIB KLUG ZP HTHG YTXGD EGK SZJK PZK LH THIGPTHTUG EGKTZI ZP UTYG.
+t_na are a__e to s_i_ at a steady rate of nine _i_es per _o_r for an indefinite period of ti_e.
+
+plain:  ?y?sp?end?ra???f???it????o
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: L??IGP??T????HZE?KDU????B?
+
+A-5
+EXU *U*B*Q YD UHTICDYHW EXU DBCQLYHW IV SQVVUYHU YH *XQJQYY EI SIHECIM Q BIBFMQEYIH IV ECUU VCIWD.
+t_e *e*p*a is endorsing t_e spraying of caffeine in *_a_aii to control a population of tree frogs.
+
+plain:  ?prstu?no??yl???a?cdefg?i?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?STUVW?Y??M?HIB?CDEF???L?
+
+A-6
+CGDF OGF GA U AESTYPUMUFT UMW Q OUMMEF EHTPDFUFT ZEJ SGOZ FZT RQFOZTM QD IEERQMY IQRT U OPQST DOTMT.
+_ust cut up a pomegranate an_ i cannot overstate ho_ much the kitchen is _ooking _ike a crime scene.
+
+plain:  p??sotuv????n?crikmea???gh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?O?T?YZQ?R?SMEA?PDFGH????
+
+A-7
+H VGKD LHA ORZK HKGCD ZDA ODQBDAZ ME ZTD LMADX TD FDZK HAC AGADZX ODQBDAZ ME ZTD EQDD HCUGBD. *THQQX *NHQAK
+a _ise _an p_ts aside ten percent __ t_e __ney _e _ets and ninety percent __ t_e _ree ad_ice. *_arry *_arns
+
+plain:  ncde??ia??s???p?r??????y?t
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: H?BCD???G????A?O?QKZ????X?
+
+A-8
+SY OEH QDX HBQTNX GE FGQGX OEHD RDETNXU SB GASDGXXB JEDWF ED NXFF, OEH WE BEG DXQNNO HBWXDFGQBW SG OEHDFXNY.
+if you are unable to state your problem in thirteen _ords or less, you do not really understand it yourself.
+
+plain:  hn?rostu?????ly?apibm?def?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QT?WXY?AS??NUBER?DFGH???O?
+
+A-9
+RI ABEW RI R MBCRE SRE ABBF JTE OTRHI OBKEWTH JXRE XTH VRKWXJTH, IXT YI DTHQTSJAO IRJYIQYTV. *BISRH *MYAVT
+as long as a _o_an can loo_ ten years younger than her daughter, she is perfectly satisfied. *oscar *_ilde
+
+plain:  lo?pn??rstu???y?face?dghi?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: R?SVTQWXY??A?EBD?HIJK???O?
+
+A-10
+W'GZ PZQDA WY FQWA YPQY WL MTS YQRI YT *UTA, MTS QDZ EDQMWXU; WL *UTA YQRIF YT MTS, MTS PQGZ FVPWOTEPDZXWQ.
+i'_e heard it said that i_ _o_ ta__ to *_od, _o_ are pra_in_; i_ *_od ta__s to _o_, _o_ ha_e schizophrenia.
+
+plain:  d??rps????????zha??o?cinte
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?VAZ??PW????XTE?DFY?????O
+
+A-11
+OPZ KGO MPX IMPN, "LGTBXDPZW" VGMIW GW PMB PL LDUB *BMYJDWC NPVAW NDXC XCB LDUB KGHPV UPNBJW DM PVABV.
+___ ___ ___ ____, "_________" _____ __ ___ __ ____ *_______ _____ ____ ___ ____ _____ ______ __ _____.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-12
+HM *EBRMDY, SNV DRM OBYQYMU RMS OGRBLRDHQU XHUG LVQGBNNLQ SNV'WY OHDJYC, RMC UGYS XHKK UYKK SNV HE UGYS'BY YCHTKY.
+in *_rance, you can present any pharmacist _ith mushrooms you'_e picked, and they _ill tell you i_ they're edible.
+
+plain:  ?rdc??hi?klmnop?saybtu??e?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: RTDCY??GH?JKLMNO?BQUV???S?
+
+A-13
+ME MO YLDE M YDO FWPV JWP == EW SWWQ, EW SMOEIV, EW SWOI UBOISJ MVOMHI ELMO OWJE YWPSH == EW MVOEPTGE UBOISJ WRIP DVH WRIP MV NWB.
+it is what i was _orn for == to loo_, to listen, to lose myself inside this soft world == to instruct myself o_er and o_er in _oy.
+
+plain:  ?y?at?cdef?hi?sr??lumno?w?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: D?GHIJ?LM??SUVW??POET?Y?B?
+
+A-14
+DXHK XHZ ROOJ SHUUOP KXO ROZK OBTUHJHKLNJ NV FGHJKGA AOSXHJLSZ LJ VLEO DNIPZ NI UOZZ: "PNJ’K UNNQ: DHEOZ. UNNQ: THIKLSUOZ."
+____ ___ ____ ______ ___ ____ ___________ __ _______ _________ __ ____ _____ __ ____: "___’_ ____: _____. ____: _________."
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-15
+PXZJ MYKLJH SYHJ HJGYLEUV TH LYJ XYP SZLV XYKGH VYK CKJ TL AKJ XYP SKMX VYK CKJ DYGJX TL ZL XYKG.
+____ ______ ____ ________ __ ___ ___ ____ _____ ___ ___ __ ___ ___ ____ ___ ___ _____ __ __ ____.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-16
+OWAHA UM ZGA TUBBAHAGSA IAONAAG R ORP SZFFASOZH RGT ORPUTAHYUMO == OWA ORPUTAHYUMO FARLAM OWA WUTA. *YZHOUYAH *SRJFRG
+there is one difference between a tax collector and taxidermist == the taxidermist leaves the hide. *mortimer *ca_lan
+
+plain:  ef???lnrb??vswtx?acdi?h?mo
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: RISTAB?WU??FYGZ??HMO?LNP??
+
+A-17
+OSH *SXJJN=*HJHLYN OHYHCGXDH, TSUGS UC SXRCHK FO OSH *ZGKXEFYK *XJCHLAFOXLN, UC OSH OSULK YFLQHCO OHYHCGXDH UE OSH TXLYK.
+___ *_____=*______ _________, _____ __ ______ __ ___ *________ *___________, __ ___ _____ _______ _________ __ ___ _____.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-18
+RE OAK *KFWCRNA CYFWPYWK DYUK YFV NKFNK, CYLBYUYRNRLYC SGPCU AYQK NGDKOARFW OG UG SROA Y NAGJOYWK GE ECGSKJN.
+i_ the *english lang_age made an_ sense, lackadaisical wo_ld ha_e something to do with a shortage o_ _lowers.
+
+plain:  hklm?no??rec?st??iw?d?g?a?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Y?LUK?WAR?BCDFG??JNO??S???
+
+A-19
+CNI Q UQH'O IQCNHIO GJ LKJIMNO RN AXQI IXND UQD, AN GHCD VNNC OQIKOVQFIKGH KH XKO OGFKNID QO XN KO OQIKOVKNP KH XKUONCV.
+let a man's talents o_ _i_t_es _e _hat they may, _e only feel satisfaction in his society as he is satisfie_ in himself.
+
+plain:  ??ly?cont?i??es?a???mf?h??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?F?NV?XK??CUHG???OI????D?
+
+A-20
+"YTHWYT" WTGUK LCTG *EXIXHUKU NTCB GUXHDHR "KJVXB OUXBUC" XHB LDCKM WXGU DHMT VKXRU DH *UHRODKY XLMUC *NTCOB *NXC *D*D.
+"honcho" comes from *_a_anese _or_ meaning "s_ua_ _ea_er" an_ first came into usage in *eng_ish after *_or__ *_ar *i*i.
+
+plain:  ??ri??mn??sft????g?oeucah?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: X?W?ULRYD???GHT??CKMV?????
+
+A-21
+BPYPYLPB KXGKIA CTKC IRD ZRC RZXI TKFP K BUSTC CR LP KZ UZOUFUODKX, IRD TKFP KZ RLXUSKCURZ CR LP RZP. *PXPKZRB *BRRAPFPXC
+remember al_ay_ that you not only have a right to be an individual, you have an obligation to be one. *eleanor *roo_evelt
+
+plain:  ?rtu?v??y?ab??de?oghi??lmn
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: KL?OP?STU??XYZR??B?CDF??I?
+
+A-22
+PSHHSF PIYDR GQXAADFAAUG VAF HXS PAM, HXOC QSDDG OCR WYPPSHG VAF HXS UOC. *SDYNO *QAAE, *SCWDYGX OIHXAF
+better buil_ schoolrooms _or the bo_, tha_ cells a__ gibbets _or the ma_. *eli_a *coo_, *e_glish author
+
+plain:  o??l?rstu?????abc?e?m?ghi?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: OPQ?S?WXY??DU?A??FGHI?????
+
+A-23
+WVCHZS CIFQYV DFCISV EGZQUKM OKIRX CIGXY, JVF, TGSSM, FCOHVKVS JOM. DGQY SZKZXVRQV ZD DVKSIT URIJR FISOM.
+fervid rotche strode quickly along rough, wet, muddy, traveled way. such diligence is seldom known today.
+
+plain:  ??rsqtuvowl?y?a?cndmkefghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: O?QSVWXYZ?UKTRI?ECDFGHJ?M?
+
+A-24
+WG RLM L FLD HT QWLJLQEGJ, RLJF LDS QHFILMMCHDLEG. WCM LSOCQG RLM CDOLJCLPZA RCMG LDS HTEGD ZGLOGDGS PA WKFHJHKM IKDM.
+he _as a man of character, _arm and compassionate. his advice _as invaria_l_ _ise and often leavened __ humorous puns.
+
+plain:  ??intmeopruas?v?c?df??h??l
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: L?QSGT?WC??ZFDHI?JMEKO????
+
+A-25
+VDMYSDRPN NPYRFPJ VDNMYBXUB VDREADB SPNNYPWUB VAN VPRCUNYMW VAWWJ IADMCPYM PBSUMBYAM.
+funicular railway furnishes fulvous carriages for faltering foggy mountain ascension.
+
+plain:  ostuvw??my??nr?a?lc?efghi?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?S?UVWXY??RIMA??NBCDEF?J?
+
+P-1
+ZHHJN OAILQ JSIAU RNPAQ XJTUR NGJIQ NRPRZ NHERN PFZSL EQRNA PQERE ZKKAR PQVJN OAIQE RRILF APEFZ ILSZL R.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-2
+XWXLZ YWEVT BWYMZ BUTLW VZBIY BUTZV TWXCX WEVZD LYZVO VHHXW LVJVX ZWXZD VZBXC QYMSV ZOVHG VTYMZ BXWXW LVLSM HJWMT U.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-3
+WSGRA OJGGR AOQQD VJNLJ EERNK QOJWM RNVQI ODWZZ OJGGR AYJEN IQJMN RRPAL VKQND QQENV QZWEQ OJEMS WEMGR AIOQZ SZJKQ ZQMJS IQAM.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-4
+BQQLW ZALWH AKMUJ LDBUK BXXGU IKGUE WVZGW XGUAW UGIMF GBLBU FXQBE MUJBZ WVUFI MAKAK MUJLL AGXKB UMGPI WQGPM UOGUA WZWHP GOQBZ.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-5
+PLYFF RPEQT PRAVV PPCHT FGYAE VPDLA DPETK ROPVP GYAEB AYEGG XPGFQ PFYRF BTOOY EWGXP GTITD MJAVP EAHWX GGALE AJ.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-6
+DRJPW OJKZR BKFXB WBWRO MBBML KPCBM CBFRN RCKRQ XAOJK ZRBOJ SSCAB XSLRB JSWMM DKNRD SJPRQ BWRLX AAXAR BRRAW CAQNR QJAQK XG.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-7
+YXDGK XYUWY ONJQW OGIJK MNJOD GKQEP IXYBG KIWSP NJHHD OGWGY OXGQD GKFYU MPQSD JAPQY VJUVG APWYJ UMQGK VNGAJ QC.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-8
+EYCCO CEEPZ OBFZK AVBLT XLYPC QPPSZ PSYGX XCOXL SGOZA CXFGP MQAJG PFCYT FZJJC OECBF GKXLS YGXCZ OCOEZ EGOEA LLIQP GOELO JVDGD XVBGD DCYCO XSLYB P.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-9
+YDRJQ GRNNR ERCXZ UXDNI UBBDR HRGEU RZORL VGRSY GUREV BUHRV DEIUB BPXCR AXGZO BVZRG UDYKB URGIV LNNUK CYDEA GRYE.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-10
+VBDCL TQQYW DOXHR ZZEEY OIGDO GNZUE HZFYF TDOZK TPGYW RZGVB DCPDH BEDJZ GDODK NZBZO DGNYO UHGTU ETWRW BZSZJ ZYEBZ TXPGD KZTB.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-11
+HJGAR KKGJS NFGWY KCRKK LVNRW LPXVJ LYWBG VLCGX EFSOZ RJRXS KZYWB AGJJR KLJSY WLAJG FNYKO VKKYW BNRSN AYKCY WLCRO XSKKJ GGF.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-12
+BXKCG PAIMK NVJOK SAIGN XKEBO NXVRJ JDKVR CJBKR MPCVV PUANA IKRIL XRKPD PWOVN VNXOC ZBKIP JKLRN VOCNP SRNND K.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+Used dictionary file: ..\..\..\dictionaries\words.txt
+Words compares done: 11490302067
+
+A-1   ___ _____ __ ____ __ _______ ______; ____ _______ __ ____, ___ ____ _______ __ ___ ____. *______ *_____
+A-2   ha_e _ou e_er _een s_ooke_ __ things that go _u__ in the night? _ou can thank _our extinction neurons _or that.
+A-3   children seldom misquote you. in _act, they usually re_eat, _ord _or _ord, _hat you shouldn't ha_e said.
+A-4   t_na are a__e to s_i_ at a steady rate of nine _i_es per _o_r for an indefinite period of ti_e.
+A-5   t_e *e*p*a is endorsing t_e spraying of caffeine in *_a_aii to control a population of tree frogs.
+A-6   _ust cut up a pomegranate an_ i cannot overstate ho_ much the kitchen is _ooking _ike a crime scene.
+A-7   a _ise _an p_ts aside ten percent __ t_e __ney _e _ets and ninety percent __ t_e _ree ad_ice. *_arry *_arns
+A-8   if you are unable to state your problem in thirteen _ords or less, you do not really understand it yourself.
+A-9   as long as a _o_an can loo_ ten years younger than her daughter, she is perfectly satisfied. *oscar *_ilde
+A-10   i'_e heard it said that i_ _o_ ta__ to *_od, _o_ are pra_in_; i_ *_od ta__s to _o_, _o_ ha_e schizophrenia.
+A-11   ___ ___ ___ ____, "_________" _____ __ ___ __ ____ *_______ _____ ____ ___ ____ _____ ______ __ _____.
+A-12   in *_rance, you can present any pharmacist _ith mushrooms you'_e picked, and they _ill tell you i_ they're edible.
+A-13   it is what i was _orn for == to loo_, to listen, to lose myself inside this soft world == to instruct myself o_er and o_er in _oy.
+A-14   ____ ___ ____ ______ ___ ____ ___________ __ _______ _________ __ ____ _____ __ ____: "___’_ ____: _____. ____: _________."
+A-15   ____ ______ ____ ________ __ ___ ___ ____ _____ ___ ___ __ ___ ___ ____ ___ ___ _____ __ __ ____.
+A-16   there is one difference between a tax collector and taxidermist == the taxidermist leaves the hide. *mortimer *ca_lan
+A-17   ___ *_____=*______ _________, _____ __ ______ __ ___ *________ *___________, __ ___ _____ _______ _________ __ ___ _____.
+A-18   i_ the *english lang_age made an_ sense, lackadaisical wo_ld ha_e something to do with a shortage o_ _lowers.
+A-19   let a man's talents o_ _i_t_es _e _hat they may, _e only feel satisfaction in his society as he is satisfie_ in himself.
+A-20   "honcho" comes from *_a_anese _or_ meaning "s_ua_ _ea_er" an_ first came into usage in *eng_ish after *_or__ *_ar *i*i.
+A-21   remember al_ay_ that you not only have a right to be an individual, you have an obligation to be one. *eleanor *roo_evelt
+A-22   better buil_ schoolrooms _or the bo_, tha_ cells a__ gibbets _or the ma_. *eli_a *coo_, *e_glish author
+A-23   fervid rotche strode quickly along rough, wet, muddy, traveled way. such diligence is seldom known today.
+A-24   he _as a man of character, _arm and compassionate. his advice _as invaria_l_ _ise and often leavened __ humorous puns.
+A-25   funicular railway furnishes fulvous carriages for faltering foggy mountain ascension.
+

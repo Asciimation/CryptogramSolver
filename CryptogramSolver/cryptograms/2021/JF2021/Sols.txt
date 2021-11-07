@@ -1,0 +1,1332 @@
+
+A-1
+DJGCD *PJII *FMYEYG: C'RS HSRSM UYBASI Y GCBS CH YHJPESM KSMOJH'O OEJSO, ZQP C EYRS ZSSH ZJUBCHF LQCPS Y ZCP. PEYP'O FJP PJ YII QK.
+comic *todd *graham: i've never walked a mile in another person's shoes, but i have been bowling quite a bit. that's got to add up.
+
+plain:  klichgmndopqr?stuve?w???ab
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YZDIS?FEC?ABGHJKLMOPQRU???
+
+A-2
+QJ AXL ISIE NII AXLENIUJ GXVQWK XLD XJ C DQVI VCGMQWI, ELW COCA. HXW’D NDXY. HXW’D DEA DX DCUT. WXDMQWK KXXH GCW GXVI XJ QD.
+if you e_er see yourself coming out of a time machine, run a_ay. _on’t sto_. _on’t try to tal_. nothing goo_ can come of it.
+
+plain:  y?atr?c?efguhs??i???lmno??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: C?G?IJKMQ??UVWX??ENDL???A?
+
+A-2
+QJ AXL ISIE NII AXLENIUJ GXVQWK XLD XJ C DQVI VCGMQWI, ELW COCA. HXW’D NDXY. HXW’D DEA DX DCUT. WXDMQWK KXXH GCW GXVI XJ QD.
+if you ever see yourself coming out of a time machine, run away. don’t stop. don’t try to tal_. nothing good can come of it.
+
+plain:  y?atr?cdefguhsw?i?v?lmnop?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: C?GHIJKMQ??UVWXY?ENDLSO?A?
+
+A-3
+YHZXQOH TH CGF'P PDRFN XYGQP IQPQMH LHFHMXPRGFO, PDHV TRAA FHSHM IGMLHP QO. *DHFMRN *PRNNXFHF, *IRFFROD XQPDGM
+because _e _on't thin_ about future generations, the_ _i__ ne_er forget us. *henri_ *ti__anen, *finnish author
+
+plain:  ???h?noef??gr?stui?????abc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: XYZ?HILDR????FG??MOPQ?????
+
+A-3
+YHZXQOH TH CGF'P PDRFN XYGQP IQPQMH LHFHMXPRGFO, PDHV TRAA FHSHM IGMLHP QO. *DHFMRN *PRNNXFHF, *IRFFROD XQPDGM
+because we don't thin_ about future generations, the_ will never forget us. *henri_ *ti__anen, *finnish author
+
+plain:  l?dh?noef??gr?stuivw???abc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: XYZCHILDR??A?FG??MOPQST???
+
+A-3
+YHZXQOH TH CGF'P PDRFN XYGQP IQPQMH LHFHMXPRGFO, PDHV TRAA FHSHM IGMLHP QO. *DHFMRN *PRNNXFHF, *IRFFROD XQPDGM
+because _e _on't thin_ about future generations, the_ _i__ ne_er forget us. *henri_ *ti__anen, *finnish author
+
+plain:  ???h?noef??gr?stui?????abc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: XYZ?HILDR????FG??MOPQ?????
+
+A-3
+YHZXQOH TH CGF'P PDRFN XYGQP IQPQMH LHFHMXPRGFO, PDHV TRAA FHSHM IGMLHP QO. *DHFMRN *PRNNXFHF, *IRFFROD XQPDGM
+because we _on't think about future generations, the_ wi__ ne_er forget us. *henrik *tikkanen, *finnish author
+
+plain:  ???h?noef??grkstui?w???abc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: XYZ?HILDR?N??FG??MOPQ?T???
+
+A-4
+ISFGBEN QRLQNF GXRRF Q FGBEN . . . GIQG'F LIN NBJ YJFG QRLQNF VRXQE SG UXZBEX NBJE *WQW JFXF GIX VBYCJGXE!
+history always tells a story . . . that's why you _ust always _lear it _e_ore your *_a_ uses the _o__uter!
+
+plain:  ?o??rst?hu?w?y??ali????e??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q???X??IS??R??B??EFGJ?L?N?
+
+A-4
+ISFGBEN QRLQNF GXRRF Q FGBEN . . . GIQG'F LIN NBJ YJFG QRLQNF VRXQE SG UXZBEX NBJE *WQW JFXF GIX VBYCJGXE!
+history always tells a story . . . that's why you must always clear it before your *nan uses the com_uter!
+
+plain:  ?o??rst?hu?w?y??ali?bcnemf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QUV?XZ?IS??RYWB??EFGJ?L?N?
+
+A-1
+DJGCD *PJII *FMYEYG: C'RS HSRSM UYBASI Y GCBS CH YHJPESM KSMOJH'O OEJSO, ZQP C EYRS ZSSH ZJUBCHF LQCPS Y ZCP. PEYP'O FJP PJ YII QK.
+_o_i_ *to__ *graha_: i've never _a__e_ a _i_e in another person's shoes, but i have been bo__ing quite a bit. that's got to a__ up.
+
+plain:  ??i?hg?n?opqr?stuve?????ab
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YZ??S?FEC????HJKLMOPQR????
+
+A-4
+ISFGBEN QRLQNF GXRRF Q FGBEN . . . GIQG'F LIN NBJ YJFG QRLQNF VRXQE SG UXZBEX NBJE *WQW JFXF GIX VBYCJGXE!
+history always tells a story . . . that's why you _ust always _lear it _e_ore your *_a_ uses the _o__uter!
+
+plain:  ?o??rst?hu?w?y??ali????e??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q???X??IS??R??B??EFGJ?L?N?
+
+A-4
+ISFGBEN QRLQNF GXRRF Q FGBEN . . . GIQG'F LIN NBJ YJFG QRLQNF VRXQE SG UXZBEX NBJE *WQW JFXF GIX VBYCJGXE!
+history always tells a story . . . that's why you must always clear it _e_ore your *nan uses the computer!
+
+plain:  ?op?rst?hu?w?y??ali??cnem?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?V?X??IS??RYWBC?EFGJ?L?N?
+
+A-4
+ISFGBEN QRLQNF GXRRF Q FGBEN . . . GIQG'F LIN NBJ YJFG QRLQNF VRXQE SG UXZBEX NBJE *WQW JFXF GIX VBYCJGXE!
+history always tells a story . . . that's why you must always clear it before your *nan uses the computer!
+
+plain:  ?op?rst?hu?w?y??ali?bcnemf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QUV?XZ?IS??RYWBC?EFGJ?L?N?
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *d_c_'s middle name is *_a_ntle_o_. _is comics _e_e once banned in *_inland beca_se _e doesn't _ea_ _ants.
+
+plain:  ?????alt?dims?ne?b?oc?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJP???K??GLOT???MH??????
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *duck's middle name is *fauntlero_. his comics _ere once banned in *finland because he doesn't _ear pants.
+
+plain:  k??p?alt?dimsune?brocf???h
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJPV?ZK?AGLOTD?SMHN?????
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*dona_d *d_c_'s midd_e name is *_a_nt_e_oy. _is comics we_e once _anned in *_in_and _eca_se _e doesn't wea_ _ants.
+
+plain:  ??w??a?t?dims?ney??oc?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: F?UJP???K???LOT???MH??C?Q?
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*dona_d *d_c_'s midd_e name is *_a_nt_e_o_. _is comics we_e once _anned in *_in_and _eca_se _e doesn't wea_ pants.
+
+plain:  ??wp?a?t?dims?ne???oc?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: F?UJP???K???LOTD??MH??C???
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*___al_ *_u_k'_ ____le _a_e __ *cau__ler_y. ___ ______ pere ___e ba__e_ __ *c__la__ be_au_e _e __e__'_ pear _a___.
+
+plain:  k?p??al??????u?eybr??cn?m?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRV?P?????AGYW?C?S??N???Q?
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*dona_d *d_c_'s midd_e name is *_a_nt_e_o_. _is comics pe_e once _anned in *_in_and _eca_se _e doesn't pea_ _ants.
+
+plain:  ??p??a?t?dims?ne???oc?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: F?UJP???K???LOTC??MH??????
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*dona_d *d_c_'s midd_e name is *_a_nt_e_o_. _is comics we_e once _anned in *_in_and _eca_se _e doesn't wea_ pants.
+
+plain:  ??wp?a?t?dims?ne???oc?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: F?UJP???K???LOTD??MH??C???
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *d_c_'s __ddle na_e _s *_a_ntleroy. __s co__cs were once banned _n *__nland beca_se _e doesn't wear pants.
+
+plain:  ??wp?alt?d??s?neybroc???m?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJP??????GYOTD?SMH??C?Q?
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *duck's middle name is *_auntleroy. his comics were once banned in *_inland because he doesn't wear pants.
+
+plain:  k?wp?alt?dimsuneybroc????h
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJP??ZK?AGLOTD?SMHN?C?Q?
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *duck's middle name is *_auntleroy. his comics were once banned in *_inland because he doesn't wear pants.
+
+plain:  k?wp?alt?dimsuneybroc????h
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJP??ZK?AGLOTD?SMHN?C?Q?
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *d_c_'s middle name is *_a_ntle_o_. _is comics _e_e once banned in *_inland beca_se _e doesn't _ea_ _ants.
+
+plain:  ?????alt?dims?ne?b?oc?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJP???K??GLOT???MH??????
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *d_c_'s middle name is *_a_ntlero_. _is comics were once banned in *_inland beca_se _e doesn't wear pants.
+
+plain:  ??wp?alt?dims?ne?broc?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJP???K??GLOTD?SMH??C???
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *duck's middle name is *fauntlero_. his comics were once banned in *finland because he doesn't wear pants.
+
+plain:  k?wp?alt?dimsune?brocf???h
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJPV?ZK?AGLOTD?SMHN?C???
+
+A-5
+*JTOFGJ *JNUA'M LKJJGP OFLP KM *VFNOHGPSTQ. ZKM UTLKUM CPSP TOUP RFOOPJ KO *VKOGFOJ RPUFNMP ZP JTPMO'H CPFS DFOHM.
+*donald *duck's middle name is *fauntleroy. his comics were once banned in *finland because he doesn't wear pants.
+
+plain:  k?wp?alt?dimsuneybrocf???h
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRUJPV?ZK?AGLOTD?SMHN?C?Q?
+
+A-6
+QIYTXTPF IKP I RCCN NPIX XTWP HPIZLU JKTUUXP; TU UIWPF I XIKRP IYCLZU CQ FBPPUZPFF UC SCXN IXX USP ZLUF UCRPUSPK.
+families are a good deal li_e peanut brittle; it ta_es a large amount of sweetness to hold all the nuts together.
+
+plain:  ?wo??s?pabru?d?efghit??lmn
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: IJ?NPQRST??XYZCH?KFUL?B???
+
+A-6
+QIYTXTPF IKP I RCCN NPIX XTWP HPIZLU JKTUUXP; TU UIWPF I XIKRP IYCLZU CQ FBPPUZPFF UC SCXN IXX USP ZLUF UCRPUSPK.
+families are a good deal like peanut brittle; it takes a large amount of sweetness to hold all the nuts together.
+
+plain:  ?wo??s?pabru?d?efghit?klmn
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: IJ?NPQRST?WXYZCH?KFUL?B???
+
+A-7
+XWK XL ONK FREKFO AGCF OX MRGEJ GMGPWFO OEPYYPWM NGDGEJF PF OX GUAGCF YRO CXRE HKFO LXXO LXEAGEJ.
+one of the surest ways to guard against tri__ing hazards is to always _ut your _est foot forward.
+
+plain:  w?yzrsa??defghti?u??l?no??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G??JKLMNP??U?WX??EFOR?A?CD
+
+A-7
+XWK XL ONK FREKFO AGCF OX MRGEJ GMGPWFO OEPYYPWM NGDGEJF PF OX GUAGCF YRO CXRE HKFO LXXO LXEAGEJ.
+one of the surest ways to guard against tripping hazards is to always put your best foot forward.
+
+plain:  w?yzrsab?defghti?u??l?nop?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GH?JKLMNP??U?WXY?EFOR?A?CD
+
+A-8
+OG HZV *IGOHVS *FHTHVF GQ QGV XTG QYYOXOTRRN SOV QY QRS TUV WVXTIFV OH ZTF WVVG WTGOFZVS TF T XTIFV YCQA SVTHZ XVCHOYOXTHVF.
+in the *_nited *states no one can officially die of old a_e beca_se it has been banished as a ca_se fro_ death certificates.
+
+plain:  ??r??snt?????yi?olda?ebcfh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: TWXSVY?ZO??R?GQ??CFH????N?
+
+A-8
+OG HZV *IGOHVS *FHTHVF GQ QGV XTG QYYOXOTRRN SOV QY QRS TUV WVXTIFV OH ZTF WVVG WTGOFZVS TF T XTIFV YCQA SVTHZ XVCHOYOXTHVF.
+in the *united *states no one can officially die of old age because it has been banished as a cause from death certificates.
+
+plain:  m?r??sntu????yi?oldagebcfh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: TWXSVYUZO??RAGQ??CFHI???N?
+
+A-9
+IVTIUV GYT MBV REBBVADUJ MUZFV BVIBVCVAD MQTED CVFVA IVBRVAD TW DYV DTDMU AELQVB TW IVTIUV GYT YMFV VFVB UZFVS.
+people _ho are currently alive represent about seven percent o_ the total number o_ people _ho have ever live_.
+
+plain:  nrstuv??py?ma???bc?ole??hi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MQR?V??YZ??ULATI?BCDEF??J?
+
+A-9
+IVTIUV GYT MBV REBBVADUJ MUZFV BVIBVCVAD MQTED CVFVA IVBRVAD TW DYV DTDMU AELQVB TW IVTIUV GYT YMFV VFVB UZFVS.
+people who are currently alive represent about seven percent of the total number of people who have ever lived.
+
+plain:  nrstuvw?py?ma???bcdolef?hi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MQRSVW?YZ??ULATI?BCDEFG?J?
+
+A-10
+LO SCI WREAXUV DR XU NWR CBNOXQR GCIEQ, NWR *PCUFRUN NLBVWN DR CUEJ NWLN XS JCB OAXN CU L ARUPXE RILORI, XN GXEE RILOR XUZ. *QCICNWJ *ALIZRI
+as _or helping _e in the outside world, the *_on_ent taught _e only that i_ you spit on a pen_il eraser, it will erase in_. *dorothy *par_er
+
+plain:  puo?l?w?ry?a?ts?de??nghi??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: L??QR?VWX??E?UCA?IONB?G?J?
+
+A-10
+LO SCI WREAXUV DR XU NWR CBNOXQR GCIEQ, NWR *PCUFRUN NLBVWN DR CUEJ NWLN XS JCB OAXN CU L ARUPXE RILORI, XN GXEE RILOR XUZ. *QCICNWJ *ALIZRI
+as for helping me in the outside world, the *convent taught me only that if you spit on a pencil eraser, it will erase ink. *dorothy *parker
+
+plain:  puomlvw?ry?a?tscdef?nghi?k
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: L?PQRSVWX?ZEDUCA?IONBFG?J?
+
+A-11
+NPYGD UTXZDL DZYGCNBR SUACYBC TB YGA QYGBDAL CGVVUA VAYF DZU VUNA YV DANTBC NBR ANTIJNLC, YA CTRUAYRAYFYSZYPTN.
+a_out eighty thousand persons in our country suffer fro_ the fear of trains and railways, or siderodro_opho_ia.
+
+plain:  rnst??u?lw?y?a??cdpief?goh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?QRUVXZT??I?BYS?ACDG?J?L?
+
+A-11
+NPYGD UTXZDL DZYGCNBR SUACYBC TB YGA QYGBDAL CGVVUA VAYF DZU VUNA YV DANTBC NBR ANTIJNLC, YA CTRUAYRAYFYSZYPTN.
+about eighty thousand persons in our country suffer from the fear of trains and railways, or siderodromophobia.
+
+plain:  rnst?mu?lw?y?a?bcdpief?goh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: NPQRUVXZT??IFBYS?ACDG?J?L?
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+_____ ___ _______ ___ __ ____ ____ _____ ____ ___ ___ _____ ___ ___ ___ ____ _____ __ ____ ____ ____ _______.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+abbes _op meltith __t _e salm _e_l opal_ sopt _e_ alp _e_th at_ bp_ _op _e__ sit__ e_ teet feeb _e_l _a__iet.
+
+plain:  ?????ba??etosl?hi???m?f?p?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GF??JW?PQ??NU?LY??MK??????
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+_____ ___ _______ ___ __ ____ ____ _____ ____ ___ ___ _____ ___ ___ ___ ____ _____ __ ____ ____ ____ _______.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+_eet_ ___ ith_c_n ba_ _t __hi utah ___h_ ____ uta _h_ uta_n ___ e__ ___ bt__ _c__b t_ _tt_ _tte utah __bbct_.
+
+plain:  ??u??e??at???h?ncb??i?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: IRQ?F??NU????P?????JC?????
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+_eet_ ___ ith_c_n ba_ _t __hi utah ___h_ ____ uta _h_ uta_n ___ e__ ___ bt__ _c__b t_ _tt_ _tte utah __bbct_.
+
+plain:  ??u??e??at???h?ncb??i?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: IRQ?F??NU????P?????JC?????
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+___r_ ___ _r_____ ___ _r ____ _r__ _____ ____ _r_ ___ _r___ ___ ___ ___ _r__ _____ r_ _rr_ _rr_ _r__ _____r_.
+
+plain:  ?????????r????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?????????????????J????????
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+allow the _ornin_ s_n to war_ _o_r heart when _o_ are _o_n_ an_ let the so_t win_s o_ noon _ool _o_r passion.
+
+plain:  ????plat?onhwr??is??????e?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G???Y??LQ??F?KJE?NRH??M???
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+allow the morning sun to warm your heart when you are young an_ let the soft win_s of noon _ool your passion.
+
+plain:  ??y?platuonhwr?gis??m???ef
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G???YZPLQ??FUKJE?NRHI?M?C?
+
+A-12
+GFFJM HLY UJNKQKP RIK HJ MGNU CJIN LYGNH MLYK CJI GNY CJIKP GKX FYH HLY RJZH MQKXR JZ KJJK WJJF CJIN EGRRQJK.
+allow the morning sun to warm your heart when you are young and let the soft winds of noon cool your passion.
+
+plain:  ??y?platuonhwr?gis??m?cdef
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G?WXYZPLQ??FUKJE?NRHI?M?C?
+
+A-13
+PAQJGPQRM KRMHSCH EKPQH LHPVHLC PLH XRFX=CEHHV MPGHLPC QXPQ CSPE EXJQJC, IXRMX PLH CPTHV IRQX QRGH CQPGEC.
+automatic license plate readers are hi_h=speed cameras that snap photos, which are sa_ed with time stamps.
+
+plain:  u?s?p?mewolrc??atin??d?h??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?MVH??XR??KGSJE?LCQA?I???
+
+A-13
+PAQJGPQRM KRMHSCH EKPQH LHPVHLC PLH XRFX=CEHHV MPGHLPC QXPQ CSPE EXJQJC, IXRMX PLH CPTHV IRQX QRGH CQPGEC.
+automatic license plate readers are high=speed cameras that snap photos, which are saved with time stamps.
+
+plain:  u?s?pgmewolrc??atinv?d?h??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?MVH?FXR??KGSJE?LCQATI???
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens l_i _a_ __e __sarin_ _i_ ip g______ i__ ___s ___en _an_eni_es (_i_de_s) ip ge__erad _as_des.
+
+plain:  ???ns??rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?O?K??I?D?Z?HE???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens l_i _a_ __e __sarin_ _i_ ip g______ i__ ___s ___en _an_eni_es (_i_de_s) ip ge__erad _as_des.
+
+plain:  ???ns??rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?O?K??I?D?Z?HE???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens l_i _a_ __e __sarin_ _i_ ip g______ i__ ___s ___en _an_eni_es (_i_de_s) ip ge__erad _as_des.
+
+plain:  ???ns??rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?O?K??I?D?Z?HE???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_e__ _______" ____ _e_____ __e ___ ___ _____e__ _e_ e_ _______ e__ ____ _____ ______e___ (_e_____) e_ ________ _______.
+
+plain:  ??????????e???????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????K?????????????????????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"pimp __rburs" kuru kir_urs k_i __j __u ems__ir_ gio i_ bec_amp ie_ _a_s emjur p_rjurious (_ia_u_s) i_ bujau___ c_s__us.
+
+plain:  ???rs?e?k?i??pb?omagcj?u??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: SOU?G?T?KVI?R?QN?DE?X?????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_a__ _______" ____ _a_____ __a ___ ___ _____a__ _a_ a_ _______ a__ ____ _____ ______a___ (_a_____) a_ ________ _______.
+
+plain:  ??????????a???????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: K?????????????????????????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_ao_ syncing" mini manling m_a _y_ __i bogy_and _a_ as cb_l_o_ ab_ ___g bo_in _yn_ina_ig (_a__i_g) as ci__i_y_ _yg__ig.
+
+plain:  ???ng?b?m?ad??cy?o?????ils
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: KGOL??E?X??YIDR???Z?????P?
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens l_i _a_ __e __sarin_ _i_ ip g______ i__ ___s ___en _an_eni_es (_i_de_s) ip ge__erad _as_des.
+
+plain:  ???ns??rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?O?K??I?D?Z?HE???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens lhi ha_ the __sarin_ _i_ ip g______ i_t __ts ___en _an_eni_es (ti_dets) ip ge__erad _astdes.
+
+plain:  h??nst?rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?OAK??I?D?Z?HEF??????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens l_i _a_ __e __sarin_ _i_ ip g______ i__ ___s ___en _an_eni_es (_i_de_s) ip ge__erad _as_des.
+
+plain:  ???ns??rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?O?K??I?D?Z?HE???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens l_i _a_ __e __sarin_ _i_ ip g______ i__ ___s ___en _an_eni_es (_i_de_s) ip ge__erad _as_des.
+
+plain:  ???ns??rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?O?K??I?D?Z?HE???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"at_a _se_rey" _rer _te_rey __t _sc __r __ys_te_ _to t_ ______a t__ ___y __cre asecretory (_t__r_y) t_ _rc_r_s_ _sy__ry.
+
+plain:  ???ey?????t??a?so????c?r??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?V?D?????????Q??XPK????E?
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_s__ _______" ____ _s_____ __s ___ ___ _____s__ _s_ s_ _______ s__ ____ _____ ______s___ (_s_____) s_ ________ _______.
+
+plain:  ??????????s???????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????K???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"ha_h _el_olr" _olo _al_olr __a _ei __o __re_al_ _at a_ ______h a__ ___r __iol heliolator (_a__o_r) a_ _oi_o_e_ _er__or.
+
+plain:  ???lr?????a??h?et????i?o??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: K???P??NV??D??X??E?Q??????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens l_i _a_ __e __sarin_ _i_ ip g______ i__ ___s ___en _an_eni_es (_i_de_s) ip ge__erad _as_des.
+
+plain:  ???ns??rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?O?K??I?D?Z?HE???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"se_s _uphapl" _apa _ep_apl __e _ur __a __lu_ep_ _ed e_ h_____s e__ ___l __rap suprapedal (_e__a_l) e_ har_a_u_ _ul__al.
+
+plain:  ???pl?????e??shud????r?a??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: X??QK??O???E???D?VN?P?????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"____ ____i__" _i_i ____i__ ___ ___ __i ________ ___ __ _______ ___ ____ ___i_ ____i___i_ (____i__) __ _i__i___ _____i_.
+
+plain:  ???????????????????????i??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????????X?????????????????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"ha_h _el_olr" _olo _al_olr __a _ei __o __re_al_ _at a_ ______h a__ ___r __iol heliolator (_a__o_r) a_ _oi_o_e_ _er__or.
+
+plain:  ???lr?????a??h?et????i?o??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: K???P??NV??D??X??E?Q??????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"pimp __rburs" kuru kir_urs k_i __j __u ems__ir_ gio i_ bec_amp ie_ _a_s emjur p_rjurious (_ia_u_s) i_ bujau___ c_s__us.
+
+plain:  ???rs?e?k?i??pb?omagcj?u??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: SOU?G?T?KVI?R?QN?DE?X?????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"pimp _echuck" _ucu _ic_uck __i _e_ __u _mkeric_ _i_ i_ h___omp i__ _o_k _m_uc pec_uci_uk (_iodu_k) i_ hu_oured _ek_duk.
+
+plain:  ???ck??r??i??phe?mo???du??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??DWP??OK?E?R?SN?H??X?????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"____ _e__o_w" _o_o ____o_w ___ _e_ i_o __we____ ___ __ __b____ __i __iw ___o_ _e__o___ow (i__doiw) __ _o__o_ed bewidow.
+
+plain:  ????wi?????????e????b?do??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?U?WP???F?????X???????E???
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_i__ pangens" lene lin_ens l_i _a_ __e __sarin_ _i_ ip g______ i__ ___s ___en _an_eni_es (_i_de_s) ip ge__erad _as_des.
+
+plain:  ???ns??rl?i???ga??????de?p
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??WX?O?K??I?D?Z?HE???????
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"____ __r_er_" were w_r_er_ w__ ___ __e ______r_ ___ __ _______ ___ ____ ___er __r_er__e_ (____e__) __ _e__e___ _____e_.
+
+plain:  ???r????w??????????????e??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????X????????????D????I???
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_o__ __r_er_" were wor_er_ who h__ the _____or_ _o_ o_ _______ o_t __t_ ___er __r_ero_e_ (to__et_) o_ _e__e___ ___t_e_.
+
+plain:  h??r?t??w?o????????????e??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????X??A??????K??D?F??I???
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"_o__ far_ers" were workers who had the __sa_or_ _o_ of ___k___ o_t __ts __der _ardero_es (to__ets) of _ed_e_a_ _ast_es.
+
+plain:  h??rst??w?o????a?????d?ekf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P??VXZ?A??Y???K??DEF??I???
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"gong farmers" were workers who had the unsavory _o_ of mucking out _its under gardero_es (toilets) of medieval castles.
+
+plain:  h??rstuvw?oy?gma?ni?cdlekf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?UVXZNAS?YWORK??DEFGHI?L?
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"gong farmers" were workers who had the unsavory job of mucking out _its under garderobes (toilets) of medieval castles.
+
+plain:  h??rstuvw?oy?gmabnijcdlekf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: PQUVXZNASTYWORK??DEFGHI?L?
+
+A-14
+"NKRN ZPDOXDE" IXDX IKDYXDE IAK APV FAX GREPHKDL TKQ KZ OGUYSRN KGF BSFE GRVXD NPDVXDKQXE (FKSWXFE) KZ OXVSXHPW UPEFWXE.
+"gong farmers" were workers who had the unsavory job of mucking out pits under garderobes (toilets) of medieval castles.
+
+plain:  hp?rstuvw?oy?gmabnijcdlekf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: PQUVXZNASTYWORKB?DEFGHI?L?
+
+A-15
+RPV GRPWQK MVH QVMBQRVK MFG EMNH PK DRKH QZH YRRG AH RXQ EBYZQ ABF WT XHMVBFY QR MQQHECQ. *ABDDBME *KZMNHKCHMVH
+our doubts are traitors and ma_e us _ose the good _e o_t might _in b_ _earing to attempt. *_i__iam *sha_espeare
+
+plain:  ?ip?mnde??s?a??uto???rb?gh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MW?GH?YZB???EFRC?VKQP?????
+
+A-15
+RPV GRPWQK MVH QVMBQRVK MFG EMNH PK DRKH QZH YRRG AH RXQ EBYZQ ABF WT XHMVBFY QR MQQHECQ. *ABDDBME *KZMNHKCHMVH
+___ ______ ___ ________ ___ __k_ __ l___ ___ ____ w_ _u_ _____ w__ _y u______ __ _______. *w_ll___ *___k_______
+
+plain:  w??l?????????k?????y???u??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????ND????????X?A?T?
+
+A-15
+RPV GRPWQK MVH QVMBQRVK MFG EMNH PK DRKH QZH YRRG AH RXQ EBYZQ ABF WT XHMVBFY QR MQQHECQ. *ABDDBME *KZMNHKCHMVH
+our doubts are traitors and make us lose the good we oft might win b_ fearing to attempt. *william *shakespeare
+
+plain:  wiplmnde??s?ak?uto???rbfgh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MW?GHXYZB?NDEFRC?VKQP?A???
+
+A-15
+RPV GRPWQK MVH QVMBQRVK MFG EMNH PK DRKH QZH YRRG AH RXQ EBYZQ ABF WT XHMVBFY QR MQQHECQ. *ABDDBME *KZMNHKCHMVH
+our doubts are traitors and make us lose the good we oft might win by fearing to attempt. *william *shakespeare
+
+plain:  wiplmnde??s?ak?uto?y?rbfgh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MW?GHXYZB?NDEFRC?VKQP?A?T?
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+_______ ____ ____'_ ___, __ ________ __ ____, ___ ________ ____ ___ ___ __, ______ ____ ___ _____. *_____ *______
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+_____e_ ____ ___e'_ _e_, __ _____e__ _e ___e, ___ ____e_e_ ____ ___ ___ _e, _____e ____ ___ ____e. *_____ *______
+
+plain:  ???????e??????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????H?????????????????????
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+frenzic __r_ a__i'_ _in, tr er_c_ia_ _i tc_i, n__ pontific er_c art _ne _i, _n__ai er_c rp_ _n_ri. *_ncno *_ratr_
+
+plain:  ?n????ei?zo???fa??r???c?pt
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?W?GO??H????BKY?S?Z?????J
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+co_amin w_ot z_ei's sia, do _ownsize _i dnwi, at_ fradicin _own zod _a_ _i, _a__zi _own oft _atoi. *sanar *_ozdot
+
+plain:  ?a?????iemr???cz?to??wnsfd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?OZIY??H???JWS??KXR??V??P
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+_______ ____ ____'d d__, __ ____d___ __ ____, ___ ________ ____ ___ ___ __, ______ ____ ___ _____. *d____ *______
+
+plain:  ???????????????????????d??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ???X??????????????????????
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+_eh__sl i_e_ u_ks't ts_, ge heiltsuk _s glis, ___ ___gs_sl heil ueg __h _s, ____us heil e__ ___es. *t_l__ *_euge_
+
+plain:  ??????hsk??????u??e??ilt?g
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????S?ZGV?IW??????HXP?????
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+_____s_ ____ ___s'_ _s_, __ _____s__ is ___s, ___ ____s_s_ ____ ___ ___ is, _____s ____ ___ ____s. *_____ *i_____
+
+plain:  ??i????s??????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????????C?????????H???????
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+_t_____ __te ____'_ ___, _t _t______ __ ____, _e_ h_______ _t__ _t_ ___ __, ______ _t__ the __et_. *_____ *_t__te
+
+plain:  ?????????????????et?????h?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????R??Y???????????S??????
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+worthed c_o_ ___e'_ _et, _o rocd_e__ _e _dce, t__ unt_ewed rocd _o_ _tr _e, _t___e rocd ou_ _t_oe. *_tdtn *_o__o_
+
+plain:  ?t????re?hn???w???o??cd?u?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??VWH??J?????KS??G?BY?O???
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+nematic r_e_ __gi'h hia, _e merchi_g _i _cri, a__ pla_inic merc _e_ _am _i, _a___i merc ep_ ba_ei. *hacal *_e__e_
+
+plain:  ?a?b??migtl???n???e??rchp?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: BDW?S?IXH??KGO?Y?V?J??????
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+voyager upon l_fe's sea, to yourself _e true, an_ whatever your lot _ay _e, pa__le your own canoe. *sarah *_olton
+
+plain:  ?a?c??yefgh???vl?nop?urswt
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?D?HIJK???P?RST?WXZVOY?G?
+
+A-16
+OSGBJHW VTSR PLIH'X XHB, ZS GSVWXHPI CH ZWVH, BRF YKBZHOHW GSVW PSZ QBG CH, TBFFPH GSVW SYR DBRSH. *XBWBK *CSPZSR
+voyager upon life's sea, to yourself be true, and whatever your lot _ay be, paddle your own canoe. *sarah *bolton
+
+plain:  ?abc?dyefghi??vl?nop?urswt
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: BCDFHIJKL??P?RST?WXZVOY?G?
+
+A-17
+ALLFXOIWVLU VH WTX WTLOLQRT ALUJVAWVLU WTIW ULDLZN AIU RXW WTXOX QUCXHH XJXONDLZN RXWH WTXOX. *JVORVUVI *DQOZXU
+cooperation is the thorough conviction that nobody can get there unless everybody gets there. *virginia *burden
+
+plain:  c?lb?p?sav?o?yr?ug?hnite?d
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: IDAZX?RTV??C?ULF?OHWQJ??N?
+
+A-18
+WHKM YP ZOYAMSXL, PSIMOL, HXK JMVVL, JYXXMJASEM ASLLGML HAAHJR, LAHISVSFM, HXK OMSXPYOJM ARM LAOGJAGOM YP ARM RGWHX IYKD.
+ma_e of proteins, fibers, an_ cells, connective tissues attach, stabilize, an_ reinforce the structure of the human bo__.
+
+plain:  t???vzuabc?se?rf?hi??lmnop
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: HIJ?MP?RS??VWXYZ?OLAGE???F
+
+A-18
+WHKM YP ZOYAMSXL, PSIMOL, HXK JMVVL, JYXXMJASEM ASLLGML HAAHJR, LAHISVSFM, HXK OMSXPYOJM ARM LAOGJAGOM YP ARM RGWHX IYKD.
+made of proteins, fibers, and cells, connective tissues attach, stabilize, and reinforce the structure of the human body.
+
+plain:  t??yvzuabcdse?rf?hi??lmnop
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: HIJKMP?RS??VWXYZ?OLAGE??DF
+
+A-18
+WHKM YP ZOYAMSXL, PSIMOL, HXK JMVVL, JYXXMJASEM ASLLGML HAAHJR, LAHISVSFM, HXK OMSXPYOJM ARM LAOGJAGOM YP ARM RGWHX IYKD.
+ma_e of proteins, fibers, an_ cells, connective tissues attach, stabilize, an_ reinforce the structure of the human bo__.
+
+plain:  t???vzuabc?se?rf?hi??lmnop
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: HIJ?MP?RS??VWXYZ?OLAGE???F
+
+A-18
+WHKM YP ZOYAMSXL, PSIMOL, HXK JMVVL, JYXXMJASEM ASLLGML HAAHJR, LAHISVSFM, HXK OMSXPYOJM ARM LAOGJAGOM YP ARM RGWHX IYKD.
+ma_e of proteins, fibers, an_ cells, connective tissues attach, stabilize, an_ reinforce the structure of the human bo__.
+
+plain:  t???vzuabc?se?rf?hi??lmnop
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: HIJ?MP?RS??VWXYZ?OLAGE???F
+
+A-18
+WHKM YP ZOYAMSXL, PSIMOL, HXK JMVVL, JYXXMJASEM ASLLGML HAAHJR, LAHISVSFM, HXK OMSXPYOJM ARM LAOGJAGOM YP ARM RGWHX IYKD.
+made of proteins, fibers, and cells, connective tissues attach, stabilize, and reinforce the structure of the human body.
+
+plain:  t??yvzuabcdse?rf?hi??lmnop
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: HIJKMP?RS??VWXYZ?OLAGE??DF
+
+A-19
+FTBUNF XVP NBTY UNQOS WSQVUN ZBS TBPIQS UNVP YBTCNOPF. JNOTFU UNQ *VSVWOX JBSY ZBS NVAFUQS USVPFTVUQF UB "AS. FVYYTQWVIF."
+sloths _an hold their breath _or longer than dolphins. whilst the *arabi_ word _or hamster translates to "mr. saddlebags."
+
+plain:  mop??s??gw???hine?rltab?d?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: VW?YQ?INO??TAPBC?SFU??J???
+
+A-19
+FTBUNF XVP NBTY UNQOS WSQVUN ZBS TBPIQS UNVP YBTCNOPF. JNOTFU UNQ *VSVWOX JBSY ZBS NVAFUQS USVPFTVUQF UB "AS. FVYYTQWVIF."
+sloths can hold their breath for longer than dolphins. whilst the *arabic word for hamster translates to "mr. saddlebags."
+
+plain:  mop??s??gw???hine?rltabcdf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: VWXYQZINO??TAPBC?SFU??J???
+
+A-20
+OIXAP UMFJKW: WAKQMOGVR HX JBSMIJ EMKU UXGWHAKJ, IMPJV ESMIJW OKJMHJ M WJKGJW XQ IGHHIJ OIXAPW.
+clou_ ma_ers: surfacing to exhale warm moisture, la_en whales create a series of little clou_s.
+
+plain:  ux??w?itler?a?c?fgh?mnso??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: M?O?JQRSG??IUVX??KWHA?EB??
+
+A-20
+OIXAP UMFJKW: WAKQMOGVR HX JBSMIJ EMKU UXGWHAKJ, IMPJV ESMIJW OKJMHJ M WJKGJW XQ IGHHIJ OIXAPW.
+cloud makers: surfacing to exhale warm moisture, laden whales create a series of little clouds.
+
+plain:  ux??wkitler?a?cdfgh?mnso??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: M?OPJQRSG?FIUVX??KWHA?EB??
+
+A-21
+OT FHXQX UZYCHLDUZX HTJ HZXYDCD, YND BDHCX LU GB OT XOTLSD KOSD; GZY TUTD NHX FDCOYDJ FB KDHC, HTJ TUTD NHX WZOYD DXIHVDJ FB XFOSD.
+in mas_s outrageous and austere, t_e _ears go __ in single _ile; _ut none _as merited m_ _ear, and none _as quite escaped m_ smile.
+
+plain:  ??re?m?acd?g??i???lnopqstu
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: H?IJD?L?O??SFTUVWCXYZ?????
+
+A-21
+OT FHXQX UZYCHLDUZX HTJ HZXYDCD, YND BDHCX LU GB OT XOTLSD KOSD; GZY TUTD NHX FDCOYDJ FB KDHC, HTJ TUTD NHX WZOYD DXIHVDJ FB XFOSD.
+in masks outrageous and austere, the years go by in single file; but none has merited my fear, and none has quite escaped my smile.
+
+plain:  ?yre?mbacdfg?hi?k?lnopqstu
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: HGIJDKLNO?QSFTUVWCXYZ???B?
+
+A-21
+OT FHXQX UZYCHLDUZX HTJ HZXYDCD, YND BDHCX LU GB OT XOTLSD KOSD; GZY TUTD NHX FDCOYDJ FB KDHC, HTJ TUTD NHX WZOYD DXIHVDJ FB XFOSD.
+in mas_s outrageous and austere, t_e _ears go __ in single _ile; _ut none _as merited m_ _ear, and none _as quite escaped m_ smile.
+
+plain:  ??re?m?acd?g??i???lnopqstu
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: H?IJD?L?O??SFTUVWCXYZ?????
+
+A-21
+OT FHXQX UZYCHLDUZX HTJ HZXYDCD, YND BDHCX LU GB OT XOTLSD KOSD; GZY TUTD NHX FDCOYDJ FB KDHC, HTJ TUTD NHX WZOYD DXIHVDJ FB XFOSD.
+in masks outrageous and austere, the years go by in single file; but none has merited my fear, and none has quite escaped my smile.
+
+plain:  ?yre?mbacdfg?hi?k?lnopqstu
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: HGIJDKLNO?QSFTUVWCXYZ???B?
+
+A-22
+YVDL WUIIRGTRH JHR IUCBH DY RVRPIGDVNIRH UWVR ID HIDGR RCDJZQ RVRPIGTPTIN ID EDLRG IQDJHUCXH DY QDSRH YDG SUCN QDJGH.
+_lo_ batteries use tan_s o_ electrolytes able to store enough electricity to _o_er thousands o_ ho_es _or _any hours.
+
+plain:  ??no??rstu???y?che?ialbd?g
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: UWPXR?ZQT??V?CD??GHIJ???N?
+
+A-22
+YVDL WUIIRGTRH JHR IUCBH DY RVRPIGDVNIRH UWVR ID HIDGR RCDJZQ RVRPIGTPTIN ID EDLRG IQDJHUCXH DY QDSRH YDG SUCN QDJGH.
+_lo_ batteries use tan_s o_ electrolytes able to store enough electricity to _o_er thousands o_ ho_es _or _any hours.
+
+plain:  ??no??rstu???y?che?ialbd?g
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: UWPXR?ZQT??V?CD??GHIJ???N?
+
+A-22
+YVDL WUIIRGTRH JHR IUCBH DY RVRPIGDVNIRH UWVR ID HIDGR RCDJZQ RVRPIGTPTIN ID EDLRG IQDJHUCXH DY QDSRH YDG SUCN QDJGH.
+flo_ _atteries use tanks of electrolytes a_le to store enough electricity to po_er thousands of homes for many hours.
+
+plain:  ?knop?rstu???y?chemial?dfg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?PXRYZQT?BVSCDE?GHIJ???N?
+
+A-22
+YVDL WUIIRGTRH JHR IUCBH DY RVRPIGDVNIRH UWVR ID HIDGR RCDJZQ RVRPIGTPTIN ID EDLRG IQDJHUCXH DY QDSRH YDG SUCN QDJGH.
+flow batteries use tanks of electrolytes able to store enough electricity to power thousands of homes for many hours.
+
+plain:  ?knop?rstu?w?y?chemialbdfg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: UWPXRYZQT?BVSCDE?GHIJ?L?N?
+
+A-23
+ZPCBRBDRTQ *ZCSCP *ZDZCP ZPYBSDBCO ZKYGDMI Y ZPRSPYBSCO ZPCQSDQQDLR RM FDQ ZPDXCO ZDBBRKR.
+precocious *peter *piper practiced pla_i__ a protracted prestissimo o_ _is pri_ed piccolo.
+
+plain:  ?cei??????lm??drsotu????ap
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Y?BOC???D??KL?RZ?PQST?????
+
+A-23
+ZPCBRBDRTQ *ZCSCP *ZDZCP ZPYBSDBCO ZKYGDMI Y ZPRSPYBSCO ZPCQSDQQDLR RM FDQ ZPDXCO ZDBBRKR.
+precocious *peter *piper practiced playing a protracted prestissimo on his prized piccolo.
+
+plain:  ?cei?hy?g?lmn?drsotu???zap
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Y?BOC?IFD??KLMRZ?PQST???GX
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ ____ ____ _____ ____ ____ ____ ____ ____. ____ ____ ____ ___ _____ ____, ____ ____ ____ ____.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ ____ ___e ___e_ __e_ _e__ ____ _ee_ ____. ____ ____ ____ ___ ___e_ ___e, __e_ ____ ____ ___e.
+
+plain:  ????????e?????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????I?????????????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ ____ ____ _____ ____ ____ ____ ____ ____. ____ ____ ____ ___ _____ ____, ____ ____ ____ ____.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+_e__ ____ _e__ ____ _____ e___ ____ ___e ____ _e__. ____ ____ ____ ___ _____ _e__, ____ __e_ ____ _e__.
+
+plain:  ?????????????????????????e
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????Z?????????????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+_i__ ____ _i__ ____ _____ i___ ____ ___i ____ _i__. ____ ____ ____ ___ _____ _i__, ____ __i_ ____ _i__.
+
+plain:  ?????????????????????????i
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????????Z?????????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+_a__ ____ _a__ ____ _____ a___ ____ ___a ____ _a__. ____ ____ ____ ___ _____ _a__, ____ __a_ ____ _a__.
+
+plain:  ?????????????????????????a
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Z?????????????????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ n___ ____ n____ ____ n___ ____ ____ ____. ____ ____ ___n ___ n____ ____, ____ ____ n___ ____.
+
+plain:  ?????n????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?????????????F????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ s___ ____ s____ ____ s___ ____ ____ ____. ____ ____ ___s ___ s____ ____, ____ ____ s___ ____.
+
+plain:  ?????s????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????F???????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ t___ ____ t____ ____ t___ ____ ____ ____. ____ ____ ___t ___ t____ ____, ____ ____ t___ ____.
+
+plain:  ?????t????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ???????????????????F??????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ ____ ___t ___t_ __t_ _t__ ____ _tt_ ____. ____ ____ ____ ___ ___t_ ___t, __t_ ____ ____ ___t.
+
+plain:  ????????t?????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ???????????????????I??????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ ____ ___o ___o_ __o_ _o__ ____ _oo_ ____. ____ ____ ____ ___ ___o_ ___o, __o_ ____ ____ ___o.
+
+plain:  ????????o?????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????I???????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ ____ ___e ___e_ __e_ _e__ ____ _ee_ ____. ____ ____ ____ ___ ___e_ ___e, __e_ ____ ____ ___e.
+
+plain:  ????????e?????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????I?????????????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ w___ ___e w_te_ __e_ we__ ____ _ee_ ____. ____ ____ ___w ___ w_te_ ___e, __e_ ____ w__t ___e.
+
+plain:  ?????w??e?????????????t???
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????I??????????????W??F???
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+_h_l _a__ wh_r la_e wa_er htel wel_ ao_h _ee_ _ho_. _a__ ____ s_lw _o_ wa_er shoe, __e_ __h_ w___ _h_e.
+
+plain:  r????w??els?t??????a????oh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: T???I??Z???J??Y??AKM??F???
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+_h_l _a__ wh_r la_e wa_er htel wel_ ao_h _ee_ _ho_. _a__ ____ s_lw _o_ wa_er shoe, __e_ __h_ w___ _h_e.
+
+plain:  r????w??els?t??????a????oh
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: T???I??Z???J??Y??AKM??F???
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+___l _auk ____ lake _a_e_ __el _els an__ keet t_nk. _a__ kist _il_ ink _a_e_ __ne, __e_ tu_k _i__ __se.
+
+plain:  ???????sel?k?i????ta???un?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: T???I???N?LJ?Y????HSX?????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ___e ____ __e_ _____ ____ ____ _h__ e___ __he. ____ et__ _t__ the _____ __h_, ____ ___e _t__ ____.
+
+plain:  ???????????e?t??????????h?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????L??Y???????????N??????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ___d ____ __d_ _____ ____ ____ _n__ d___ __nd. ____ da__ _a__ and _____ __n_, ____ ___d _a__ ____.
+
+plain:  ???????????d?a??????????n?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N??L?????????Y????????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+fish ___e _i__ h_ec ___c_ i_ch _ch_ ___i ecca ai_e. ____ e__a __h_ __e ___c_ _i_c, __c_ a_ie ____ _i_c.
+
+plain:  ??s?????ch?e???f??a??????i
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: S?I?LP?JZ?????????C???????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ___e ____ __eo ___o_ __o_ _o__ ____ eoo_ ___e. ____ e___ ____ __e ___o_ ___o, __o_ ___e ____ ___o.
+
+plain:  ????????o??e??????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????L?????????I???????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ___t ____ __to ___o_ __o_ _o__ ____ too_ ___t. ____ t___ ____ __t ___o_ ___o, __o_ ___t ____ ___o.
+
+plain:  ????????o??t??????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????I????L??????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ___n ____ __no ___o_ __o_ _o__ ____ noo_ ___n. ____ n___ ____ __n ___o_ ___o, __o_ ___n ____ ___o.
+
+plain:  ????????o??n??????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?????????????LI???????????
+
+A-24
+PZCJ ETXL FZGA JTLI FTWIA ZMIJ FIJH TYBZ LIIS SZYL. ETBQ LNHS KNJF NYL FTWIA KZYI, BQIG SXZL FNOW QZHI.
+____ ____ ____ ___s ___s_ __s_ _s__ ____ _ss_ ____. ____ ____ ____ ___ ___s_ ___s, __s_ ____ ____ ___s.
+
+plain:  ????????s?????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????I???????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+___ ____: ___ ___ ___. ___ ___ ___ ___. ___ ___ ___ ___. ___ ____ ___. ___, ___ ___ ___. ___ ___ ____ ____ ___ ___. ___!
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+_oo ____: ___ ___ ___. ___ _o_ _o_ _o_. ___ _o_ ___ ___. _o_ _o__ ___. _o_, ___ ___ _o_. ___ o__ ____ __o_ o__ o__. ___!
+
+plain:  ????o?????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????E???????????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+___ ___t: ___ __t ___. t__ ___ __a ___. __a ___ ___ ___. ___ __ta ___. ___, __a _a_ ___. ___ ___ that _a__ ___ ___. ___!
+
+plain:  ???????t??????ah??????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: O??????P???????????H??????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+a__ ____: ___ _e_ ___. ___ ___ ___ ___. _e_ ___ _e_ ___. ___ ____ ___. ___, _e_ e__ ___. ___ ___ ____ e___ ___ _e_. ___!
+
+plain:  ??????a????e??????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G???L?????????????????????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+all ____: ___ ___ ___. ___ _l_ _l_ _l_. ___ _l_ ___ ___. _l_ _l__ ___. _l_, ___ ___ _l_. ___ l__ ____ __l_ l__ l__. ___!
+
+plain:  ????l?a???????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G??????????E??????????????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+_oo ____: ___ ___ ___. ___ _o_ _o_ _o_. ___ _o_ ___ ___. _o_ _o__ ___. _o_, ___ ___ _o_. ___ o__ ____ __o_ o__ o__. ___!
+
+plain:  ????o?????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????E???????????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+too ____: ___ ___ ___. ___ _o_ _o_ _o_. ___ _o_ ___ ___. _o_ _o__ ___. _o_, ___ ___ _o_. ___ o__ ____ __o_ o__ o__. ___!
+
+plain:  ????o?t???????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????E????G??????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+_nn ____: ___ ___ ___. ___ _n_ _n_ _n_. ___ _n_ ___ ___. _n_ _n__ ___. _n_, ___ ___ _n_. ___ n__ ____ __n_ n__ n__. ___!
+
+plain:  ????n?????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?????????????E????????????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+___ ____: ___ ___ ___. ___ ___ ___ ___. ___ ___ ___ ___. ___ ____ ___. ___, ___ ___ ___. ___ ___ ____ ____ ___ ___. ___!
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+zoo sign: _s_ __n ___. n__ _o_ _o_ _o_. ___ sog __s ___. _og _on_ ___. _o_, ___ __i _o_. sig og_ n__n __o_ o__ o__. __i!
+
+plain:  ?g??o?zn?i??????s?????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????B?J????HE???Q??????G
+
+A-25
+GEE QJBH: UQC ZLH YNC. HNI YED UEO RED. VLO QEB WLQ YNI. WEB NEHO WCX. XEU, WLO LOJ NED. QJB EBN HPOH LOER ENX ELF. VIJ!
+zoo ____: ___ ___ ___. ___ _o_ _o_ _o_. ___ _o_ ___ ___. _o_ _o__ ___. _o_, ___ ___ _o_. ___ o__ ____ __o_ o__ o__. ___!
+
+plain:  ????o?z???????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????E??????????G

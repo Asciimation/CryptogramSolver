@@ -280,6 +280,8 @@ namespace CryptogramSolver
                     }
                 }
 
+                Console.WriteLine("Used dictionary: " + dictionaryFile);
+
                 solveAll = false; // Only solve all of them once.
                 Console.Write("Solve again (y or n): ");
                 continueInput = Console.ReadLine();

@@ -936,7 +936,10 @@ namespace CryptogramSolver
         {
             // Use the directory of the digital cons file to be the directory of the sols file.
             string htmlFile = Path.GetDirectoryName(inputFile);
-            htmlFile = htmlFile + Path.DirectorySeparatorChar + cryptogram.heading + ".html";
+            // Get just the first part of the heading.
+            int index = cryptogram.heading.IndexOf(" ");
+            string filename = cryptogram.heading.Substring(0, index);
+            htmlFile = htmlFile + Path.DirectorySeparatorChar + filename + ".html";
             cryptogram.CreateHTMLFile(htmlFile);
         }
 

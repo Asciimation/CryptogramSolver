@@ -2,7 +2,7 @@
   "profiles": {
     "CryptogramSolver": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\Simon Jansen\\source\\repos\\CryptogramSolver\\CryptogramSolver\\cryptograms\\2021\\SO2021\\SO2021DigitalCons.txt\" \"words.txt\""
+      "commandLineArgs": "\"C:\\Users\\Simon Jansen\\source\\repos\\CryptogramSolver\\CryptogramSolver\\cryptograms\\2021\\ND2021\\ND2021DigitalCons.txt\" \"ospd.txt\""
     }
   }
 }

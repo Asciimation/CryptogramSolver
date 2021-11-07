@@ -100,8 +100,12 @@ namespace CryptogramSolver
                         char plainLetter = plainText[index];
                         // Find it in the plain alphabet.
                         int plainIndex = plain.IndexOf(plainLetter);
-                        // And insert the encrypted letter in the cipher alphabet.
-                        cipher = cipher.Substring(0, plainIndex) + cipherLetter + cipher.Substring(plainIndex + 1);
+                        // If this is still unknown.
+                        if (cipher[plainIndex] == '?')
+                        {
+                            // Insert the encrypted letter in the cipher alphabet.
+                            cipher = cipher.Substring(0, plainIndex) + cipherLetter + cipher.Substring(plainIndex + 1);
+                        }
                     }
                     index++;
                 }

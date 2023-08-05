@@ -235,6 +235,7 @@ namespace CryptogramSolver
 
                     Console.WriteLine("Last substitutions: " + substitutions);
                     Console.Write("Known substitutions (AaBbCc....): ");
+                    System.Windows.Forms.SendKeys.SendWait(substitutions);
                     substitutions = Console.ReadLine();
                     substitutions = substitutions.Trim();
 
@@ -288,13 +289,22 @@ namespace CryptogramSolver
                 solveAll = false; // Only solve all of them once.
                 Console.Write("Solve again (y or n): ");
                 continueInput = Console.ReadLine();
-                if (continueInput.ToLower() == "y")
+                if (continueInput.ToLower() == "n")
                 {
-                    continueRunning = true;
+                    Console.Write("Are you really sure you want to exit (y or n): ");
+                    continueInput = Console.ReadLine();
+                    if (continueInput.ToLower() == "y")
+                    {
+                        continueRunning = false;
+                    }
+                    else
+                    {
+                        continueRunning = true;
+                    }
                 }
                 else
                 {
-                    continueRunning = false;
+                    continueRunning = true;
                 }
             }
             Console.Write("Output all sols (y or n): ");
@@ -302,6 +312,7 @@ namespace CryptogramSolver
             if (outputSols.ToLower() == "y")
             {
                 h.PrintAllSolsToFile(inputFile);
+                h.PrintJustSolsToFile(inputFile);
             }
 
             return 0;

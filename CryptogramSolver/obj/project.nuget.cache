@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XI8KjJWSI+zOZYKW3wfYYm5sDgHKD1Wbe8XIuvPG1Tlvix640klWUYj0D++CYGOMnkW7y58YMyz6dQFR33rBdg==",
+  "dgSpecHash": "rYig2gPEo2p+1l3UNhm5GhZIGgryi22LPgUaZhXs0Jh5VBfGAH0RHM2X0KV3j13yiQsdVmuV0NGaGrU2dibhGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simon Jansen\\source\\repos\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Simon Jansen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\GGPC\\source\\repos\\CryptogramSolver\\CryptogramSolver\\CryptogramSolver.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

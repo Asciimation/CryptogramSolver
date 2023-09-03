@@ -1394,3 +1394,1752 @@ A-15 Inflection point K2 [98] WORD WIZARD   person standing on *arctic *circle d
 A-16 Seasoned wisdom K2 [88] TARS TARKAS   nothing in human life is more to be lamented, than that a wise man should have so little influence. *herodotus
 A-17 Alive today, born in the twentieth century K3 [92] BION   suppose i as hi ai_e_er hit lou gaff _e i lehrs oft ai h lehr gnawn as e_uhf _o _ne s_uhre o_ i. gnh_ lehr gere lou _ori?
 
+
+A-1 Getting old #8 K2 [89] G-MAN
+UO HCBJHY MQAIYX IB TABM, "MEO XB OBJ IQRT IB OBJGHYRZ HB UJWE?" UO QAHMYG: "VYWQJHY HBUYILUYH L AYYX YNCYGI QXKLWY."
+my spouse wanted to know, "why do you talk to yourself so much?" my answer: "because sometimes i need expert advice."
+
+plain:  nop?h?rstuviwxy?al?kmbcdef
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QVWXYZ?EL?TRUABC?GHIJKMNO?
+
+A-2 Food for thought K2 [94] HODDI
+C IYGGHP MFDFDZFM PEF ZHHAO C’RF MFYN YGW DHMF PEYG PEF DFYBO C’RF FYPFG; FRFG OH, PEFW EYRF DYNF DF. *MYBJE *TYBNH *FDFMOHG
+i cannot remember the books i’ve read any more than the meals i’ve eaten; even so, they have made me. *ral_h *_aldo *emerson
+
+plain:  klimhenoc???rdst?v????y?ab
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YZINF??EC?ABDGH??MOP?R??W?
+
+A-3 Don’t trust, verify K1 [90] SWEET PEA
+KEC’H ILQALUL LULFXHNACM XET FLGK EC HNL *ACHLFCLH BAZRQX ILJGTBL HNLFL’B G RAJHTFL CLWH HE AH. *GIFGNGZ *QACJEQC
+don’t believe everything you read on the *internet simply because there’s a picture next to it. *abraham *lincoln
+
+plain:  isn?oratbcdegh??lp?uv?xy?m
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GIJKL?MNA??QZCER?FBHTU?WX?
+
+A-4 Don't look up - or down! K2 [82] SCORPIUS
+CYV *QEIG *OYPDZWP ZU *SEQPZ ZB CYV JNIDS’B CPDDVBC QEZDSZUX JZCY P CNCPD YVZXYC NW GEBC NHVI YPDW P FZDV.
+the *burj *_halifa in *dubai is the world’s tallest building with a total height of just over half a mile.
+
+plain:  ?stlumjvrw???o?ab?d?nefghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: PQ?SVWXYZG?DFUN??IBCEHJ???
+
+A-5 Going up K1 [82] SCORPIUS
+VWC PKUHX LKLNHYVTKJ PYA UCBCJVHZ CAVTIYVCX SZ VWC *NJTVCX *JYVTKJA VK WYOC CQBCCXCX CTEWV STHHTKJ.
+the world population was recently estimated by the *united *nations to have exceeded eight billion.
+
+plain:  sce?g??lmnop?uvwx?birthday
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YSBXC?EWT??HIJKL?UAVNOPQZ?
+
+A-6 Sailing prestige K2 [90] ICER
+NT YBNQNTK, ZLH *BSHXNFB’Y *FAV NY TBSHG BJZHX ZLH JNXYZ IBFLZ ZLBZ EUT ZLH FAV, YQUUV *BSHXNFB. B VXHYZNKNUAY BEBXG.
+in sailing, the *a_erica’s *cup is na_ed after the first yacht that won the cup, sloop *a_erica. a prestigious award.
+
+plain:  ua??wcdeyfgh?i??l??nop?rst
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?FGHJKLN??Q?TUV?XYZA?E?I?
+
+A-7 On motherhood K3 [94] HONEYBEE
+N HIYBZX CL VZMZX XZNGGQ NGIVZ CV BZX YBIWABYL. LBZ NGONQL BNL YI YBCVF YOCRZ == IVRZ EIX BZXLZGE NVT IVRZ EIX BZX RBCGT.
+a mother is never really alone in her thoughts. she always has to think twice == once for herself and once for her child.
+
+plain:  ghi?fklmo??svaw?yc?d?nurte
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?RTZEABC?FGHVI??XLYWMO?Q?
+
+A-8 Joe's response K4 [76] TSIOLKOVSKY
+TEQRPZ GJEAL BJQEAIJI FK HFKKJJ HDA RBFWFOJ TEQEPDB RTZHMFPFLEHDP JKKJHUT UF IBEAOEAL EU.
+simply being reminded of coffee can provoke similar psychological effects to drinking it.
+
+plain:  nr?aiobcdefgh?klmp?st?v??y
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: DGHIJKLME?OPQAFR?BTU?W??Z?
+
+A-9 Favorable reception K2 [98] TARS TARKAS
+MIR YKM GE YAARHMYFAR TL MIR YKM GE DYNTFC LGDRGFR UIG IYL PGFR WGQ Y LDYBB EYSGK UTLI IR DTCIM IYSR PGFR WGQ Y CKRYMRK GFR.
+the art of acceptance is the art of making someone who has done _o_ a small favor wish he might have done _o_ a greater one.
+
+plain:  clgmfnoph?rstk?d?eviw???a?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Y?APRECIT?NBDFGH?KLM?SU???
+
+A-10 Not so restful K4 [91] THE RAT
+UF CUSXUK’W VCMGST G PTFX UF MVSVXGUF IUK V SNVFOT VFC V KTWX. XNT ATYYNUH OUX XNT SNVFOT VFC XNT NUXTY OUX XNT KTWX.
+on doctor’s advice i went on vacation for a change and a rest. the bellhop got the change and the hotel got the rest.
+
+plain:  b?d??nipf?r?vhgw??ceoastl?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: VASCTIONG??Y?FUH?KWX?MP???
+
+A-11 Mythical music? K4 [81] WORD WIZARD
+*MRTMGEZ FZMW KGHJ *USCB SZZW HGYP QFZY FTNPF TH YCSRZXZEC SRGS MGFFTPJ UZOXU ZQ SRP JPGJ THSZ *RGJPU.
+*chicago rock band *sty_ took name from river in mythology that carried souls of the dead into *hades.
+
+plain:  ??y?gran?db?cvuefhtis?klmo
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GKMJPQERT?WXYHZ??FUSON??C?
+
+A-12 On fatherhood K4 [95] PO’ BABY
+Z EZYXSJ VK DSVYXSJ ZD ZDOXFJ YF XFTU LK HZOB, DFJ Z KZVT YF YZBS LK YXSJS, HLY Z WLVUVDW TVWXY NXFKS TFMS KXFNK LK YXS NZQ.
+a father is neither an anchor to hold us back, nor a sail to take us there, but a guiding light whose love shows us the way.
+
+plain:  ?k?nfo?b?rsuvwc?y?eldighta
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ZHOUSEWXV?BT?DF??JKYLMN?Q?
+
+A-13 Looking for work K2 [94] ICECAP
+HAEJYWV MC MW FWSBNOAKBSWC AUUYQS XMD CA PS M CSWDS ZAP. YU KAF VSC UYESR, KAF DCYOO XMGS CA QABS YW CA HAEJ CXS WSIC RMK.
+working at an unemployment office has to be a tense job. if you get fired, you still have to come in to work the next day.
+
+plain:  omtsruvwxky?aplbcde?fgnhij
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MPQRSUVXYZJOBWAN?EDCFGHIK?
+
+A-14 Stomach Steinway K2 [100] RIG R MORTIS
+DKGEZ GMS, BNK GIISEJPSY AGZ ZS QSQOVGE PY *YSEBN *TSEKG BNGB BKGINKEZ AKEK EKUOPEKJ BS QVGD PY SEJKE BS MGPY IKEBPLPIGBPSY.
+years ago, the accordion was so popular in *north *_orea that teachers were required to play in order to gain certification.
+
+plain:  wt?yr?a?cdefghuip?o?ql??ns
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G?IJKLMNP??V?YSQUEZBO?A?D?
+
+A-15 Inflection point K2 [98] WORD WIZARD
+GTJLFD LMZDRADP FD *ZJOMAO *OAJOBT RQJADP LQCCTJ LFBLMAOT DFMAOTL LQD CARVZX HJFC EFJAYFD MF YTDAME ZJFQDR BQDOEMACT.
+person standing on *arctic *circle during summer solstice notices sun midway from horizon to zenith around lunchtime.
+
+plain:  ilmnhopf?r?st?cgud?e?w?yza
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Z?ORTHPEA??BCDFG?JLMQ?V?XY
+
+A-16 Seasoned wisdom K2 [88] TARS TARKAS
+ABJUNAF NA UKYWA TNOR NH YBGR JB XR TWYRAJRP, JUWA JUWJ W MNHR YWA HUBKTP UWLR HB TNJJTR NAOTKRAZR. *URGBPBJKH
+nothing in human life is more to be lamented, than that a wise man should have so little influence. *herodotus
+
+plain:  no???grs?tuvwifd?e?lh?abmc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: WXZPROFUN??TYAB??GHJKLM???
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose l as il altered iln you _aww _e l yeids own al i yeid _ha_h as e_uiw to the s_uide of l. _hit yeid _ede you _odl?
+
+plain:  ????pldsoaetr?hyi???nf??uw
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: J??GKV?OQ??F?UIE?MHLY?Z?P?
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+nature _attfd udi __i_a __u__d _t ei__ei __ iri__ florid oai _____r aorni. __tdi __nnia __or o __u__ o_ oa_’d lirn__ _or _i ___.
+
+plain:  ?ou?a?e??i?dn????????l?rtf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: E??LGZ??J??V?MB??X?YC?????
+
+A-19 An author's perspective K2 [99] NIVEK
+KPHO PL . . . XA BROGKBAN JGXEX MUGBQNU SUPZU SO LPM YOPAN AXNNOJ YV RXNQO EOEBGPOL UXRPAN GOXJ GORPOSL. ZGPMPZ, XQMUBG *QCJPIO
+soap o_ . . . __ i_phsi_l _h___ vehicle ueo_e up _ov _po_l __llp_ __ __lcp _p_ihop_ e__o_l hp__ hp_opu_. _hovo_, _cveih *c__o_p
+
+plain:  ?i????ha??s?vlpoc?u?e?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: H?Q?U??GB??N??PO??K?SM????
+
+A-20 Keep your head up! K2 [102] BARK
+DXFECEXOVX EF AOUKEOZ GTQG MUH QDX GTX UOCM UOX GTQG TQF GTX SUKXD QOW GTX DXFSUOFERECEGM GU SEVA MUHDFXCY HS. *IQDM *TUCCUKQM
+resilien_e is knowing that you are the only one that has the power and the responsibility to pi_k yourself up. *_ary *holloway
+
+plain:  k?lristu??w?y?n?abpho?defg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QR?WXYZTE?AC?OUS?DFGH?K?M?
+
+A-21 On simplification K2 [87] SHMOO
+FZW RSEMEFP FT DENOMEXP NWRAD FT WMENEARFW FZW GAAWUWDDRCP DT FZRF FZW AWUWDDRCP URA DOWRI. *ZRAD *ZTXNRAA
+end fairies em _i__ri_s _dft_ em dri_itfed end _ttdod__f_s _m enfe end tdod__f_s oft __df_. *nft_ *nm__ftt
+
+plain:  t???ie??????r??s?famo?d??n
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: S??WFR??E???TZU??MPA??????
+
+A-22 Father time K3 [92] LIONEL
+HLN NBDHL VF GZJD BWX B LBIG YVIIVZW SNBDF ZIX. ADVUVHVKN IVGN GVDFH BAANBDNX VW VHF ZONBW GZJD YVIIVZW SNBDF BMZ.
+the earth is four and a half _illion _ears old. _ri_iti_e life first a__eared in its ocean four _illion _ears ago.
+
+plain:  ?a?r?sftlu?hgec??????ind?o
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?OXNGMLV??I?WZ??DFHJ?????
+
+A-23 Collectors K3 [95] ICECAP
+TPVPOUY MNIBOM TPVM QCBR TIB AICBM UV MOPZUCK NPBRUVW QIO AINUVW OI IXOPUV PCOIWBPNAM TBIK TPKICM WBUZUBIV MOPBM.
+station y_upiy stay _mp_ sup jumpy oa yit_om_ _tp_oa_ _ui ju_oa_ iu u_itoa tmiu_pt_jy spu_ st_umy _po_opua yitpy.
+
+plain:  jpm?????u???y?it???soa??n?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: V???????OA??CYUB??TPI???M?
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+__einsne__ m_o__ em _____ninsn_o_neg _______e__ o_in_g__ _ee___o_neg. openings mee____ ____n___ pn__o_ o___g_neg.
+
+plain:  ????gp??m??????o?e?????nis
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ????R?E?Y???IXPF??Z???????
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+____ __e_m__o_d somebodys ___dy ___e _bd_____d_ ____dy_mb__ sdboy, _om_s _be__y=_od_m_ s_e___ybd yb _moy__ __sy_d_.
+
+plain:  ??????ed??m????????s?oy??b
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?Z?HG???????K?V???T?????W?
+
+P-1 Advice by MLK, Jr K1 [103/21] (QBUNYPYL) DANEEL
+XDPTL BZYKD HPKEV YSLYX DPTLB ZYKSL YKEVY NZHGX DPTLB ZYKNZ HGKEV YBSZN HALKN EZKVM VSPTL CTPTL EZMVK TGVVR ITMXY UDTSN ZSC.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-2 Need memory K2 [92/18] (MJYWCZCW) RIG R MORTIS
+RTFWB RBVXQ OCTUT CDFBI WTMKB GDGSS TMRKU BCVTF ODATQ XUXQI BCSXD FWTCT OIBCS FBGDT XUKBG UBCVT FRTFW BRBVX QO.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-3 Entertainment K2 [102/21] (JYIJFY) OOBOO
+PORJO DLAXF YDFAY MDDLK TCXFT RBDCY RKDJY YUTXZ VABJP OYCKO YRWTC JKTRT KODBY TCXJY YUTXK YAYNV JVDCZ DHCDK OVCMJ MDAXP RC.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-4 As it dawns K2 [90/20] (-MQYYN) TSOJ
+FLXFE LHFYK LQKPS XJKZY SZLQS NLQKV RXJNS XWQSZ KBEVK KLYFB VQKZL QKGRU JEHSY KGFHW FZJLQ KNXSV KUEHS YKSCL.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-5 Flying Phil K2 [100/21] (NLONB) BOATTAIL
+OELIH CWODG LDOLC CYCDL DNTEL HDOED HBDYG OLCCD HPOEL OMQOE ZWJED CDJPY PCYMU DSCYG ZIWYH OEDPE TYWNG DHDNO LMISF YHYUY.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-6 Makes eating difficult K2 [97/21] (ZYYF) ICECAP
+GNLWW FSGQY LKKZO NQWWX GVLYZ GFFLX BFFZT PGSLA ZRSWR YJPPL NQWWU RTFXG VLAZR MLLWT ZORQW FAFPG FAZRJ GYYZF LYUZA QF.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-7 Naughty, naughty K3 [104/21] (WOMNIG) TSIOLKOVSKY
+FZWUW DSOFB WAFLX BLFLO HWZPV TWEGE WEFZW GOQSA UPVFP LASOM FLVZW VIPXD WLDTW SOWEA WSIPA YPALQ EVWAW VGEFL BTPVW AEWDT SFWE.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-8 Keep input gate open K4 [99/21] (MWLOV) BARK
+QVHGP YYHCR WZVDY PGXQV HGJZD TVJYV DWNXJ VGBTY SGHOW NXCVU UXIXG QVDSX ZDPJN ZBXVG WNXBZ LNWJV DWSVC XZDZY PPSPY ZCVI.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-9 T-shirt slogans K3 [92/19] (UVION) THE RAT
+YALIL JYYAZ FRTIV KYYAL RVVXV WXXTS JZJYA TYZPT JFYRV VXTFX ZPTJF YVWXZ ESVKM TFYWT KRATY SVKDJ LWEWL YOLXV ZY.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-10 Secret ingredients K2 [102/23] (LYMCH) HODDI
+ZCZUG NAFGP MEWMM ESKNX XSKBC ASMSQ MNKSG TDGZS KFYES PCFRR NDCLY KSWMS ZXUCM LIGBU DSKIB WLMCY CVSKW FZKSL CFYGD IGFSF ML.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-11 The cure K3 [99/22] (FCEY) BION
+GHQZU QCLOF KPLNK POFGT BPOYG JNKWN KQGSM PWNCU QBPTM WGZJG ZVKPO FUQKM WNNIO GEQYN ZMPTL NSGHG ZNPZY BLPCN NTTNH MGEN.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-12 Different views K3 [103/20] (QCHX) DANEEL
+XRKZK VVQWQ VXAPW ZONQU VNEPY XXRKC QULXR KPZXQ WQVXK DZKAX VQXXP ARNUS KXRKJ KNOQV XNLMY VXVXR KVNQO VCQOO QNWNJ XRYJC NJL.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+Used dictionary file: ..\..\..\dictionaries\dictionaryFromSols.txt
+Word compares done: 0
+
+A-1 Getting old #8 K2 [89] G-MAN   my spouse wanted to know, "why do you talk to yourself so much?" my answer: "because sometimes i need expert advice."
+A-2 Food for thought K2 [94] HODDI   i cannot remember the books i’ve read any more than the meals i’ve eaten; even so, they have made me. *ral_h *_aldo *emerson
+A-3 Don’t trust, verify K1 [90] SWEET PEA   don’t believe everything you read on the *internet simply because there’s a picture next to it. *abraham *lincoln
+A-4 Don't look up - or down! K2 [82] SCORPIUS   the *burj *_halifa in *dubai is the world’s tallest building with a total height of just over half a mile.
+A-5 Going up K1 [82] SCORPIUS   the world population was recently estimated by the *united *nations to have exceeded eight billion.
+A-6 Sailing prestige K2 [90] ICER   in sailing, the *a_erica’s *cup is na_ed after the first yacht that won the cup, sloop *a_erica. a prestigious award.
+A-7 On motherhood K3 [94] HONEYBEE   a mother is never really alone in her thoughts. she always has to think twice == once for herself and once for her child.
+A-8 Joe's response K4 [76] TSIOLKOVSKY   simply being reminded of coffee can provoke similar psychological effects to drinking it.
+A-9 Favorable reception K2 [98] TARS TARKAS   the art of acceptance is the art of making someone who has done _o_ a small favor wish he might have done _o_ a greater one.
+A-10 Not so restful K4 [91] THE RAT   on doctor’s advice i went on vacation for a change and a rest. the bellhop got the change and the hotel got the rest.
+A-11 Mythical music? K4 [81] WORD WIZARD   *chicago rock band *sty_ took name from river in mythology that carried souls of the dead into *hades.
+A-12 On fatherhood K4 [95] PO’ BABY   a father is neither an anchor to hold us back, nor a sail to take us there, but a guiding light whose love shows us the way.
+A-13 Looking for work K2 [94] ICECAP   working at an unemployment office has to be a tense job. if you get fired, you still have to come in to work the next day.
+A-14 Stomach Steinway K2 [100] RIG R MORTIS   years ago, the accordion was so popular in *north *_orea that teachers were required to play in order to gain certification.
+A-15 Inflection point K2 [98] WORD WIZARD   person standing on *arctic *circle during summer solstice notices sun midway from horizon to zenith around lunchtime.
+A-16 Seasoned wisdom K2 [88] TARS TARKAS   nothing in human life is more to be lamented, than that a wise man should have so little influence. *herodotus
+A-17 Alive today, born in the twentieth century K3 [92] BION   suppose l as il altered iln you _aww _e l yeids own al i yeid _ha_h as e_uiw to the s_uide of l. _hit yeid _ede you _odl?
+A-18 Aircraft fire K2 [102] LIONEL   nature _attfd udi __i_a __u__d _t ei__ei __ iri__ florid oai _____r aorni. __tdi __nnia __or o __u__ o_ oa_’d lirn__ _or _i ___.
+A-19 An author's perspective K2 [99] NIVEK   soap o_ . . . __ i_phsi_l _h___ vehicle ueo_e up _ov _po_l __llp_ __ __lcp _p_ihop_ e__o_l hp__ hp_opu_. _hovo_, _cveih *c__o_p
+A-20 Keep your head up! K2 [102] BARK   resilien_e is knowing that you are the only one that has the power and the responsibility to pi_k yourself up. *_ary *holloway
+A-21 On simplification K2 [87] SHMOO   end fairies em _i__ri_s _dft_ em dri_itfed end _ttdod__f_s _m enfe end tdod__f_s oft __df_. *nft_ *nm__ftt
+A-22 Father time K3 [92] LIONEL   the earth is four and a half _illion _ears old. _ri_iti_e life first a__eared in its ocean four _illion _ears ago.
+A-23 Collectors K3 [95] ICECAP   station y_upiy stay _mp_ sup jumpy oa yit_om_ _tp_oa_ _ui ju_oa_ iu u_itoa tmiu_pt_jy spu_ st_umy _po_opua yitpy.
+A-24 The magic act K3 [100] SHMOO   __einsne__ m_o__ em _____ninsn_o_neg _______e__ o_in_g__ _ee___o_neg. openings mee____ ____n___ pn__o_ o___g_neg.
+A-25 Medieval encounter K4 [99] BION   ____ __e_m__o_d somebodys ___dy ___e _bd_____d_ ____dy_mb__ sdboy, _om_s _be__y=_od_m_ s_e___ybd yb _moy__ __sy_d_.
+
+
+A-1 Getting old #8 K2 [89] G-MAN
+UO HCBJHY MQAIYX IB TABM, "MEO XB OBJ IQRT IB OBJGHYRZ HB UJWE?" UO QAHMYG: "VYWQJHY HBUYILUYH L AYYX YNCYGI QXKLWY."
+my spouse wanted to know, "why do you talk to yourself so much?" my answer: "because sometimes i need expert advice."
+
+plain:  nop?h?rstuviwxy?al?kmbcdef
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QVWXYZ?EL?TRUABC?GHIJKMNO?
+
+A-2 Food for thought K2 [94] HODDI
+C IYGGHP MFDFDZFM PEF ZHHAO C’RF MFYN YGW DHMF PEYG PEF DFYBO C’RF FYPFG; FRFG OH, PEFW EYRF DYNF DF. *MYBJE *TYBNH *FDFMOHG
+i cannot remember the books i’ve read any more than the meals i’ve eaten; even so, they have made me. *ral_h *_aldo *emerson
+
+plain:  klimhenoc???rdst?v????y?ab
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YZINF??EC?ABDGH??MOP?R??W?
+
+A-2 Food for thought K2 [94] HODDI
+C IYGGHP MFDFDZFM PEF ZHHAO C’RF MFYN YGW DHMF PEYG PEF DFYBO C’RF FYPFG; FRFG OH, PEFW EYRF DYNF DF. *MYBJE *TYBNH *FDFMOHG
+i cannot remember the books i’ve read any more than the meals i’ve eaten; even so, they have made me. *ralph *waldo *emerson
+
+plain:  klimhenocp??rdst?v?w??y?ab
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YZINF??EC?ABDGHJ?MOP?RT?W?
+
+A-3 Don’t trust, verify K1 [90] SWEET PEA
+KEC’H ILQALUL LULFXHNACM XET FLGK EC HNL *ACHLFCLH BAZRQX ILJGTBL HNLFL’B G RAJHTFL CLWH HE AH. *GIFGNGZ *QACJEQC
+don’t believe everything you read on the *internet simply because there’s a picture next to it. *abraham *lincoln
+
+plain:  isn?oratbcdegh??lp?uv?xy?m
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GIJKL?MNA??QZCER?FBHTU?WX?
+
+A-4 Don't look up - or down! K2 [82] SCORPIUS
+CYV *QEIG *OYPDZWP ZU *SEQPZ ZB CYV JNIDS’B CPDDVBC QEZDSZUX JZCY P CNCPD YVZXYC NW GEBC NHVI YPDW P FZDV.
+the *burj *_halifa in *dubai is the world’s tallest building with a total height of just over half a mile.
+
+plain:  ?stlumjvrw???o?ab?d?nefghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: PQ?SVWXYZG?DFUN??IBCEHJ???
+
+A-4 Don't look up - or down! K2 [82] SCORPIUS
+CYV *QEIG *OYPDZWP ZU *SEQPZ ZB CYV JNIDS’B CPDDVBC QEZDSZUX JZCY P CNCPD YVZXYC NW GEBC NHVI YPDW P FZDV.
+the *burj *khalifa in *dubai is the world’s tallest building with a total height of just over half a mile.
+
+plain:  ?stlumjvrw???okab?d?nefghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: PQ?SVWXYZGODFUN??IBCEHJ???
+
+A-5 Going up K1 [82] SCORPIUS
+VWC PKUHX LKLNHYVTKJ PYA UCBCJVHZ CAVTIYVCX SZ VWC *NJTVCX *JYVTKJA VK WYOC CQBCCXCX CTEWV STHHTKJ.
+the world population was recently estimated by the *united *nations to have exceeded eight billion.
+
+plain:  sce?g??lmnop?uvwx?birthday
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YSBXC?EWT??HIJKL?UAVNOPQZ?
+
+A-6 Sailing prestige K2 [90] ICER
+NT YBNQNTK, ZLH *BSHXNFB’Y *FAV NY TBSHG BJZHX ZLH JNXYZ IBFLZ ZLBZ EUT ZLH FAV, YQUUV *BSHXNFB. B VXHYZNKNUAY BEBXG.
+in sailing, the *a_erica’s *cup is na_ed after the first yacht that won the cup, sloop *a_erica. a prestigious award.
+
+plain:  ua??wcdeyfgh?i??l??nop?rst
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?FGHJKLN??Q?TUV?XYZA?E?I?
+
+A-6 Sailing prestige K2 [90] ICER
+NT YBNQNTK, ZLH *BSHXNFB’Y *FAV NY TBSHG BJZHX ZLH JNXYZ IBFLZ ZLBZ EUT ZLH FAV, YQUUV *BSHXNFB. B VXHYZNKNUAY BEBXG.
+in sailing, the *america’s *cup is named after the first yacht that won the cup, sloop *america. a prestigious award.
+
+plain:  ua??wcdeyfgh?i??l?mnop?rst
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?FGHJKLN??QSTUV?XYZA?E?I?
+
+A-7 On motherhood K3 [94] HONEYBEE
+N HIYBZX CL VZMZX XZNGGQ NGIVZ CV BZX YBIWABYL. LBZ NGONQL BNL YI YBCVF YOCRZ == IVRZ EIX BZXLZGE NVT IVRZ EIX BZX RBCGT.
+a mother is never really alone in her thoughts. she always has to think twice == once for herself and once for her child.
+
+plain:  ghi?fklmo??svaw?yc?d?nurte
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?RTZEABC?FGHVI??XLYWMO?Q?
+
+A-8 Joe's response K4 [76] TSIOLKOVSKY
+TEQRPZ GJEAL BJQEAIJI FK HFKKJJ HDA RBFWFOJ TEQEPDB RTZHMFPFLEHDP JKKJHUT UF IBEAOEAL EU.
+simply being reminded of coffee can provoke similar psychological effects to drinking it.
+
+plain:  nr?aiobcdefgh?klmp?st?v??y
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: DGHIJKLME?OPQAFR?BTU?W??Z?
+
+A-9 Favorable reception K2 [98] TARS TARKAS
+MIR YKM GE YAARHMYFAR TL MIR YKM GE DYNTFC LGDRGFR UIG IYL PGFR WGQ Y LDYBB EYSGK UTLI IR DTCIM IYSR PGFR WGQ Y CKRYMRK GFR.
+the art of acceptance is the art of making someone who has done _o_ a small favor wish he might have done _o_ a greater one.
+
+plain:  clgmfnoph?rstk?d?eviw???a?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Y?APRECIT?NBDFGH?KLM?SU???
+
+A-9 Favorable reception K2 [98] TARS TARKAS
+MIR YKM GE YAARHMYFAR TL MIR YKM GE DYNTFC LGDRGFR UIG IYL PGFR WGQ Y LDYBB EYSGK UTLI IR DTCIM IYSR PGFR WGQ Y CKRYMRK GFR.
+the art of acceptance is the art of making someone who has done you a small favor wish he might have done you a greater one.
+
+plain:  clgmfnoph?rstk?dueviw?y?a?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Y?APRECIT?NBDFGH?KLMQSU?W?
+
+A-10 Not so restful K4 [91] THE RAT
+UF CUSXUK’W VCMGST G PTFX UF MVSVXGUF IUK V SNVFOT VFC V KTWX. XNT ATYYNUH OUX XNT SNVFOT VFC XNT NUXTY OUX XNT KTWX.
+on doctor’s advice i went on vacation for a change and a rest. the bellhop got the change and the hotel got the rest.
+
+plain:  b?d??nipf?r?vhgw??ceoastl?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: VASCTIONG??Y?FUH?KWX?MP???
+
+A-11 Mythical music? K4 [81] WORD WIZARD
+*MRTMGEZ FZMW KGHJ *USCB SZZW HGYP QFZY FTNPF TH YCSRZXZEC SRGS MGFFTPJ UZOXU ZQ SRP JPGJ THSZ *RGJPU.
+*chicago rock band *sty_ took name from river in mythology that carried souls of the dead into *hades.
+
+plain:  ??y?gran?db?cvuefhtis?klmo
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GKMJPQERT?WXYHZ??FUSON??C?
+
+A-11 Mythical music? K4 [81] WORD WIZARD
+*MRTMGEZ FZMW KGHJ *USCB SZZW HGYP QFZY FTNPF TH YCSRZXZEC SRGS MGFFTPJ UZOXU ZQ SRP JPGJ THSZ *RGJPU.
+*chicago rock band *styx took name from river in mythology that carried souls of the dead into *hades.
+
+plain:  ?xy?gran?db?cvuefhtis?klmo
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GKMJPQERT?WXYHZ??FUSON?BC?
+
+A-12 On fatherhood K4 [95] PO’ BABY
+Z EZYXSJ VK DSVYXSJ ZD ZDOXFJ YF XFTU LK HZOB, DFJ Z KZVT YF YZBS LK YXSJS, HLY Z WLVUVDW TVWXY NXFKS TFMS KXFNK LK YXS NZQ.
+a father is neither an anchor to hold us back, nor a sail to take us there, but a guiding light whose love shows us the way.
+
+plain:  ?k?nfo?b?rsuvwc?y?eldighta
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ZHOUSEWXV?BT?DF??JKYLMN?Q?
+
+A-13 Looking for work K2 [94] ICECAP
+HAEJYWV MC MW FWSBNOAKBSWC AUUYQS XMD CA PS M CSWDS ZAP. YU KAF VSC UYESR, KAF DCYOO XMGS CA QABS YW CA HAEJ CXS WSIC RMK.
+working at an unemployment office has to be a tense job. if you get fired, you still have to come in to work the next day.
+
+plain:  omtsruvwxky?aplbcde?fgnhij
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MPQRSUVXYZJOBWAN?EDCFGHIK?
+
+A-14 Stomach Steinway K2 [100] RIG R MORTIS
+DKGEZ GMS, BNK GIISEJPSY AGZ ZS QSQOVGE PY *YSEBN *TSEKG BNGB BKGINKEZ AKEK EKUOPEKJ BS QVGD PY SEJKE BS MGPY IKEBPLPIGBPSY.
+years ago, the accordion was so popular in *north *_orea that teachers were required to play in order to gain certification.
+
+plain:  wt?yr?a?cdefghuip?o?ql??ns
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G?IJKLMNP??V?YSQUEZBO?A?D?
+
+A-14 Stomach Steinway K2 [100] RIG R MORTIS
+DKGEZ GMS, BNK GIISEJPSY AGZ ZS QSQOVGE PY *YSEBN *TSEKG BNGB BKGINKEZ AKEK EKUOPEKJ BS QVGD PY SEJKE BS MGPY IKEBPLPIGBPSY.
+years ago, the accordion was so popular in *north *korea that teachers were required to play in order to gain certification.
+
+plain:  wt?yr?a?cdefghuip?okql??ns
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G?IJKLMNP?TV?YSQUEZBO?A?D?
+
+A-15 Inflection point K2 [98] WORD WIZARD
+GTJLFD LMZDRADP FD *ZJOMAO *OAJOBT RQJADP LQCCTJ LFBLMAOT DFMAOTL LQD CARVZX HJFC EFJAYFD MF YTDAME ZJFQDR BQDOEMACT.
+person standing on *arctic *circle during summer solstice notices sun midway from horizon to zenith around lunchtime.
+
+plain:  ilmnhopf?r?st?cgud?e?w?yza
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Z?ORTHPEA??BCDFG?JLMQ?V?XY
+
+A-16 Seasoned wisdom K2 [88] TARS TARKAS
+ABJUNAF NA UKYWA TNOR NH YBGR JB XR TWYRAJRP, JUWA JUWJ W MNHR YWA HUBKTP UWLR HB TNJJTR NAOTKRAZR. *URGBPBJKH
+nothing in human life is more to be lamented, than that a wise man should have so little influence. *herodotus
+
+plain:  no???grs?tuvwifd?e?lh?abmc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: WXZPROFUN??TYAB??GHJKLM???
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose l as il altered iln you _aww _e l yeids own al i yeid _ha_h as e_uiw to the s_uide of l. _hit yeid _ede you _odl?
+
+plain:  ????pldsoaetr?hyi???nf??uw
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: J??GKV?OQ??F?UIE?MHLY?Z?P?
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose i rs ai rite_ev aid you wrll _e i yeavs old ri a yeav whr_h rs equal to the squave o_ i. what yeav weve you _ovi?
+
+plain:  ?w??pivsoret??hya??qd???ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q??UK??OF??Z??IETJHLYGB?P?
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose a is ba iate_e_ bad you will me a yeb_s old ia b yeb_ which is e_ubl to the s_ub_e o_ a. whbt yeb_ we_e you mo_a?
+
+plain:  ?w??pa?soiet??hybmc?d???ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FQSUK??OJ??ZR?IE??HLY?B?P?
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose i as bi aite_e_ bid you wall me i yeb_s old ai b yeb_ wha_h as e_ubl to the s_ub_e o_ i. whbt yeb_ we_e you mo_i?
+
+plain:  ?w??pi?soaet??hybm??d???ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: JQ?UK??OF??ZR?IE??HLY?B?P?
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose i rs ai rite_ev aid you wrll _e i yeavs old ri a yeav whr_h rs equal to the squave o_ i. what yeav weve you _ovi?
+
+plain:  ?w??pivsoret??hya??qd???ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q??UK??OF??Z??IETJHLYGB?P?
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose i _s ai _ite_er aid you w_ll _e i years old _i a year wh__h _s equal to the square o_ i. what year were you _ori?
+
+plain:  ?w??pirso?et??hya??qd???ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q??UK??OF??Z??IETGHLY?B?P?
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+s_ppose y is my iyue_e_ myd _o_ will he y _em_s old iy m _em_ wzi_z is e__ml uo uze s__m_e o_ y. wzmu _em_ we_e _o_ ho_y?
+
+plain:  ?w?apy?soieu??z?mh??d????l
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: D??UK??RJ??ZQ?IE??H?L?B?FO
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose a is ma iate_er man you will be a yemrs oln ia m yemr which is e_uml to the s_umre of a. whmt yemr were you bora?
+
+plain:  dw??parsoiet??hymbc?nf??ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: FRSAKV?OJ??ZQUIE?GHLY?B?P?
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose n is an inte_er and you will _e n years old in a year which is equal to the square of n. what year were you _orn?
+
+plain:  ?w??pnrsoiet??hya?cqdf??ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Q?SUKV?OJ??Z?FIETGHLY?B?P?
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose n is an integer and you will be n years old in a year which is equal to the square of n. what year were you born?
+
+plain:  ?w??pnrsoietg?hyabcqdf??ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QRSUKVMOJ??Z?FIETGHLY?B?P?
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+nature _attfd udi __i_a __u__d _t ei__ei __ iri__ florid oai _____r aorni. __tdi __nnia __or o __u__ o_ oa_’d lirn__ _or _i ___.
+
+plain:  ?ou?a?e??i?dn????????l?rtf
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: E??LGZ??J??V?MB??X?YC?????
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+nature patt__ u__ pl__a pluck_ pt e_s_e_ __ _r_c_ __ir__ ia_ __pl_r airn_. plt__ k_nn_a plir i pluck ip iac’_ __rnpl sir k_ l_p.
+
+plain:  ?iukase?p???nl????????crt?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: E?W?G???B?DN?M?I?XFYC?????
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+n_ture p_ttds usf plf__ plucks pt ef__ef __ frfc_ dwarfs a_f __pl_r _arnf. pltsf k_nnf_ plar a pluck ap a_c’s wfrnpl _ar kf l_p.
+
+plain:  ?auk??e?pf?snl???????wcrtd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?WZGJ????DN?M?I?XLYC?V???
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+_k_uyh sk___d udo stock stupid s_ honcho c_ oyop_ __ayod ako _cstcy kay_o. st_do ic__ok stay a stupi as akp’d _oy_st nay io tcs.
+
+plain:  ?auiknh?so?d?t??c?????py??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?QL???GD?E??FJW??INC???X?
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+gdiov_ sdii_n one sheud shormn si _e_u_e u_ every __aven ade _ushuv davge. shine mugged shav a shorm as adr’n _evgsh _av me hus.
+
+plain:  ?aomd???se?ngh??uy????rvi?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B??EJ?MNY???DLC??WI?QX??R?
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+gdo_v_ sdoo__ __e s_eud s__rm_ so _e_u_e u_ every __ave_ ade _us_uv davge. s_o_e mugged s_av a s__rm as adr’_ _evgs_ _av me _us.
+
+plain:  ?a?md???se??g???uy????rvo?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B??EJ?M?????D?Y??WI?QX??R?
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+_ol_w_ dollar _re diego di___r dl _e_g_e g_ ewe__ answer soe _gdigw osw_e. dilre _g__eo disw s di___ sd so_’r new_di _sw _e igd.
+
+plain:  ?s??o???de?r?i??g????n?wla
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Z??IJ?Q?N??Y?VE??LB???X???
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+_mo_t_ smoogr _ra spa_m sp___r so _a___a __ ata__ guitar ima __sp_t mit_a. spora ____am spit i sp___ is im_’r uat_sp _it _a p_s.
+
+plain:  ?i??m???sa?r?p???????u?tog
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: J?????Z?B???E?YN?LIXV?????
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+_k_uyh sk___d udo stock stupid s_ honcho c_ oyop_ __ayod ako _cstcy kay_o. st_do ic__ok stay a stupi as akp’d _oy_st nay io tcs.
+
+plain:  ?auiknh?so?d?t??c?????py??
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?QL???GD?E??FJW??INC???X?
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+_do__c ndoo_e _eh n_hrd n__vae no church rs h_hv_ __i_he idh _rn_r_ di__h. n_oeh ar__hd n_i_ i n__va in idv’e _h__n_ ui_ ah _rn.
+
+plain:  ?i?aduc?nhse????r?????v?o?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: D?GEL??JB????IY??QK?FW????
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+_ms__h tmssue _eo taocm ta__ge ts honcho cp o_o__ u_i_oe imo _ctac_ mi__o. taseo gc__om tai_ i ta__g it im_’e _o__ta ni_ go act.
+
+plain:  ?i?gmnh?tope?a??c???????su
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?Q?L?DGB???EFJK??YIZ?????
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+_oluv_ dollas use diego diur_s dl _e_g_e g_ every a_hves hoe _gdigv ohv_e. dilse _g__eo dihv h diur_ hd hor’s _ev_di _hv _e igd.
+
+plain:  ?hu?o???de?s?i??gy????rvla
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Z??IJ?QBN??Y??E??WL?CX??R?
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+ground troops use their thu__s to de_ide i_ ene__ planes are within range. those _igger than a thu__ at ar_’s length _an _e hit.
+
+plain:  ?au?r?d?te?sgh?wi????l?nop
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B??GJ?MNQ??V?XYZ?ELIC?P???
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+ground troops use their thumbs to decide if enemy planes are within range. those bigger than a thumb at arm’s length can be hit.
+
+plain:  ?aubrcd?tefsgh?wiy???lmnop
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: BDFGJKMNQ??VWXYZ?ELIC?P?R?
+
+A-19 An author's perspective K2 [99] NIVEK
+KPHO PL . . . XA BROGKBAN JGXEX MUGBQNU SUPZU SO LPM YOPAN AXNNOJ YV RXNQO EOEBGPOL UXRPAN GOXJ GORPOSL. ZGPMPZ, XQMUBG *QCJPIO
+soap o_ . . . __ i_phsi_l _h___ vehicle ueo_e up _ov _po_l __llp_ __ __lcp _p_ihop_ e__o_l hp__ hp_opu_. _hovo_, _cveih *c__o_p
+
+plain:  ?i????ha??s?vlpoc?u?e?????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: H?Q?U??GB??N??PO??K?SM????
+
+A-19 An author's perspective K2 [99] NIVEK
+KPHO PL . . . XA BROGKBAN JGXEX MUGBQNU SUPZU SO LPM YOPAN AXNNOJ YV RXNQO EOEBGPOL UXRPAN GOXJ GORPOSL. ZGPMPZ, XQMUBG *QCJPIO
+life is . . . an overlong drama through which we sit being nagged by vague memories having read reviews. critic, author *u_di_e
+
+plain:  no??m?rf?dlstgeiuvw?hy?abc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: XYZJOHNUP??KEAB??GLMQRS?V?
+
+A-19 An author's perspective K2 [99] NIVEK
+KPHO PL . . . XA BROGKBAN JGXEX MUGBQNU SUPZU SO LPM YOPAN AXNNOJ YV RXNQO EOEBGPOL UXRPAN GOXJ GORPOSL. ZGPMPZ, XQMUBG *QCJPIO
+life is . . . an overlong drama through which we sit being nagged by vague memories having read reviews. critic, author *updike
+
+plain:  nop?m?rfkdlstgeiuvw?hy?abc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: XYZJOHNUP?IKEABC?GLMQRS?V?
+
+A-20 Keep your head up! K2 [102] BARK
+DXFECEXOVX EF AOUKEOZ GTQG MUH QDX GTX UOCM UOX GTQG TQF GTX SUKXD QOW GTX DXFSUOFERECEGM GU SEVA MUHDFXCY HS. *IQDM *TUCCUKQM
+resilien_e is knowing that you are the only one that has the power and the responsibility to pi_k yourself up. *_ary *holloway
+
+plain:  k?lristu??w?y?n?abpho?defg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QR?WXYZTE?AC?OUS?DFGH?K?M?
+
+A-20 Keep your head up! K2 [102] BARK
+DXFECEXOVX EF AOUKEOZ GTQG MUH QDX GTX UOCM UOX GTQG TQF GTX SUKXD QOW GTX DXFSUOFERECEGM GU SEVA MUHDFXCY HS. *IQDM *TUCCUKQM
+resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up. *mary *holloway
+
+plain:  k?lristum?w?y?n?abphocdefg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QRVWXYZTE?ACIOUS?DFGH?K?M?
+
+A-21 On simplification K2 [87] SHMOO
+FZW RSEMEFP FT DENOMEXP NWRAD FT WMENEARFW FZW GAAWUWDDRCP DT FZRF FZW AWUWDDRCP URA DOWRI. *ZRAD *ZTXNRAA
+end fairies em _i__ri_s _dft_ em dri_itfed end _ttdod__f_s _m enfe end tdod__f_s oft __df_. *nft_ *nm__ftt
+
+plain:  t???ie??????r??s?famo?d??n
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: S??WFR??E???TZU??MPA??????
+
+A-21 On simplification K2 [87] SHMOO
+FZW RSEMEFP FT DENOMEXP NWRAD FT WMENEARFW FZW GAAWUWDDRCP DT FZRF FZW AWUWDDRCP URA DOWRI. *ZRAD *ZTXNRAA
+the ability to simpli_y means to eliminate the _nnecessary so that the necessary can speak. *hans *ho_mann
+
+plain:  n?rsit??k???lmpy?aboc?e??h
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: RSU?W??ZE?IMNATO?CDF????P?
+
+A-21 On simplification K2 [87] SHMOO
+FZW RSEMEFP FT DENOMEXP NWRAD FT WMENEARFW FZW GAAWUWDDRCP DT FZRF FZW AWUWDDRCP URA DOWRI. *ZRAD *ZTXNRAA
+the ability to simplify means to eliminate the unnecessary so that the necessary can speak. *hans *hofmann
+
+plain:  n?rsitu?k???lmpy?aboc?ef?h
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: RSU?WX?ZE?IMNATO?CDFG???P?
+
+A-22 Father time K3 [92] LIONEL
+HLN NBDHL VF GZJD BWX B LBIG YVIIVZW SNBDF ZIX. ADVUVHVKN IVGN GVDFH BAANBDNX VW VHF ZONBW GZJD YVIIVZW SNBDF BMZ.
+the earth is four and a half _illion _ears old. _ri_iti_e life first a__eared in its ocean four _illion _ears ago.
+
+plain:  ?a?r?sftlu?hgec??????ind?o
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?OXNGMLV??I?WZ??DFHJ?????
+
+A-22 Father time K3 [92] LIONEL
+HLN NBDHL VF GZJD BWX B LBIG YVIIVZW SNBDF ZIX. ADVUVHVKN IVGN GVDFH BAANBDNX VW VHF ZONBW GZJD YVIIVZW SNBDF BMZ.
+the earth is four and a half billion years old. primitive life first appeared in its ocean four billion years ago.
+
+plain:  pa?r?sftluvhgec???y?mindbo
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: BYOXNGMLV??IUWZA?DFHJK??S?
+
+A-23 Collectors K3 [95] ICECAP
+TPVPOUY MNIBOM TPVM QCBR TIB AICBM UV MOPZUCK NPBRUVW QIO AINUVW OI IXOPUV PCOIWBPNAM TBIK TPKICM WBUZUBIV MOPBM.
+station y_upiy stay _mp_ sup jumpy oa yit_om_ _tp_oa_ _ui ju_oa_ iu u_itoa tmiu_pt_jy spu_ st_umy _po_opua yitpy.
+
+plain:  jpm?????u???y?it???soa??n?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: V???????OA??CYUB??TPI???M?
+
+A-23 Collectors K3 [95] ICECAP
+TPVPOUY MNIBOM TPVM QCBR TIB AICBM UV MOPZUCK NPBRUVW QIO AINUVW OI IXOPUV PCOIWBPNAM TBIK TPKICM WBUZUBIV MOPBM.
+fanatic sports fans _ur_ for hours in sta_ium par_in_ _ot hopin_ to o_tain auto_raphs from famous _ri_iron stars.
+
+plain:  hru?????o?m?spta???fin??c?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?Y??T?AU???KVIN?BMOC?????
+
+A-23 Collectors K3 [95] ICECAP
+TPVPOUY MNIBOM TPVM QCBR TIB AICBM UV MOPZUCK NPBRUVW QIO AINUVW OI IXOPUV PCOIWBPNAM TBIK TPKICM WBUZUBIV MOPBM.
+fanatic sports fans lurk for hours in stadium parking lot hoping to obtain autographs from famous gridiron stars.
+
+plain:  hru?????o?m?sptalk?fingbcd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: PXYZ?TWAU?RQKVIN?BMOC?????
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+__y____y_g being yb __egn_____nin_y_ __eg___yge i___e__e _yy_e_in_y_. i_y_____ byy_e__ _e____eg __g_i_ inne_n_y_.
+
+plain:  ????????b??????i?y??egn???
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?I??U?V?P????W??????????R?
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+prodigious _eats o_ prestidigitation presuppose audience cooperation. a_oiding _oo_er_ requires _isua_ attention.
+
+plain:  ?qu?n???????p??aro?cestidg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?TYU?Z?X????ERMBQVWC?????
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+prodigious facts of prastidigitctio_ prasupposa cudia__a _ooparctio_. cvoidi_g foolary ra_uiras visucl ctta_tio_.
+
+plain:  ??u??v??f?y?p?lcro??astidg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?PY?IZ?X??O??RM?QVWCF??K?
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+prodigious facts of prastidigitctio_ prasupposa cudia__a _ooparctio_. cvoidi_g foo_ar_ ra_uiras visuc_ ctta_tio_.
+
+plain:  ??u??v??f???p??cro??astidg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?PY?IZ?X?????RM?QVWCF????
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+prodigious facts of prastidigitctio_ prasupposa cudia__a _ooparctio_. c_oidi_g foo_ar_ ra_uiras _isuc_ ctta_tio_.
+
+plain:  ??u?????f???p??cro??astidg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?PY?IZ?X?????RM?QVWC?????
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+prodigious _eats o_ prestidigitation presuppose audience cooperation. a_oiding _oo_er_ requires _isua_ attention.
+
+plain:  ?qu?n???????p??aro?cestidg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?TYU?Z?X????ERMBQVWC?????
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+prodigious facts of prastidigitctio_ prasupposa cudia__a _ooparctio_. c_oidi_g foo_ar_ ra_uiras _isuc_ ctta_tio_.
+
+plain:  ??u?????f???p??cro??astidg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: U?PY?IZ?X?????RM?QVWC?????
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+__y____y_g being yb __egn_____nin_y_ __eg___yge i___e__e _yy_e_in_y_. i_y_____ byy_e__ _e____eg __g_i_ inne_n_y_.
+
+plain:  ????????b??????i?y??egn???
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?I??U?V?P????W??????????R?
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+__y____y_g being yb __egn_____nin_y_ __eg___yge i___e__e _yy_e_in_y_. i_y_____ byy_e__ _e____eg __g_i_ inne_n_y_.
+
+plain:  ????????b??????i?y??egn???
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?I??U?V?P????W??????????R?
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+__y____y_g being yb __egn_____nin_y_ __eg___yge i___e__e _yy_e_in_y_. i_y_____ byy_e__ _e____eg __g_i_ inne_n_y_.
+
+plain:  ????????b??????i?y??egn???
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?I??U?V?P????W??????????R?
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+____ __e_m__o_d somebodys ___dy ___e _bd_____d_ ____dy_mb__ sdboy, _om_s _be__y=_od_m_ s_e___ybd yb _moy__ __sy_d_.
+
+plain:  ??????ed??m????????s?oy??b
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?Z?HG???????K?V???T?????W?
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+_a_e lam_re_uin surmounts giant helm _on_ealing ly_anthrope snout, lures _om_at=hungry simpleton to _rutal _estiny.
+
+plain:  ???galmnp?r????y??es?uthio
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: E???S?DXY??FGHZI?KTWV???P?
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+_a_e lambre_uin surmounts giant helm concealing lycanthrope snout, lures combat=hungry simpleton to brutal _estiny.
+
+plain:  ???galmnp?r????y?bescuthio
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ERU?S?DXY??FGHZI?KTWV???P?
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+_a_e lambre_uin surmounts giant helm concealing lycanthrope snout, lures combat=hungry simpleton to brutal destiny.
+
+plain:  d??galmnp?r????y?bescuthio
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ERUAS?DXY??FGHZI?KTWV???P?
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+_a_e lambrequin surmounts giant helm concealing lycanthrope snout, lures combat=hungry simpleton to brutal destiny.
+
+plain:  d??galmnpqr????y?bescuthio
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ERUAS?DXY??FGHZIJKTWV???P?
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+fake lambrequin surmounts giant helm concealing lycanthrope snout, lures combat=hungry simpleton to brutal destiny.
+
+plain:  d?kgalmnpqrf???y?bescuthio
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ERUASLDXY?CFGHZIJKTWV???P?
+
+A-1 Getting old #8 K2 [89] G-MAN
+UO HCBJHY MQAIYX IB TABM, "MEO XB OBJ IQRT IB OBJGHYRZ HB UJWE?" UO QAHMYG: "VYWQJHY HBUYILUYH L AYYX YNCYGI QXKLWY."
+my spouse wanted to know, "why do you talk to yourself so much?" my answer: "because sometimes i need expert advice."
+
+plain:  nop?h?rstuviwxy?al?kmbcdef
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QVWXYZ?EL?TRUABC?GHIJKMNO?
+
+A-2 Food for thought K2 [94] HODDI
+C IYGGHP MFDFDZFM PEF ZHHAO C’RF MFYN YGW DHMF PEYG PEF DFYBO C’RF FYPFG; FRFG OH, PEFW EYRF DYNF DF. *MYBJE *TYBNH *FDFMOHG
+i cannot remember the books i’ve read any more than the meals i’ve eaten; even so, they have made me. *ralph *waldo *emerson
+
+plain:  klimhenocp??rdst?v?w??y?ab
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YZINF??EC?ABDGHJ?MOP?RT?W?
+
+A-3 Don’t trust, verify K1 [90] SWEET PEA
+KEC’H ILQALUL LULFXHNACM XET FLGK EC HNL *ACHLFCLH BAZRQX ILJGTBL HNLFL’B G RAJHTFL CLWH HE AH. *GIFGNGZ *QACJEQC
+don’t believe everything you read on the *internet simply because there’s a picture next to it. *abraham *lincoln
+
+plain:  isn?oratbcdegh??lp?uv?xy?m
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GIJKL?MNA??QZCER?FBHTU?WX?
+
+A-4 Don't look up - or down! K2 [82] SCORPIUS
+CYV *QEIG *OYPDZWP ZU *SEQPZ ZB CYV JNIDS’B CPDDVBC QEZDSZUX JZCY P CNCPD YVZXYC NW GEBC NHVI YPDW P FZDV.
+the *burj *khalifa in *dubai is the world’s tallest building with a total height of just over half a mile.
+
+plain:  ?stlumjvrw???okab?d?nefghi
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: PQ?SVWXYZGODFUN??IBCEHJ???
+
+A-5 Going up K1 [82] SCORPIUS
+VWC PKUHX LKLNHYVTKJ PYA UCBCJVHZ CAVTIYVCX SZ VWC *NJTVCX *JYVTKJA VK WYOC CQBCCXCX CTEWV STHHTKJ.
+the world population was recently estimated by the *united *nations to have exceeded eight billion.
+
+plain:  sce?g??lmnop?uvwx?birthday
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: YSBXC?EWT??HIJKL?UAVNOPQZ?
+
+A-6 Sailing prestige K2 [90] ICER
+NT YBNQNTK, ZLH *BSHXNFB’Y *FAV NY TBSHG BJZHX ZLH JNXYZ IBFLZ ZLBZ EUT ZLH FAV, YQUUV *BSHXNFB. B VXHYZNKNUAY BEBXG.
+in sailing, the *america’s *cup is named after the first yacht that won the cup, sloop *america. a prestigious award.
+
+plain:  ua??wcdeyfgh?i??l?mnop?rst
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: B?FGHJKLN??QSTUV?XYZA?E?I?
+
+A-7 On motherhood K3 [94] HONEYBEE
+N HIYBZX CL VZMZX XZNGGQ NGIVZ CV BZX YBIWABYL. LBZ NGONQL BNL YI YBCVF YOCRZ == IVRZ EIX BZXLZGE NVT IVRZ EIX BZX RBCGT.
+a mother is never really alone in her thoughts. she always has to think twice == once for herself and once for her child.
+
+plain:  ghi?fklmo??svaw?yc?d?nurte
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: N?RTZEABC?FGHVI??XLYWMO?Q?
+
+A-8 Joe's response K4 [76] TSIOLKOVSKY
+TEQRPZ GJEAL BJQEAIJI FK HFKKJJ HDA RBFWFOJ TEQEPDB RTZHMFPFLEHDP JKKJHUT UF IBEAOEAL EU.
+simply being reminded of coffee can provoke similar psychological effects to drinking it.
+
+plain:  nr?aiobcdefgh?klmp?st?v??y
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: DGHIJKLME?OPQAFR?BTU?W??Z?
+
+A-9 Favorable reception K2 [98] TARS TARKAS
+MIR YKM GE YAARHMYFAR TL MIR YKM GE DYNTFC LGDRGFR UIG IYL PGFR WGQ Y LDYBB EYSGK UTLI IR DTCIM IYSR PGFR WGQ Y CKRYMRK GFR.
+the art of acceptance is the art of making someone who has done you a small favor wish he might have done you a greater one.
+
+plain:  clgmfnoph?rstk?dueviw?y?a?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Y?APRECIT?NBDFGH?KLMQSU?W?
+
+A-10 Not so restful K4 [91] THE RAT
+UF CUSXUK’W VCMGST G PTFX UF MVSVXGUF IUK V SNVFOT VFC V KTWX. XNT ATYYNUH OUX XNT SNVFOT VFC XNT NUXTY OUX XNT KTWX.
+on doctor’s advice i went on vacation for a change and a rest. the bellhop got the change and the hotel got the rest.
+
+plain:  b?d??nipf?r?vhgw??ceoastl?
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: VASCTIONG??Y?FUH?KWX?MP???
+
+A-11 Mythical music? K4 [81] WORD WIZARD
+*MRTMGEZ FZMW KGHJ *USCB SZZW HGYP QFZY FTNPF TH YCSRZXZEC SRGS MGFFTPJ UZOXU ZQ SRP JPGJ THSZ *RGJPU.
+*chicago rock band *styx took name from river in mythology that carried souls of the dead into *hades.
+
+plain:  ?xy?gran?db?cvuefhtis?klmo
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: GKMJPQERT?WXYHZ??FUSON?BC?
+
+A-12 On fatherhood K4 [95] PO’ BABY
+Z EZYXSJ VK DSVYXSJ ZD ZDOXFJ YF XFTU LK HZOB, DFJ Z KZVT YF YZBS LK YXSJS, HLY Z WLVUVDW TVWXY NXFKS TFMS KXFNK LK YXS NZQ.
+a father is neither an anchor to hold us back, nor a sail to take us there, but a guiding light whose love shows us the way.
+
+plain:  ?k?nfo?b?rsuvwc?y?eldighta
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ZHOUSEWXV?BT?DF??JKYLMN?Q?
+
+A-13 Looking for work K2 [94] ICECAP
+HAEJYWV MC MW FWSBNOAKBSWC AUUYQS XMD CA PS M CSWDS ZAP. YU KAF VSC UYESR, KAF DCYOO XMGS CA QABS YW CA HAEJ CXS WSIC RMK.
+working at an unemployment office has to be a tense job. if you get fired, you still have to come in to work the next day.
+
+plain:  omtsruvwxky?aplbcde?fgnhij
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: MPQRSUVXYZJOBWAN?EDCFGHIK?
+
+A-14 Stomach Steinway K2 [100] RIG R MORTIS
+DKGEZ GMS, BNK GIISEJPSY AGZ ZS QSQOVGE PY *YSEBN *TSEKG BNGB BKGINKEZ AKEK EKUOPEKJ BS QVGD PY SEJKE BS MGPY IKEBPLPIGBPSY.
+years ago, the accordion was so popular in *north *korea that teachers were required to play in order to gain certification.
+
+plain:  wt?yr?a?cdefghuip?okql??ns
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: G?IJKLMNP?TV?YSQUEZBO?A?D?
+
+A-15 Inflection point K2 [98] WORD WIZARD
+GTJLFD LMZDRADP FD *ZJOMAO *OAJOBT RQJADP LQCCTJ LFBLMAOT DFMAOTL LQD CARVZX HJFC EFJAYFD MF YTDAME ZJFQDR BQDOEMACT.
+person standing on *arctic *circle during summer solstice notices sun midway from horizon to zenith around lunchtime.
+
+plain:  ilmnhopf?r?st?cgud?e?w?yza
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: Z?ORTHPEA??BCDFG?JLMQ?V?XY
+
+A-16 Seasoned wisdom K2 [88] TARS TARKAS
+ABJUNAF NA UKYWA TNOR NH YBGR JB XR TWYRAJRP, JUWA JUWJ W MNHR YWA HUBKTP UWLR HB TNJJTR NAOTKRAZR. *URGBPBJKH
+nothing in human life is more to be lamented, than that a wise man should have so little influence. *herodotus
+
+plain:  no???grs?tuvwifd?e?lh?abmc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: WXZPROFUN??TYAB??GHJKLM???
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+suppose n is an integer and you will be n years old in a year which is equal to the square of n. what year were you born?
+
+plain:  ?w??pnrsoietg?hyabcqdf??ul
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QRSUKVMOJ??Z?FIETGHLY?B?P?
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+ground troops use their thumbs to decide if enemy planes are within range. those bigger than a thumb at arm’s length can be hit.
+
+plain:  ?aubrcd?tefsgh?wiy???lmnop
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: BDFGJKMNQ??VWXYZ?ELIC?P?R?
+
+A-19 An author's perspective K2 [99] NIVEK
+KPHO PL . . . XA BROGKBAN JGXEX MUGBQNU SUPZU SO LPM YOPAN AXNNOJ YV RXNQO EOEBGPOL UXRPAN GOXJ GORPOSL. ZGPMPZ, XQMUBG *QCJPIO
+life is . . . an overlong drama through which we sit being nagged by vague memories having read reviews. critic, author *updike
+
+plain:  nop?m?rfkdlstgeiuvw?hy?abc
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: XYZJOHNUP?IKEABC?GLMQRS?V?
+
+A-20 Keep your head up! K2 [102] BARK
+DXFECEXOVX EF AOUKEOZ GTQG MUH QDX GTX UOCM UOX GTQG TQF GTX SUKXD QOW GTX DXFSUOFERECEGM GU SEVA MUHDFXCY HS. *IQDM *TUCCUKQM
+resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up. *mary *holloway
+
+plain:  k?lristum?w?y?n?abphocdefg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: QRVWXYZTE?ACIOUS?DFGH?K?M?
+
+A-21 On simplification K2 [87] SHMOO
+FZW RSEMEFP FT DENOMEXP NWRAD FT WMENEARFW FZW GAAWUWDDRCP DT FZRF FZW AWUWDDRCP URA DOWRI. *ZRAD *ZTXNRAA
+the ability to simplify means to eliminate the unnecessary so that the necessary can speak. *hans *hofmann
+
+plain:  n?rsitu?k???lmpy?aboc?ef?h
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: RSU?WX?ZE?IMNATO?CDFG???P?
+
+A-22 Father time K3 [92] LIONEL
+HLN NBDHL VF GZJD BWX B LBIG YVIIVZW SNBDF ZIX. ADVUVHVKN IVGN GVDFH BAANBDNX VW VHF ZONBW GZJD YVIIVZW SNBDF BMZ.
+the earth is four and a half billion years old. primitive life first appeared in its ocean four billion years ago.
+
+plain:  pa?r?sftluvhgec???y?mindbo
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: BYOXNGMLV??IUWZA?DFHJK??S?
+
+A-23 Collectors K3 [95] ICECAP
+TPVPOUY MNIBOM TPVM QCBR TIB AICBM UV MOPZUCK NPBRUVW QIO AINUVW OI IXOPUV PCOIWBPNAM TBIK TPKICM WBUZUBIV MOPBM.
+fanatic sports fans lurk for hours in stadium parking lot hoping to obtain autographs from famous gridiron stars.
+
+plain:  hru?????o?m?sptalk?fingbcd
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: PXYZ?TWAU?RQKVIN?BMOC?????
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+__y____y_g being yb __egn_____nin_y_ __eg___yge i___e__e _yy_e_in_y_. i_y_____ byy_e__ _e____eg __g_i_ inne_n_y_.
+
+plain:  ????????b??????i?y??egn???
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ?I??U?V?P????W??????????R?
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+fake lambrequin surmounts giant helm concealing lycanthrope snout, lures combat=hungry simpleton to brutal destiny.
+
+plain:  d?kgalmnpqrf???y?bescuthio
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ERUASLDXY?CFGHZIJKTWV???P?
+
+P-1 Advice by MLK, Jr K1 [103/21] (QBUNYPYL) DANEEL
+XDPTL BZYKD HPKEV YSLYX DPTLB ZYKSL YKEVY NZHGX DPTLB ZYKNZ HGKEV YBSZN HALKN EZKVM VSPTL CTPTL EZMVK TGVVR ITMXY UDTSN ZSC.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-2 Need memory K2 [92/18] (MJYWCZCW) RIG R MORTIS
+RTFWB RBVXQ OCTUT CDFBI WTMKB GDGSS TMRKU BCVTF ODATQ XUXQI BCSXD FWTCT OIBCS FBGDT XUKBG UBCVT FRTFW BRBVX QO.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-3 Entertainment K2 [102/21] (JYIJFY) OOBOO
+PORJO DLAXF YDFAY MDDLK TCXFT RBDCY RKDJY YUTXZ VABJP OYCKO YRWTC JKTRT KODBY TCXJY YUTXK YAYNV JVDCZ DHCDK OVCMJ MDAXP RC.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-4 As it dawns K2 [90/20] (-MQYYN) TSOJ
+FLXFE LHFYK LQKPS XJKZY SZLQS NLQKV RXJNS XWQSZ KBEVK KLYFB VQKZL QKGRU JEHSY KGFHW FZJLQ KNXSV KUEHS YKSCL.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-5 Flying Phil K2 [100/21] (NLONB) BOATTAIL
+OELIH CWODG LDOLC CYCDL DNTEL HDOED HBDYG OLCCD HPOEL OMQOE ZWJED CDJPY PCYMU DSCYG ZIWYH OEDPE TYWNG DHDNO LMISF YHYUY.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-6 Makes eating difficult K2 [97/21] (ZYYF) ICECAP
+GNLWW FSGQY LKKZO NQWWX GVLYZ GFFLX BFFZT PGSLA ZRSWR YJPPL NQWWU RTFXG VLAZR MLLWT ZORQW FAFPG FAZRJ GYYZF LYUZA QF.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-7 Naughty, naughty K3 [104/21] (WOMNIG) TSIOLKOVSKY
+FZWUW DSOFB WAFLX BLFLO HWZPV TWEGE WEFZW GOQSA UPVFP LASOM FLVZW VIPXD WLDTW SOWEA WSIPA YPALQ EVWAW VGEFL BTPVW AEWDT SFWE.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-8 Keep input gate open K4 [99/21] (MWLOV) BARK
+QVHGP YYHCR WZVDY PGXQV HGJZD TVJYV DWNXJ VGBTY SGHOW NXCVU UXIXG QVDSX ZDPJN ZBXVG WNXBZ LNWJV DWSVC XZDZY PPSPY ZCVI.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-9 T-shirt slogans K3 [92/19] (UVION) THE RAT
+YALIL JYYAZ FRTIV KYYAL RVVXV WXXTS JZJYA TYZPT JFYRV VXTFX ZPTJF YVWXZ ESVKM TFYWT KRATY SVKDJ LWEWL YOLXV ZY.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-10 Secret ingredients K2 [102/23] (LYMCH) HODDI
+ZCZUG NAFGP MEWMM ESKNX XSKBC ASMSQ MNKSG TDGZS KFYES PCFRR NDCLY KSWMS ZXUCM LIGBU DSKIB WLMCY CVSKW FZKSL CFYGD IGFSF ML.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-11 The cure K3 [99/22] (FCEY) BION
+GHQZU QCLOF KPLNK POFGT BPOYG JNKWN KQGSM PWNCU QBPTM WGZJG ZVKPO FUQKM WNNIO GEQYN ZMPTL NSGHG ZNPZY BLPCN NTTNH MGEN.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-12 Different views K3 [103/20] (QCHX) DANEEL
+XRKZK VVQWQ VXAPW ZONQU VNEPY XXRKC QULXR KPZXQ WQVXK DZKAX VQXXP ARNUS KXRKJ KNOQV XNLMY VXVXR KVNQO VCQOO QNWNJ XRYJC NJL.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+Used dictionary file: ..\..\..\dictionaries\dictionaryFromSols.txt
+Word compares done: 0
+
+A-1 Getting old #8 K2 [89] G-MAN   my spouse wanted to know, "why do you talk to yourself so much?" my answer: "because sometimes i need expert advice."
+A-2 Food for thought K2 [94] HODDI   i cannot remember the books i’ve read any more than the meals i’ve eaten; even so, they have made me. *ralph *waldo *emerson
+A-3 Don’t trust, verify K1 [90] SWEET PEA   don’t believe everything you read on the *internet simply because there’s a picture next to it. *abraham *lincoln
+A-4 Don't look up - or down! K2 [82] SCORPIUS   the *burj *khalifa in *dubai is the world’s tallest building with a total height of just over half a mile.
+A-5 Going up K1 [82] SCORPIUS   the world population was recently estimated by the *united *nations to have exceeded eight billion.
+A-6 Sailing prestige K2 [90] ICER   in sailing, the *america’s *cup is named after the first yacht that won the cup, sloop *america. a prestigious award.
+A-7 On motherhood K3 [94] HONEYBEE   a mother is never really alone in her thoughts. she always has to think twice == once for herself and once for her child.
+A-8 Joe's response K4 [76] TSIOLKOVSKY   simply being reminded of coffee can provoke similar psychological effects to drinking it.
+A-9 Favorable reception K2 [98] TARS TARKAS   the art of acceptance is the art of making someone who has done you a small favor wish he might have done you a greater one.
+A-10 Not so restful K4 [91] THE RAT   on doctor’s advice i went on vacation for a change and a rest. the bellhop got the change and the hotel got the rest.
+A-11 Mythical music? K4 [81] WORD WIZARD   *chicago rock band *styx took name from river in mythology that carried souls of the dead into *hades.
+A-12 On fatherhood K4 [95] PO’ BABY   a father is neither an anchor to hold us back, nor a sail to take us there, but a guiding light whose love shows us the way.
+A-13 Looking for work K2 [94] ICECAP   working at an unemployment office has to be a tense job. if you get fired, you still have to come in to work the next day.
+A-14 Stomach Steinway K2 [100] RIG R MORTIS   years ago, the accordion was so popular in *north *korea that teachers were required to play in order to gain certification.
+A-15 Inflection point K2 [98] WORD WIZARD   person standing on *arctic *circle during summer solstice notices sun midway from horizon to zenith around lunchtime.
+A-16 Seasoned wisdom K2 [88] TARS TARKAS   nothing in human life is more to be lamented, than that a wise man should have so little influence. *herodotus
+A-17 Alive today, born in the twentieth century K3 [92] BION   suppose n is an integer and you will be n years old in a year which is equal to the square of n. what year were you born?
+A-18 Aircraft fire K2 [102] LIONEL   ground troops use their thumbs to decide if enemy planes are within range. those bigger than a thumb at arm’s length can be hit.
+A-19 An author's perspective K2 [99] NIVEK   life is . . . an overlong drama through which we sit being nagged by vague memories having read reviews. critic, author *updike
+A-20 Keep your head up! K2 [102] BARK   resilience is knowing that you are the only one that has the power and the responsibility to pick yourself up. *mary *holloway
+A-21 On simplification K2 [87] SHMOO   the ability to simplify means to eliminate the unnecessary so that the necessary can speak. *hans *hofmann
+A-22 Father time K3 [92] LIONEL   the earth is four and a half billion years old. primitive life first appeared in its ocean four billion years ago.
+A-23 Collectors K3 [95] ICECAP   fanatic sports fans lurk for hours in stadium parking lot hoping to obtain autographs from famous gridiron stars.
+A-24 The magic act K3 [100] SHMOO   __y____y_g being yb __egn_____nin_y_ __eg___yge i___e__e _yy_e_in_y_. i_y_____ byy_e__ _e____eg __g_i_ inne_n_y_.
+A-25 Medieval encounter K4 [99] BION   fake lambrequin surmounts giant helm concealing lycanthrope snout, lures combat=hungry simpleton to brutal destiny.
+
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+prodigious feats of prestidigitation presuppose audience cooperation. avoiding foolery requires visual attention.
+
+plain:  ?qu?nv??f?y?p?laro?cestidg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?TYUIZ?X??O?ERMBQVWCF??K?
+
+A-1 Getting old #8 K2 [89] G-MAN
+UO HCBJHY MQAIYX IB TABM, "MEO XB OBJ IQRT IB OBJGHYRZ HB UJWE?" UO QAHMYG: "VYWQJHY HBUYILUYH L AYYX YNCYGI QXKLWY."
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-2 Food for thought K2 [94] HODDI
+C IYGGHP MFDFDZFM PEF ZHHAO C’RF MFYN YGW DHMF PEYG PEF DFYBO C’RF FYPFG; FRFG OH, PEFW EYRF DYNF DF. *MYBJE *TYBNH *FDFMOHG
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-3 Don’t trust, verify K1 [90] SWEET PEA
+KEC’H ILQALUL LULFXHNACM XET FLGK EC HNL *ACHLFCLH BAZRQX ILJGTBL HNLFL’B G RAJHTFL CLWH HE AH. *GIFGNGZ *QACJEQC
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-4 Don't look up - or down! K2 [82] SCORPIUS
+CYV *QEIG *OYPDZWP ZU *SEQPZ ZB CYV JNIDS’B CPDDVBC QEZDSZUX JZCY P CNCPD YVZXYC NW GEBC NHVI YPDW P FZDV.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-5 Going up K1 [82] SCORPIUS
+VWC PKUHX LKLNHYVTKJ PYA UCBCJVHZ CAVTIYVCX SZ VWC *NJTVCX *JYVTKJA VK WYOC CQBCCXCX CTEWV STHHTKJ.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-6 Sailing prestige K2 [90] ICER
+NT YBNQNTK, ZLH *BSHXNFB’Y *FAV NY TBSHG BJZHX ZLH JNXYZ IBFLZ ZLBZ EUT ZLH FAV, YQUUV *BSHXNFB. B VXHYZNKNUAY BEBXG.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-7 On motherhood K3 [94] HONEYBEE
+N HIYBZX CL VZMZX XZNGGQ NGIVZ CV BZX YBIWABYL. LBZ NGONQL BNL YI YBCVF YOCRZ == IVRZ EIX BZXLZGE NVT IVRZ EIX BZX RBCGT.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-8 Joe's response K4 [76] TSIOLKOVSKY
+TEQRPZ GJEAL BJQEAIJI FK HFKKJJ HDA RBFWFOJ TEQEPDB RTZHMFPFLEHDP JKKJHUT UF IBEAOEAL EU.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-9 Favorable reception K2 [98] TARS TARKAS
+MIR YKM GE YAARHMYFAR TL MIR YKM GE DYNTFC LGDRGFR UIG IYL PGFR WGQ Y LDYBB EYSGK UTLI IR DTCIM IYSR PGFR WGQ Y CKRYMRK GFR.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-10 Not so restful K4 [91] THE RAT
+UF CUSXUK’W VCMGST G PTFX UF MVSVXGUF IUK V SNVFOT VFC V KTWX. XNT ATYYNUH OUX XNT SNVFOT VFC XNT NUXTY OUX XNT KTWX.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-11 Mythical music? K4 [81] WORD WIZARD
+*MRTMGEZ FZMW KGHJ *USCB SZZW HGYP QFZY FTNPF TH YCSRZXZEC SRGS MGFFTPJ UZOXU ZQ SRP JPGJ THSZ *RGJPU.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-12 On fatherhood K4 [95] PO’ BABY
+Z EZYXSJ VK DSVYXSJ ZD ZDOXFJ YF XFTU LK HZOB, DFJ Z KZVT YF YZBS LK YXSJS, HLY Z WLVUVDW TVWXY NXFKS TFMS KXFNK LK YXS NZQ.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-13 Looking for work K2 [94] ICECAP
+HAEJYWV MC MW FWSBNOAKBSWC AUUYQS XMD CA PS M CSWDS ZAP. YU KAF VSC UYESR, KAF DCYOO XMGS CA QABS YW CA HAEJ CXS WSIC RMK.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-14 Stomach Steinway K2 [100] RIG R MORTIS
+DKGEZ GMS, BNK GIISEJPSY AGZ ZS QSQOVGE PY *YSEBN *TSEKG BNGB BKGINKEZ AKEK EKUOPEKJ BS QVGD PY SEJKE BS MGPY IKEBPLPIGBPSY.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-15 Inflection point K2 [98] WORD WIZARD
+GTJLFD LMZDRADP FD *ZJOMAO *OAJOBT RQJADP LQCCTJ LFBLMAOT DFMAOTL LQD CARVZX HJFC EFJAYFD MF YTDAME ZJFQDR BQDOEMACT.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-16 Seasoned wisdom K2 [88] TARS TARKAS
+ABJUNAF NA UKYWA TNOR NH YBGR JB XR TWYRAJRP, JUWA JUWJ W MNHR YWA HUBKTP UWLR HB TNJJTR NAOTKRAZR. *URGBPBJKH
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-17 Alive today, born in the twentieth century K3 [92] BION
+HYEEIHK F JH QF JFLKMKG QFU PIY BJZZ RK F PKQGH IZU JF Q PKQG BOJSO JH KTYQZ LI LOK HTYQGK IV F. BOQL PKQG BKGK PIY RIGF?
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-18 Aircraft fire K2 [102] LIONEL
+MEYCXG IEYYZL CLJ INJQE INCWDL IY GJFQGJ QK JXJWR ZVBXJL BEJ PQINQX EBXMJ. INYLJ DQMMJE INBX B INCWD BI BEW’L VJXMIN FBX DJ NQI.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-19 An author's perspective K2 [99] NIVEK
+KPHO PL . . . XA BROGKBAN JGXEX MUGBQNU SUPZU SO LPM YOPAN AXNNOJ YV RXNQO EOEBGPOL UXRPAN GOXJ GORPOSL. ZGPMPZ, XQMUBG *QCJPIO
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-20 Keep your head up! K2 [102] BARK
+DXFECEXOVX EF AOUKEOZ GTQG MUH QDX GTX UOCM UOX GTQG TQF GTX SUKXD QOW GTX DXFSUOFERECEGM GU SEVA MUHDFXCY HS. *IQDM *TUCCUKQM
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-21 On simplification K2 [87] SHMOO
+FZW RSEMEFP FT DENOMEXP NWRAD FT WMENEARFW FZW GAAWUWDDRCP DT FZRF FZW AWUWDDRCP URA DOWRI. *ZRAD *ZTXNRAA
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-22 Father time K3 [92] LIONEL
+HLN NBDHL VF GZJD BWX B LBIG YVIIVZW SNBDF ZIX. ADVUVHVKN IVGN GVDFH BAANBDNX VW VHF ZONBW GZJD YVIIVZW SNBDF BMZ.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-23 Collectors K3 [95] ICECAP
+TPVPOUY MNIBOM TPVM QCBR TIB AICBM UV MOPZUCK NPBRUVW QIO AINUVW OI IXOPUV PCOIWBPNAM TBIK TPKICM WBUZUBIV MOPBM.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+A-24 The magic act K3 [100] SHMOO
+MQRYXZXRCV IUPWV RI MQUVWXYXZXWPWXRE MQUVCMMRVU PCYXUETU TRRMUQPWXRE. PFRXYXEZ IRROUQK QUBCXQUV FXVCPO PWWUEWXRE.
+prodigious feats of prestidigitation presuppose audience cooperation. avoiding foolery requires visual attention.
+
+plain:  ?qu?nv??f?y?p?laro?cestidg
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: P?TYUIZ?X??O?ERMBQVWCF??K?
+
+A-25 Medieval encounter K4 [99] BION
+LECS FEGRKSJVYH TVKGZVHWT DYEHW XSFG UZHUSEFYHD FPUEHWXKZIS THZVW, FVKST UZGREW=XVHDKP TYGIFSWZH WZ RKVWEF ASTWYHP.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-1 Advice by MLK, Jr K1 [103/21] (QBUNYPYL) DANEEL
+XDPTL BZYKD HPKEV YSLYX DPTLB ZYKSL YKEVY NZHGX DPTLB ZYKNZ HGKEV YBSZN HALKN EZKVM VSPTL CTPTL EZMVK TGVVR ITMXY UDTSN ZSC.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-2 Need memory K2 [92/18] (MJYWCZCW) RIG R MORTIS
+RTFWB RBVXQ OCTUT CDFBI WTMKB GDGSS TMRKU BCVTF ODATQ XUXQI BCSXD FWTCT OIBCS FBGDT XUKBG UBCVT FRTFW BRBVX QO.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-3 Entertainment K2 [102/21] (JYIJFY) OOBOO
+PORJO DLAXF YDFAY MDDLK TCXFT RBDCY RKDJY YUTXZ VABJP OYCKO YRWTC JKTRT KODBY TCXJY YUTXK YAYNV JVDCZ DHCDK OVCMJ MDAXP RC.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-4 As it dawns K2 [90/20] (-MQYYN) TSOJ
+FLXFE LHFYK LQKPS XJKZY SZLQS NLQKV RXJNS XWQSZ KBEVK KLYFB VQKZL QKGRU JEHSY KGFHW FZJLQ KNXSV KUEHS YKSCL.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-5 Flying Phil K2 [100/21] (NLONB) BOATTAIL
+OELIH CWODG LDOLC CYCDL DNTEL HDOED HBDYG OLCCD HPOEL OMQOE ZWJED CDJPY PCYMU DSCYG ZIWYH OEDPE TYWNG DHDNO LMISF YHYUY.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-6 Makes eating difficult K2 [97/21] (ZYYF) ICECAP
+GNLWW FSGQY LKKZO NQWWX GVLYZ GFFLX BFFZT PGSLA ZRSWR YJPPL NQWWU RTFXG VLAZR MLLWT ZORQW FAFPG FAZRJ GYYZF LYUZA QF.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-7 Naughty, naughty K3 [104/21] (WOMNIG) TSIOLKOVSKY
+FZWUW DSOFB WAFLX BLFLO HWZPV TWEGE WEFZW GOQSA UPVFP LASOM FLVZW VIPXD WLDTW SOWEA WSIPA YPALQ EVWAW VGEFL BTPVW AEWDT SFWE.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-8 Keep input gate open K4 [99/21] (MWLOV) BARK
+QVHGP YYHCR WZVDY PGXQV HGJZD TVJYV DWNXJ VGBTY SGHOW NXCVU UXIXG QVDSX ZDPJN ZBXVG WNXBZ LNWJV DWSVC XZDZY PPSPY ZCVI.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-9 T-shirt slogans K3 [92/19] (UVION) THE RAT
+YALIL JYYAZ FRTIV KYYAL RVVXV WXXTS JZJYA TYZPT JFYRV VXTFX ZPTJF YVWXZ ESVKM TFYWT KRATY SVKDJ LWEWL YOLXV ZY.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-10 Secret ingredients K2 [102/23] (LYMCH) HODDI
+ZCZUG NAFGP MEWMM ESKNX XSKBC ASMSQ MNKSG TDGZS KFYES PCFRR NDCLY KSWMS ZXUCM LIGBU DSKIB WLMCY CVSKW FZKSL CFYGD IGFSF ML.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-11 The cure K3 [99/22] (FCEY) BION
+GHQZU QCLOF KPLNK POFGT BPOYG JNKWN KQGSM PWNCU QBPTM WGZJG ZVKPO FUQKM WNNIO GEQYN ZMPTL NSGHG ZNPZY BLPCN NTTNH MGEN.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+P-12 Different views K3 [103/20] (QCHX) DANEEL
+XRKZK VVQWQ VXAPW ZONQU VNEPY XXRKC QULXR KPZXQ WQVXK DZKAX VQXXP ARNUS KXRKJ KNOQV XNLMY VXVXR KVNQO VCQOO QNWNJ XRYJC NJL.
+
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: 
+
+Used dictionary file: ..\..\..\dictionaries\words.txt
+Word compares done: 219646
+
+A-24 The magic act K3 [100] SHMOO   prodigious feats of prestidigitation presuppose audience cooperation. avoiding foolery requires visual attention.
+

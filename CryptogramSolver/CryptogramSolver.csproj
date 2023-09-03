@@ -6,4 +6,8 @@
 	<UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="cryptograms\2023\JA2023\" />
+  </ItemGroup>
+
 </Project>

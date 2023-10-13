@@ -60,6 +60,7 @@ namespace CryptogramSolver
             string cleanedCryptogram = "";
             cleanedCryptogram = this.cryptogram.Replace("'", "");
             cleanedCryptogram = cleanedCryptogram.Replace(",", "");
+            cleanedCryptogram = cleanedCryptogram.Replace("�", "");            
             cleanedCryptogram = cleanedCryptogram.Replace(":", "");
             cleanedCryptogram = cleanedCryptogram.Replace(";", "");
             cleanedCryptogram = cleanedCryptogram.Replace(".", "");

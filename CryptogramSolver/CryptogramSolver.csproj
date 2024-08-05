@@ -8,6 +8,9 @@
 
   <ItemGroup>
     <Folder Include="cryptograms\2023\JA2023\" />
+    <Folder Include="cryptograms\2023\ND2023\" />
+    <Folder Include="cryptograms\2024\JF2024\" />
+    <Folder Include="cryptograms\2024\MA2024\" />
   </ItemGroup>
 
 </Project>

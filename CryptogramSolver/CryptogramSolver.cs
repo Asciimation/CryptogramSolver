@@ -12,11 +12,11 @@ namespace CryptogramSolver
         const int LineSize = 55;
 
         // File path of dictionary files.
-        public string dictionaryFilePath = ".." + Path.DirectorySeparatorChar + ".." + Path.DirectorySeparatorChar + ".." + Path.DirectorySeparatorChar + "dictionaries";
+        public string dictionaryFilePath = ".\\dictionaries";
         public string dictionaryFullPath;
 
         // FileName for our compiled dictionary.
-        string compiledDictionaryFileName = ".." + Path.DirectorySeparatorChar + ".." + Path.DirectorySeparatorChar + ".." + Path.DirectorySeparatorChar + "dictionaries" + Path.DirectorySeparatorChar + "dictionaryFromSols.txt";
+        string compiledDictionaryFileName = "dictionaries" + Path.DirectorySeparatorChar + "dictionaryFromSols.txt";
 
         // File names for output files.
         string solsFile = Path.DirectorySeparatorChar + "Sols.txt";

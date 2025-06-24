@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "process",
+			"label": "build CryptogramSolver",
+			"command": "dotnet",
+			"args": [
+				"build",
+				"${workspaceFolder}/CryptogramSolver/CryptogramSolver.csproj"
+			],
+			"group": "build",
+			"problemMatcher": ["$msCompile"]
+		}
+	]
+}

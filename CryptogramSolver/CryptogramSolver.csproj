@@ -11,6 +11,8 @@
     <Folder Include="cryptograms\2023\ND2023\" />
     <Folder Include="cryptograms\2024\JF2024\" />
     <Folder Include="cryptograms\2024\MA2024\" />
+    <Folder Include="cryptograms\2025\MA2025\" />
+    <Folder Include="cryptograms\2025\MJ2025\" />
   </ItemGroup>
 
 </Project>

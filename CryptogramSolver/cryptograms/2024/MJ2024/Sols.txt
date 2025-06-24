@@ -361,3 +361,12 @@ A-23 Punish or perish K3 [100] G-MAN   _y assisting in the circulation o_ their 
 A-24 No dirty fight! K3 [99] ERICONHISWAY   *_udo, "the _ay of softness", is a martial art guided _y courtesy, courage, friendship, honesty, honor, modesty, respect, control.
 A-25 What can you see from there? K2 [99] FOUR-DEE   *sarah *parcak combines satellite imagery with thermal imaging to identify previously unknown archaeological sites.
 
+
+A-8 Boldness K2 [89] TARS TARKAS
+*YKMLORS: UP FO ASTDXN PKUX? *XKNI *YKMLORS: FO PKUX! LDR AMBOF ITDB MTDBKQO RT RSO ARUMWUZQ HXKMO, KZN FO'XX ZTR PKUX.
+*_______: __ __ ______ ____? *____ *_______: __ ____! ___ _____ ____ _______ __ ___ ________ _____, ___ __'__ ___ ____.
+
+plain:  ??????????????????????????
+cipher: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+plain:  abcdefghijklmnopqrstuvwxyz
+cipher: ??????????????????????????

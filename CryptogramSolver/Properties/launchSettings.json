@@ -2,7 +2,7 @@
   "profiles": {
     "CryptogramSolver": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\GGPC\\source\\repos\\CryptogramSolver\\CryptogramSolver\\cryptograms\\2024\\mj2024\\mj2024DigitalCons.txt\" \"words.txt\" "
+      "commandLineArgs": "\"C:\\Users\\GGPC\\source\\repos\\CryptogramSolver\\CryptogramSolver\\cryptograms\\2025\\ma2025\\ma2025DigitalCons.txt\" \"english.txt\" "
     }
   }
 }

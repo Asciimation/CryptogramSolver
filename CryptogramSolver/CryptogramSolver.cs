@@ -845,16 +845,13 @@ namespace CryptogramSolver
                 file.WriteLine();
                 // For each cryptogram.
                 foreach (Cryptogram a in cryptograms)
-                {
-                    if (!a.isPatristocrat)
+                {  
+                    if (a.solution != string.Empty && !a.heading.TrimStart().StartsWith("P-"))
                     {
-                        if (a.solution != string.Empty)
-                        {
-                            file.Write(a.heading);
-                            file.Write("   ");
-                            file.WriteLine(a.solution);
-                        }
-                    }
+                        file.Write(a.heading);
+                        file.Write("   ");
+                        file.WriteLine(a.solution);
+                    }                    
                 }
                 file.WriteLine();
             }

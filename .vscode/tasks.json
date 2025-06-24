@@ -3,13 +3,16 @@
 	"tasks": [
 		{
 			"type": "process",
-			"label": "build CryptogramSolver",
+			"label": "build",
 			"command": "dotnet",
 			"args": [
 				"build",
 				"${workspaceFolder}/CryptogramSolver/CryptogramSolver.csproj"
 			],
-			"group": "build",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
 			"problemMatcher": ["$msCompile"]
 		}
 	]

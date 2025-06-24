@@ -13,7 +13,6 @@ namespace CryptogramSolver
             string heading = "";
             string cryptogram = "";
             bool readingCryptogram = false;
-            bool isPatristocrat = false;
             string cryptogramToSolve = "";
             string substitutions = "";
 
@@ -78,18 +77,9 @@ namespace CryptogramSolver
                     // Remove the . from the heading.
                     heading = heading.Replace(".", "");
                 }
-                else if ((line.StartsWith("P-")) && (char.IsNumber(line[2])))
-                {
-                    // If this is a pastriocrat we will remove the spaces before printing.
-                    readingCryptogram = true;
-                    heading = line;
-                    // Remove the . from the heading.
-                    heading = heading.Replace(".", "");
-                    isPatristocrat = true;
-                }
                 else
                 {
-                    // Not an aristocrat or patristocrat so ignore.
+                    // Not an aristocrat so ignore.
                 }
 
                 // Read in the lines of the cryptogram.
@@ -105,7 +95,7 @@ namespace CryptogramSolver
                     // Strip trailing space.
                     cryptogram = cryptogram.Trim();
                     // Store this aristocrat.
-                    Cryptogram newCryptogram = new Cryptogram(heading, cryptogram, isPatristocrat);
+                    Cryptogram newCryptogram = new Cryptogram(heading, cryptogram);
                     newCryptogram.Initialise();
                     h.cryptograms.Add(newCryptogram);
                     cryptogram = "";
@@ -115,7 +105,7 @@ namespace CryptogramSolver
             if (generateHtml == true)
             {
                 // Generate the HTML.
-                Console.WriteLine("Generating html files for all aristorcats and patristocrats.");
+                Console.WriteLine("Generating html files for all aristorcats.");
                 foreach (Cryptogram crypto in h.cryptograms)
                 {
                     h.GeneratePrintableOutput(inputFile, crypto);
@@ -144,14 +134,11 @@ namespace CryptogramSolver
                     Console.WriteLine("Using dictionary: " + h.dictionaryFilePath + "//" + dictionaryFile);
 
                     foreach (Cryptogram cryptoToSolve in h.cryptograms)
-                    {
-                        if (!cryptoToSolve.isPatristocrat)
-                        {
-                            // Solve the aristocrat.
-                            h.SolveCryptogram(cryptoToSolve);
-                            // Reset after each one.
-                            h.Reset();
-                        }
+                    {                        
+                        // Solve the aristocrat.
+                        h.SolveCryptogram(cryptoToSolve);
+                        // Reset after each one.
+                        h.Reset();
                     }
                     // Update the solutions file.
                     h.PrintAllSolsToFile(inputFile);
@@ -170,14 +157,9 @@ namespace CryptogramSolver
                     // Are we solving a new cryptogram?
                     if (solveSameInput.ToLower() == "n")
                     {
-                        Console.Write("Cryptogram to solve (A-?? or P-??): ");
+                        Console.Write("Cryptogram to solve (A-??): ");
                         cryptogramToSolve = Console.ReadLine();
-                        bool isPatristocratToSolve = false;
                         string type = cryptogramToSolve.Substring(0, 1).ToUpper();
-                        if ( type == "P")
-                        {
-                            isPatristocratToSolve = true;
-                        }
 
                         numberToSolve = cryptogramToSolve.Substring(2, cryptogramToSolve.Length - 2);
                         h.cryptogramNumberToSolve = Int32.Parse(numberToSolve);
@@ -194,15 +176,10 @@ namespace CryptogramSolver
                             string numToSolve = cryptoNumber.Substring(2, cryptoNumber.Length - 2);
                             if (Int32.Parse(numToSolve) == h.cryptogramNumberToSolve)
                             {
-                                // Check if a patristrocrat or not.
-                                if ( ((cryptoToSolve.isPatristocrat == true)  && (isPatristocratToSolve == true)) ||
-                                    ((cryptoToSolve.isPatristocrat == false) && (isPatristocratToSolve == false)))
-                                {
-                                    // We found it.
-                                    cryptogramToBeSolved = cryptoToSolve;
-                                    foundCryptogramToSolve = true;
-                                    break;
-                                }
+                                // We found it.
+                                cryptogramToBeSolved = cryptoToSolve;
+                                foundCryptogramToSolve = true;
+                                break;
                             }
                         }
 
@@ -268,17 +245,10 @@ namespace CryptogramSolver
                     Console.WriteLine("Solving single cryptogram: " + h.cryptogramNumberToSolve);
                     Console.WriteLine("Using dictionary: " + dictionaryFile);
                     h.SolveCryptogram(cryptogramToBeSolved);
-                    if (cryptogramToBeSolved.isPatristocrat)
-                    {
-                        h.PrintSolToFile(inputFile, h.cryptogramNumberToSolve + 25);
-                    }
-                    else
-                    {
-                        h.PrintSolToFile(inputFile, h.cryptogramNumberToSolve);
-                    }
+                    h.PrintSolToFile(inputFile, h.cryptogramNumberToSolve);
 
                     // Check if all words in this aristocrat are solved in which case we can add them to the dictionary.
-                    if ( !(cryptogramToBeSolved.isPatristocrat) && (cryptogramToBeSolved.numberOfUnknowns == 0) )
+                    if (cryptogramToBeSolved.numberOfUnknowns == 0)
                     {
                         h.AddToDictionary();
                     }

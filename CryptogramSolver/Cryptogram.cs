@@ -14,7 +14,6 @@ namespace CryptogramSolver
 
         public string heading = "";
         public string cryptogram = "";
-        public bool isPatristocrat = false;
         public string cleanedCryptogram = "";
         // Lines split for printing.
         public ArrayList printableLines = new ArrayList();
@@ -25,11 +24,10 @@ namespace CryptogramSolver
         public string cipherAlphabet = "";
         public int numberOfUnknowns = 0;
 
-        public Cryptogram(string heading, string cryptogram, bool isPatristocrat)
+        public Cryptogram(string heading, string cryptogram)
         {
             this.heading = heading;
             this.cryptogram = cryptogram;
-            this.isPatristocrat = isPatristocrat;
 
             for (int i = 0; i < 26; i++)
             {
@@ -84,12 +82,6 @@ namespace CryptogramSolver
                 cleanedCryptogram = cleanedCryptogram.Replace("  ", " ");
             }
 
-            // Is this a patristocrat?
-            if (this.isPatristocrat == true)
-            {
-                Console.WriteLine("Cryptogram is a patristocrat - removing spaces.");
-                cleanedCryptogram = cleanedCryptogram.Replace(" ", "");
-            }
 
             this.cleanedCryptogram = cleanedCryptogram;
             Console.WriteLine("Cleaned cryptogram: " + this.cleanedCryptogram);

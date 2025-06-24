@@ -16,7 +16,7 @@
             ],
             "cwd": "${workspaceFolder}/CryptogramSolver",
             "stopAtEntry": false,
-            "console": "internalConsole"
+            "console": "integratedTerminal"
         }
     ]
 }
